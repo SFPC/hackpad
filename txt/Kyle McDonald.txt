@@ -1,0 +1,119 @@
+Kyle McDonald
+SFPC 2013
+__________________________________________________________________________________
+editing
+Projection Mapping
+ * Pablo Valbuena
+*
+http://vimeo.com/pablovalbuena
+ * Snake The Planet
+*
+http://vimeo.com/37637793
+   * go around the city and play the game snake.
+   * create obstacles based on scanned objects on the wall.
+   * Done in OpenFrameworks
+   * I think we;re missing on the possibility of interactive art with pets.
+ * Projection Mapping Tetragram
+*
+http://vimeo.com/5374101
+ * Box
+*
+http://vimeo.com/75260457
+   * Making the real world look like CGI.
+Mapamok
+ * ProCamToolkitPage
+     * https://github.com/YCAMInterlab/ProCamToolkit/wiki/mapamok-(English)
+   * Shaders
+     * Difference between the GPU and the CPU
+       * maybe the CPU better called "SPU" (Serial Processing Unit)
+       * maybe the GPU is better called "PPU" (Parallel Processing Unit)
+         * historically there was no GPU, until video games
+         * Main Part
+           * math
+           * stores information (RAM)
+           * connected to your hardrive, mouse, keyboard, internet, sound
+         * Graphics Card
+           * math
+           * stores information (RAM)
+           * display
+       * Both have their specialties, what they are good at doing, GPU is good at things that happen in parallel, CPU and do things in serial.
+         * Parallel
+           * Manipuating Images
+           * Lighting 3d models
+           * Math processes that you have to do at the same time.
+         * Procedurally
+           * Processing Audio
+       * CPU pushes to the GPU
+         * update( ); -->
+         * read to pixels <--
+         * conenction exist on your motherboard.
+       * When writing code in the CPU
+         * Javascript, Ruby, Node, Haskell, Pascal, C++, OpenGL, OpenMax
+         * this code can manipulate your GPU but runs on your CPU 
+         * The flow of your code can be varied.
+         * Can control how the rendering is done on the GPU.
+       * Writing in the GPU
+         * GLSL, HLSL, OpenCL, Cuda, Nvidia New Shading Language for Game Developments
+         * Runs directly on your GPU
+         * When writing for the graphics card the flow is always the same. Your code runs once per pixel, once per vertex.
+         * Fragment is another word for pixel.
+         * The main thing that has been driving graphics cards, is video games.
+           * Artist get whatever the video game industry releases.
+       * Shared Memory
+         * ....
+         * You can have memory on the GPU that you upload directly to the CPU.
+       * Master Render Farm
+     * Fragment
+         * What color is this pixel.
+         * Bump Mapping
+           * Changes the look based on some texture you've given it.
+     * Vertex
+         * Where should this vertex be.
+         * Displacement Mapping
+           * Changes vertices based on on some texture you've given it.
+     * Geometry
+         * Given a vertex, what vertices should we create from that.
+     * Tesselation
+         * advance shader.
+   * What is hard to do with the graphics card, that can't be done for game.
+     * Computer vision algorythms on the GPU.
+       * Can do but the tools for it haven't existed till recent;y.
+     * Sound processing.
+       * Reverb.
+       * Things that are the sound level of latency.
+   * What happens when an image is drawn to your screen.
+     * Traingles have teture coordinates.
+     * Each of these coordinates, have a varying value.
+     * Fragment shader runs across your whole screen.
+       * Gets an interpolated version of that varying value.
+     * Thowing sheets of mirrorball material over a couch.
+       * Light Leaks Kyle McDonald
+*
+http://vimeo.com/66167082
+         * Structures on the walls are based on the reflection coming from the Mirrorballs that are being projected onto.
+         * Computer Vision with Structure Light
+         * Take a 3d models and line it up.
+     * Camamuk
+       * Line up vertices with an image.
+   * Easy to Prototype with GLSL.
+   * Normally when doing processing, your code is being compiled or interpreted, but width Glsl, its compiled by the graphic card.
+     * can write new code.
+     * artist who generatively make art on the graphics card.
+   * Johnathan McCabe
+       * http://www.jonathanmccabe.com/
+       * Most of his work is done on the GPU.
+       * Taking advantage that the code is compiled on the graphics card.
+       * Generates the code to generate the image with code.
+       * Reaction diffusion and feedback.
+       * Reaction Diffusion - really common algorithms for a lot of animal patterns and shapes in nature. 
+*
+http://www.flickr.com/photos/jonathanmccabe/
+     * Scoot Draves
+         * scootdraves.com
+           * Creator of Electric Sheep.
+         * works at google.
+         * tends to use fractals, and recursion.
+       * Unallocated texture Glitch
+       * Uninitialized Variable Memory
+       * 
+

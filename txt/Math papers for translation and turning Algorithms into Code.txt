@@ -1,0 +1,15 @@
+Math papers for translation and turning Algorithms into Code
+
+
+De Casteljau's Algorithm
+ * How could I go from something I find like De Castlejau's algorithm, into code?
+ * http://en.wikipedia.org/wiki/De_Casteljau's_algorithm
+ * This specific algorithm I've already found in Python so I'm all set, but where would I even begin if I couldn't find a code sample?
+ * If I were to self-learn, what area(s) of math would I need to be comfortable with to work with an algorithm like this?
+
+Continuity Conditions for Spline Curves
+ * Fitting a smooth curve through a sequence of points, while mainting G2 curve continuity
+ * http://comjnl.oxfordjournals.org/content/17/2/181.full.pdf
+
+
+

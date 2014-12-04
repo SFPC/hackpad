@@ -1,0 +1,159 @@
+Zach's Python & Text Parsing Workshop
+
+(class notes)
+
+Recommends book on programming for biologists
+ * need proper book reference
+
+Basic text parsing with Python
+Starting out with a text file of the bible.
+There are various databases of text available for parsing, either through project gutenburg or what have you.
+
+
+Frequent uese of "print" to get a sense of what's happening. 
+ * print "hello"
+And lists, aka arrays, but thery are called lists in Python. They are indexed.
+ * words = ['hello','mom','how','are','you']
+
+Like many other higher level languages, you can easily iterate through a list or set of words without typing much text, way more convenient than C++ loops, for example.
+ * for word in words:
+ *     print word
+
+Sorted takes a list and sorts it. 
+
+All tools make is easy to generate text by iterating over lists.
+
+
+
+Open file and read it out - 
+ * with open ("bible-j=kjv.txt", "r") as myfile:
+ *      data=myfile.read()
+     
+(Everything in this lesson is the product of a google search. Zach is not a Python pro.)
+
+Split is a tokenizer, take a string and break it up at a certain token. To take all the words and spit them at spaces into alist:
+ * words = data.split()
+
+clean out white space on either end of list items
+then transform everything lowercase
+put it in a new list called cleanWords
+
+ * cleanWords = []
+ * for word in words:
+ *      word = word.strip()
+ *      word = word.lower()
+ *      cleanWords.append(word)
+
+
+There is no function for removing punctuation, but we can make a for loop and iteratively remove puncturations.
+(see Zach's code for the punctuation string)
+
+But what about Triple Quoted String Literals!?!?
+http://anh.cs.luc.edu/python/hands-on/3.1/handsonHtml/strings2.html
+
+And what about scoping? It's different and kinda funky.
+
+Nice thing about python is that it reads like English, much like Lingo.
+
+Once you've defined the punctuations, clean out all punctuartion marks and put it in a new list.
+ * superCleanWords = []
+ * 
+ * for word in cleanWords:
+ *      noPunct = ""
+ *      for char in word:
+ *           if char not in punctuations:
+ *                noPunct = noPunct + char
+ *      if noPunct is not "":
+ *           print noPunct
+ *           superCleanwords.append(noPunct)
+ *           
+          
+Now sort the super clean word list alphabetically -
+          
+ All example code is in this repo:
+https://github.com/ofZach/pythonTextExamples
+
+You can discover somethign about a text by opening it up and sorting it. 
+
+ * nee to add photo
+
+a colon operator allows us to indicate where a slice starts or ends. 
+
+to run a python script, type 'python' followed by the file name into the command line. 
+
+Data Scaping
+Zach is a fan of not using APIs and just scraping websites. Sometimes websites will block you if you do this too much.
+
+onelook.com is handy for this. 
+
+To get around this, use a proxy or a useragent. Or add human style delays.
+
+Beautiful Soup
+http://www.crummy.com/software/BeautifulSoup/
+
+ * Beautiful Soup is a Python library designed for quick turnaround projects like screen-scraping. Three features make it powerful.
+
+When using a new Python library, you can use various command line installers. pip is one example.
+
+From the command line
+ * sudo pip install BeautifulSoup
+ * 
+Some packages like urllib come packaged with Python, no need to install it to use it.
+https://docs.python.org/2/library/urllib.html
+
+Once all your libraries are installed, import the libraries at teh top of your python file so your script can use them.
+
+For example, let's scrap all the images off the CNN website
+
+ * import urllib
+ * from bs4 import BeautifulSoup
+ * 
+ * page = urllib.urlopen("http://www.cnn.com/").read()
+ * soup = BeautifulSoup(page)
+ * print soup
+ * imgTags = soup.final_all('img')
+ * form ime in imgTags:
+ *      print img['src']
+ *      call(["wget", img['src']])
+ * 
+ * you may need to install wget, use brew on osx (brew install wget).  If you don't have brew install, install brew :)
+
+So, how would we scrape search results off of onelook.com?
+See if you can find patterns in teh site. 
+In the case of onelook.com, the links have a regualr pattern. You could grab the results based on a link pattern.
+In the case of onelook.com, results are paginated, so include a loop to load the next page.
+
+ * def loadPage( urlToOpen );
+ *      page = urllib.urlopen(urlToOpen).read()
+ *      soup = BeautifulSoup(page)
+ *      aTags = soup.find_all('a')
+ *      for aTag in aTags:
+ *           if "lool" in aTag.text:
+ *               print aText.text
+ *           if ">>" in aTag.text:
+ *                url = "http://www.onelook.com" + aTag["href"]
+ *                loadPage(url)
+ *               
+ *  loadPage("http://www.onelook.com/?w=look&ls=a")
+ *  
+ *  
+ *  
+ *  
+ * Be sure to reference Zach's github for vetted code. The code here hasn't been tested and  might contain errors. These notes are to help wiht understanding, not execution!
+python-Levenstein
+     https://pypi.python.org/pypi/python-Levenshtein/0.11.2
+"Python extension for computing string edit distances and similarities."
+Assesses the numerical distance between each other.
+ http://en.m.wikipedia.org/wiki/Levenshtein_distance
+ 
+ Play around with worldclock
+ http://nickm.com/post/2013/11/world-clock/
+ Reverse engineer the code
+ 
+The fresh function takes the item in teh front of the list and puts it at the end.
+The modifiers list takes a positive and negative descriptor and combines them with the word yet to produce many more options.
+Smart systems for iterating through a set of lists makes for a very wide set of possibilities in teh generated literature  with a very limited set of input.
+ 
+
+     
+

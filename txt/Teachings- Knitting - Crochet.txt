@@ -1,0 +1,91 @@
+Teachings: Knitting & Crochet
+
+ * Crochet
+Fun Things
+ * T Shirt Yarn
+ * how to cut shirts (use thinner shirts and tshirt sheets are awesome)
+ * simple ones, fancy ones
+ * Amigurumi 
+ * Make things! look
+ * Combine electronics with the things. 
+*
+   * I made a beating heart for Gamma IV at GDC for 'One Button Objects' using a heart 'button' from build a bear
+
+Terms
+Row - each line of a crochet project
+
+Chain (ch)
+ * Make a first chain. Then yarn over hook and draw through a loop on the hook to make one chain.
+ * video example
+ * symbol:
+*
+
+Single Crochet (sc) 
+ * Insert the hook into the given stitch, yarn over hook and draw through a loop, (2 loops on hook), yarn over hook and draw through 2 loops on hook (1 loop remains on hook).
+ * video example
+ * symbol:
+*
+Slip Stitch (sl st)
+ * Insert the hook into the stitch, yarn over hook and draw through a loop, draw this loop through loop on the hook. When a number of chains have to be joined into a circle, the circle closed with a slip stitch.
+ * video example
+ * symbol:
+ *
+Double Crochet (dc)
+ * Yarn over hook, insert hook into stitch, yarn over hook and draw through a loop (3 loops on hook), yarn over hook and draw through 2 loops on hook, yarn over hook and draw through remaining 2 loops on hook (1 loop remains on hook).
+ * video example
+ * symbol: *
+Triple Crochet (tc)
+ * Yarn over hook 2 times, insert hook into stitch, yarn over hook and draw through a loop ( 4 loops on hook), yarn over hook and draw through 2 loops on hook, yarn over hook and draw through next 2 loops on hook, yarn over hook and draw through remaining 2 loops on hook (1 loop remains on hook).
+ * video example 
+ * symbol: *
+
+Patterns
+
+ * Granny Square
+ * so many variations (look)
+ * small ones can be combined into larger projects (dresses ;-) or blankets)
+ * *
+
+ * Heart 
+ * To begin, Chain 2.
+ * Row 1: 2 single crochet (sc) in second chain froom hook. Chain 1, turn.
+ * Row 2: 2 sc in each stitch. Chain 1, turn.
+ * Row 3: 2 sc in first stitch, 1 sc in next 2 stitches, 2sc in last stitch. Chain 1, turn.
+ * Row 4: 2 sc in next sc, sc in next 4 sc, 2 sc in next sc.  Chain 1, turn.
+ * Row 5: 2 sc in next sc, sc in next 6 sc, 2 sc in next sc.  turn (no chain).
+ * Row 6: skip 2, (2 dc, 4 tr, 2 dc) in next sc, skip 1, sl st in next sc, skip 1, (2 dc, 4 tr, 2 dc) in next sc, skip 2, sl st in next sc.
+ * To finish the hearts, slip the stitch down one side of the heart, approximately 6 slip stitches to the bottom. Chain 1 at the bottom of the heart, and slip stitch up the other side of the heart. Slip stitch to first chain of row 7.
+ * Fasten off and weave in tails.
+*
+ * 
+Flower (2 colors)
+   * To begin: Chain 7.
+   * Connect the ends of the chain by using a slip stitch to connect your current stitch to the first stitch you made.
+   * Chain 2.
+   * Double crochet 11 stitches into the middle of the ring/circle you made in previous step. All stitches will go through middle hole of the ring/circle. (You should have 12 stitches in total around the ring/circle: the first 2 chains act as one double crochet.)
+   * Connect first double crochet stitch to 12th double crochet stitch with a slip stitch. Cut, tie, and weave in ends.
+   * Take your other color and do a slip stitch to get it onto your hook.
+   * Insert your hook between 2 of the 12 double crochets and chain 2.
+   * Triple crochet 2 more stitches into the same place.
+   * Take your hook out of the current stitch's loop and put it through the top of your first 2 chains.
+   * Take the tip of last triple crochet by grabbing it with your hook and pulling it through the top of the first two chains. (This makes the petal look a little bit 3D.)
+   * Chain 2.
+   * Double crochet 1 stitch into the next spot (between 2 double crochets) and then triple crochet 2 more. Repeat steps i-k.
+   * Repeat step k for every spot around the ring/circle. 
+   * When last petal has been made, connect to first petal using a slip stitch.
+   * Cut, tie and weave in ends.
+Here's a link that's very similar: http://tillietulip.blogspot.ie/2012/06/to-beg-chain-ch-5-and-join-to-form.html
+
+Some reference projects:
+ * Reaction diffusion textiles by Alex Wolfe
+ * Knitting for fun: a recursive sweater
+ * Spyn by Daniela Rosner
+ * Knitic
+ * https://twitter.com/knyttan
+ * Zero's & Ones - book review
+ * Knitting as Programming: http://infotrope.net/2012/05/16/knitting-as-programming/
+ * Knitters and Coders, separated at birth? - http://www.cs4fn.org/regularexpressions/knitters.php
+
+
+
+

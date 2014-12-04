@@ -1,0 +1,148 @@
+Input/Output
+
+Monday April 21
+ * I want you to take a piece of paper and write down every question that you have around this field, this school, computation and artistic practice.
+ * What was really nice about this process we are starting from this place "What is it that we want to know".
+ * The Questions lead to conversation, and that's what we want to promote here.
+ * Questions & Categories
+   * Questions about ourselves our intentions and what we want.
+   * Questions about the work we make and how we make it.
+   * Universal questions, why...essential to being human.
+   * Catalyzing human experiences via computation.
+   * Thinking about computation beyond problem solving.
+   * When do you stop getting this skills and knowledges.
+   * Shared interests in images and shapes.
+   * Wishes about developing creative communities.
+   * Translating invisible, digital, and ephemeral thing into more physical and tangible experiences.
+     * Natalie Miebach turns weather data into sculpture
+     * Piet is a language that uses bmp instead of 
+   * Technical Question
+     * How do you map physical spaces digitally.
+ *  maybe think about how to lie with maps  
+     * How do you map digital spaces physically.
+       *  not really mapping, but MIT has Ubiquitous Sensor Portals 
+   * Questions of execution and implementation.
+   * Existential Questions.
+   * What is internet folk art?
+   * How can we explore textures digitally and physically.
+   * Ontological Category.
+   * What is the difference between a human and a computer.
+   * Political Questions.
+   * Emotional Questions.
+
+ * Binary Numbers
+
+ * Propositions
+   * Building a teaching tool.
+   * Inventing a new thing.
+   * Have different tracks to post the right questions.
+ * Sometimes there are different needs that people have.
+
+General Talk about Computation
+ * Computation
+   * Numbers, Data, interpretation, Screen, Calculate, Math, Electricity, Logic, Keyboard, Automation, Internet, i/o, portal, cpu, circuits, thinking. system, code, tools, computers, permutation, programming.
+     * Computation is rooted in this sort of language.
+   * What is a really good definition for computation.
+   * Computation used to be a job, where humans used tax tables and would be used to do math quickly.
+   * Programming in Code
+     * What the the concepts we need to write code, the building blocks.
+     * Some of the hardest parts of learning this stuff is learning how to phrase the problem.
+     * If you have a better sense of the terminology the back and forth between you and the computer can be better.
+     * Some of these will be nouns and some verbs
+       * Binary
+         * 0 1 0 1
+       * Data Type
+         * Numbers, Strings, Forms of Data, Char
+       * Variables
+         * Nouns
+         * A name for a datatype.
+         * You can pt a value into it, and get a value out of it.
+       * Functions
+         * Verbs
+         * Directions
+         * Can take information In and Out
+       * Control Structure
+         * If, For, While, Loop
+         * Control the direction the playhead can move through the code.
+       * Objects
+         * Creating a recipe for a thing, and the thing has nouns and verbs inside of it.
+
+       * Arrays
+       * Classes
+       * Instructions
+       * Compiling
+       * Strings
+       * Arguments
+       * Interpreting
+       * Objects
+       * Loops
+       * Parsing
+       * Debugging
+       * Libraries
+       * Operators
+       * Conditionals
+       * Comments
+       * Syntax
+       * Inheriance
+       * Architecture
+       * Conventions
+       * White Space
+         * General term for tabs and spaces
+       * Language
+       * Purpose
+       * Memory
+       * Structure
+       * Algorythms
+       * Pseudo Code
+       * Testing
+       * Threads
+       * Building
+       * Graphics
+       * Stack/Heap
+       * Hierarchy
+
+ * What are better ways of teachings this?
+ * What are better tools to teach this?
+*
+ * http://from0.to/C/
+Esoteric Computer Language
+ * There are a variety of ways to tell the computer how to do something.
+ * There are more pure ways and mathematical ways to do programming.
+ * Weird and most bizarre programming languages.
+   * http://en.wikipedia.org/wiki/Esoteric_programming_language
+   * http://code.tutsplus.com/articles/10-most-bizarre-programming-languages-ever-created--net-2412
+*
+   * https://github.com/jloughry/BANCStar
+ * Whitespace
+   * http://en.wikipedia.org/wiki/Whitespace_(programming_language)
+*
+ * BrainFuck
+   * https://vimeo.com/7133810
+ * Chef
+   * http://en.wikipedia.org/wiki/Chef_(software)
+ * Intercal
+   * http://en.wikipedia.org/wiki/Intercal
+ * Piet
+   * http://www.dangermouse.net/esoteric/piet.html
+*
+--
+ * Demoscene
+   * New Full Length Documentary on the Demoscene
+   * http://rhizome.org/editorial/2012/apr/10/new-full-length-documentary-demoscene/
+
+Create a programming Language
+ * Draw a triangle inside of a circle inside of a square.
+ * Produce a drawing that can execute this.
+ * A computer language that allows you to describe the process that would create this drawing.
+ * Why would you want to describe that as a series of steps.
+ * What goes into programming, graphical, text-based, music-based, physical.
+ * There are a variety of ways of conveying information.
+ * Think of styles, syntax, and symbols.
+ * Its useful to stand from a standpoint of rethinking computers and computation.
+ * You should be able to create documentation for your language so that someone else could write in it.
+
+Poetic side of things
+ * A trap to get stuck talking about tools and tool building.
+ * Try to branch in different directions and see the poetry.
+
+

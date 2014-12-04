@@ -1,0 +1,70 @@
+Chrome Extension
+Browser extensions are small but a fun and powerful tool to play with.
+Official documentation
+
+What’s cool for us?
+One of the most interesting points to us is you can inject Javascript to any webpages you are viewing. It means you can turn every webpages into your playground. You can get a feeling of hacking (It all happens just on your browser, so it actually doesn’t affect to original website).
+It’s similar to “bookmarklets” like kikkass in some points.
+
+
+Some cool browser extensions
+ * “Add Art” (firefox addons)
+ * It replaces all ad on the page with art.
+ * “The world without colors”
+ * It takes all colors off from internet.
+ * “Don’t Care Button”
+ * It pushes ALL Like buttons on the page instead of you
+
+(Feel free to add anything if you know)
+
+---
+
+Quick start overview
+ * Make a folder and put HTML/CSS/JS files with “manifest.json”
+ * Load the folder from Google Chrome’s extensions page
+ * Ready to go
+
+---
+
+Example projects
+https://github.com/yukiy/chrome-extensions
+ * Replace all images and texts
+ * Make tabs a piano
+
+--- 
+
+How to install
+You can just put all files in a folder and load from  chrome://extensions/.
+Turn on “Developer mode” at the right top and “Load unpacked extension…”, then choose the folder.
+
+*
+
+---
+
+Basic files inside a folder
+ * manifest.json 
+ * This is the setting file for name, version, browser/page actions, icon’s URL, permission, etc. details
+ * icon.png
+ * 16x16, 48x48 and 128x128 png file. details
+ * background.html
+ * This is invisible HTML working in background. You can choose it runs all time (background pages) or runs only when needed (event pages).
+ * popup.html
+ * This is small HTML pop up window when you click the icon (if needed).
+ * and any other files needed
+
+---
+
+Type
+First, you can choose what type is suitable for your extension’s function.
+Browser Actions
+: The extension is suitable for most web pages.
+: The icon is displayed at the right top of a browser
+
+Page Actions
+: The extension is suitable for a (few) specific web page(s).
+: The icon is displayed inside URL bar
+
+What you can do is not so different between these two types. It’s mainly for your browser’s top bar keep organized (it’s not make sense if there are always icons for only working with a specific page).
+
+
+

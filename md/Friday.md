@@ -1,0 +1,27 @@
+*   Friday
+
+Mailing list 
+
+VIP list (NY Arts/ Tech people) 
+
+Tour of the space and introduction to artists for VIP on Friday before 6pm.. maybe 5:30pm walk through with Taeyoon .
+
+Complete installation by 4pm Friday
+
+Eyebeam list 
+
+Wine/Beer $300 
+
+Sunday move out of 33 flatbush (interim space/ storage issues) 
+
+Tell students to move out. 
+
+Interim space
+
+Cost breakdown 
+
+Follow up on sponsorship 
+
+Open donation box 
+
+Golan 

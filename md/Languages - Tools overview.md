@@ -1,0 +1,240 @@
+# Languages / Tools overview
+
+Highly subjective cheat sheet of various programming languages, toolkit and data formats.
+
+*   what the documentation is like
+*   what the community is like
+*   what they are most commonly used for
+*   3 - 5 things that are handy to know about them that might not be evident to a newcomer
+*   a learning resource or two, the best documentation available,  and how to access the community for support (include any notes on culture and etiquette)
+
+## C++
+
+**Overview:**
+
+**Things to know when coding:**
+
+*   comes from c, is object oriented code on top of c, which has roots in unix.
+*   there are different versions of C++ standards (for example [](http://en.wikipedia.org/wiki/C++11))http://en.wikipedia.org/wiki/C++11)
+*   much of the software you use daily (desktop, embedded, etc) is written in c or c++ or on something like objective c which is itself built off a C / C++.
+*   fast for image processing, signal analysis, graphics
+*   high end C++ features like templates, etc can be really different then low level C++.   It's important to recognize different styles and walk away slowly if you find yourself in foreign territory
+*   STL (standard template library) is really helpful recipe (templates) for common data types
+
+**Learning Resource:**
+
+*   [](http://www.cplusplus.com/)http://www.cplusplus.com/
+*   [](http://www.parashift.com/c++-faq/)http://www.parashift.com/c++-faq/
+
+**Documentation:**
+
+**Community hub:**
+
+*
+
+## Open Frameworks
+
+**Overview:**
+
+*   openframeworks is a library written in C++ and uses C++.  In some cases it uses other languages like objective c on ios or java on android as a bridge layer.
+*   It was created as a teaching tool -- for artists and designers to make interesting work through code. 
+*   it was a huge collection of addons, additional libraries that the community has written (ofxaddons.com and on github)
+
+**Things to know when coding:**
+
+*   h files are your friend.  Don't be afraid to look at the code and especially the h files to get a sense of what's possible. 
+*
+
+**Learning Resource:**
+
+*   [](http://openframeworks.cc/tutorials/)[http://openframeworks.cc/tutorials/](http://openframeworks.cc/tutorials/)
+
+**Documentation:**
+
+*   [](http://openframeworks.cc/documentation/)[http://openframeworks.cc/documentation/](http://openframeworks.cc/documentation/)
+
+**Community hub:**
+
+*   [](http://openframeworks.cc/community/)[http://openframeworks.cc/community/](http://openframeworks.cc/community/)
+
+## Java
+
+**Overview:**
+
+*   "write once run anywhere" 
+*   java code compiles to bytecode, an intermediary representation of the code and a JVM (java virtual machine) to interprets that code.   (Similar to how flash turns a fla into a swf and a player runs that)
+
+**Things to know when coding:**
+
+*
+
+**Learning Resource:**
+
+**Documentation:**
+
+[](http://www.java.com/en/)[http://www.java.com/en/](http://www.java.com/en/)
+
+**Community hub:**
+
+## Python
+
+**Overview**
+
+Python is a very friendly language for non-programmers. It's most commonly used to scrape and parse data sets. Most python programs are only one file. You wouldn't typically write a complex program like Photoshop in Python. It's meant for high level operations and has loose data types.
+
+Python is an interpreted language, meaning the code is executed as it's read. There's no compiling involved. The documentation is quite solid, and it's pretty easy to get the hang of.
+
+**Things to know when coding:**
+
+*   the community is slightly bifurcated around Python 2 and Python 3. Using Python 2 is a safe bet in most cases, though some libraries are only good for Python 3
+*   white space is very important, use tabs and watch the white space when copying & pasting code
+*   error checking involves seeing if the code breaks when run. 
+*   typical usage will involve lots of coding to a particular messy data set to product the results you want
+*   lists, tuples (non writable lists) and dictionaries are important types for working with data
+*   python has a very strong style / idomatic way of writing, called "pythonic",  which is celebrated in the community ([](http://blog.startifact.com/posts/older/what-is-pythonic.html))http://blog.startifact.com/posts/older/what-is-pythonic.html) 
+
+**Learning Resource:**
+
+[](http://blog.startifact.com/posts/older/what-is-pythonic.html)http://blog.startifact.com/posts/older/what-is-pythonic.html
+
+**Documentation: **
+
+[](https://docs.python.org/)https://docs.python.org/
+
+**Community hub:**
+
+## JavaScript
+
+**Overview:**
+
+**Things to know when coding:**
+
+*
+
+**Learning Resource:**
+
+**Documentation:**
+
+**Community hub:**
+
+If you want to write in _minimalist_ javascript style, make sure you check out the clean code repos maintained by github.com/visionmedia, his code base are quite clean, nicely structured and super modular, you can learn a lot about node.js.
+
+Also checkout github.com/component to see more browser based small modules and they are also well written.
+
+## Coffee Script
+
+**Overview:**
+
+Coffeescript is a programming language that compiles to Javascript and is designed to be easier to read and write. The code is very succinct, and most programs are a third to a half shorter than their javascript equivalent. The language is inspired by Ruby and Python. It uses whitespace and has been designed to largely eliminate the need for punctuation such as ; and {} .
+
+**Things to know when coding:**
+
+*   You have to know javascript before using coffeescript
+*   You can use external JavaScript libraries from inside CoffeeScript,
+*   CoffeeScript is not a subset of JavaScript so you'll get errors if you compile Javascript without converting it.
+*   CoffeeScript may also be written in "[literate](http://en.wikipedia.org/wiki/Literate_programming)" mode. If you name your file with a .litcoffee extension, you can write it as a Markdown document — a document that is also executable CoffeeScript code.
+
+**Learning Resource:**
+
+[](http://coffeescript.org)[http://coffeescript.org](http://coffeescript.org)
+
+[The Little Book On Coffeescript](http://arcturo.github.io/library/coffeescript/index.html) - _free online_
+
+**Documentation:**
+
+[](http://coffeescript.org/documentation/docs/grammar.html)[http://coffeescript.org](http://coffeescript.org/)[/documentation/docs/grammar.html](http://coffeescript.org)
+
+**Community hub:**
+
+## PHP
+
+**Overview:**
+
+**Things to know when coding:**
+
+*
+
+**Learning Resource:**
+
+**Documentation:**
+
+**Community hub:**
+
+## Ruby
+
+**Overview:**
+
+**Things to know when coding:**
+
+*
+
+**Learning Resource:**
+
+**Documentation:**
+
+**Community hub:**
+
+## Processing
+
+**Overview: **Processing is an open source programming language and integrated development environment (IDE) built for electronic arts, new media art, visualizing data. It's specifically designed to be beginner-friendly. The language builds on the Java language, but uses a simplified syntax. It is oriented toward getting graphics on the screen. Code is usually created in one application file, called a Sketch. A Processing Sketch can have multiple connected classes, shown in multiple tabs in the IDE. There's a large community of Processing users online. 
+
+**Things to know when coding:**
+
+*   Processing 2.0 was released in June 2013 and this build can often break pre-2.0 code you may find on the internet
+*   Processing scripts are called Sketches and consist of a Setup section (executed once at beginning) and a Draw loop
+*   Every Processing sketch is actually a subclass of the PApplet Java class which implements most of the Processing language's features.
+*   The processing API has been ported to run on [javascript](https://processing.js), [python](https://github.com/jdf/processing.py), [ruby](https://github.com/jashkenas/ruby-processing) & more. It can communicate with an Arduino using [F](http://playground.arduino.cc/Interfacing/Processing)[i](http://playground.arduino.cc/Interfacing/Processing)[rmata](http://playground.arduino.cc/Interfacing/Processing) (a firmware sketch + software code that simplifies hardware / software communication).
+
+**Learning Resource:**
+
+*   online tutorial 1-hour: [hello.processing.org](https://hello.processing.org)
+
+**Documentation:**
+
+*   [](http://www.processing.org/reference/)[http://www.processing.org/reference/](http://www.processing.org/reference/)
+
+**Community hub:**
+
+*   [](http://forum.processing.org/two/)http://forum.processing.org/two/
+
+## Arduino
+
+**Overview:**
+
+**Things to know when coding:**
+
+*
+
+**Learning Resource:**
+
+**Documentation:**
+
+**Community hub:**
+
+## JSON
+
+**Overview:**
+
+**Things to know when coding:**
+
+*
+
+**Learning Resource:**
+
+**Documentation:**
+
+**Community hub:**
+
+## XML
+
+**Overview:**
+
+**Things to know when coding:**
+
+*
+
+**Learning Resource:**
+
+**Documentation:**
+
+**Community hub:**

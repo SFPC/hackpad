@@ -1,0 +1,215 @@
+# teachers meeting notes 
+
+Sep 24
+
+Hey y'all, I am still in Queens. Thinking it'd make sense to Hangout in, rather than be 40 min late to LES to give a quick report on finance stuff. This is me, if that works:
+
+[](https://plus.google.com/hangouts/_/gz3a7q3u6i7m2mgrhfllrrswyaa)https://plus.google.com/hangouts/_/gz3a7q3u6i7m2mgrhfllrrswyaa
+
+**First week **
+
+Class updates
+
+**Ida**
+
+maps. 
+
+city open data. field trips. 596 acres 
+
+busy in october 
+
+**[Allison](/ep/profile/E20l1q4xyFi)**
+
+critical theory of technology 
+
+utopian ideals 
+
+what do we have
+
+whats the future 
+
+not sci-fi
+
+politics, utopia and code 
+
+**Ramsey **
+
+constraints of computing
+
+relationship with code
+
+Special events
+
+Collaborations 
+
+**Special events **
+
+**Oct 3 Welcome event**
+
+or Oct 1 - amit can come / oct 3 can Allison come? 
+
+SFPC Alumni, past teachers and guests only
+
+org: sfpc team 
+
+**Oct sometime **
+
+NYU MCC media studies 
+
+**Oct 19 ELO, Wordhack  **
+
+org: Taeyoon, Todd Anderson 
+
+SFPC event co-sponsored by WordHack and ELOunge
+
+*   Jhave: 20 min
+*   Archiverse: 10 min
+*   Third performer chosen by Todd: 10 min
+*   open projector: 40 min
+
+open to the public
+
+" Although my current responsibilities as an associate professor in media, communication and digital humanities at the New Jersey Institute of Technology make it difficult to join your classes now, I actually look forward to taking the time and participating as a student for a term sometime in the near future. Most of my research is in computation and writing, specifically the electronic literary arts, and remains directed in many ways by the Electronic Literature Organisation (ELO). The ELO works particularly with authors of all genres and literary aims, who remain interested in publishing and engaging with electronic or digital formats in media. Their Website is at [eliterature.org](http://eliterature.org/).
+
+It's been recently brought to my attention that the digital poet Jhave Johnson, formerly based in Montreal, but now working in Hong Kong, will be visiting NYC in October soon after your Fall 2014 term begins. His interest here is to hold a very informal ELO "salon gathering" around the third or fourth week of that month. I think his work would prove to be very interesting to your students and teachers working together this fall. I'm confident he would find your institute incredibly stimulating. Plus I think any opportunity to bring the ELO and SFPC together for an afternoon/evening would no doubt produce a stellar set of conversations and debates. You can see at this Website some of the work he is best known for: [](http://glia.ca/about.html)[http://glia.ca/about.html](http://glia.ca/about.html)."
+
+**Oct 25 Fundraiser workshop**
+
+can be other dates. one weekend event to raise $$$ for the fall term. 
+
+**Oct 27 IHEAP + SFPC [ CUNY graduate center](https://sfpc.hackpad.com/MhIW0Q3r5IL#-CUNY-graduate-center)**
+
+org: Taeyoon, Michael Maniberg 
+
+> The event aims to serve as a mise-en-relation between the Institut des hautes études en arts plastiques (Iheap) of Paris, and the School for Poetic Computation of New York City, both “schools” which operate at the educational periphery. The session will consist of a series of reciprocal presentations: commenced by introductions of the history, context and mission of each program, followed by students’ articulation of their own practices and projects, and concluded as a broad discussion. We estimate that roughly 12-15 from Iheap, 10 from SPC, and 10 from CUNY, will be present. 
+
+>
+
+**November 7 NYU ITP + SFPC**
+
+org: Taeyoon, Midori (ITP)
+
+open laptop/ open studio party 
+
+tracks; uncurating with themes 
+
+> "One idea is to have open mic, open projector event where folks can show their work, give a short presentation or performance. Sometime early November might be good timing." 
+
+ **November 22~23 SFPC at The Silent Barn**
+
+** **
+
+org: Taeyoon, Alexandria (Silent Barn), Kunal 
+
+> workshop, experience for youth in Bushwick. part of taeyoon class, or SFPC mid-semester presentation. can be elements for adults and general public. 
+
+"We are holding 11a - 7p, 11/22 & 11/23 on the calendar, for now. "
+
+**December 12 Farewell **
+
+private party or open event.
+
+nothing big and public
+
+more for students and alumni
+
+can be at Thoughtworks in Flat iron district, or former third ward building in Bushwick. thinking about accessibility: wheel chairs and etc.  
+
+contact 
+
+Andrew Mcwilliams 
+
+"It mentions bring thrifty and keeping costs down with sponsorships etc. When you do your next round, let me know because maybe I can talk to ThoughtWorks about sponsorship.
+
+Also, we have a nice space for up to around 60 people in flatiron, for presentations / workshops. And I could connect you to Livestream in Brooklyn who have a very nice presentation / installation space at the old Third Ward location in Williamsburg. They are looking for arts/tech crossover community events." 
+
+**Documentation**
+
+*   Welcome pack for students - (nyc survival guide, documentation tools etc.)
+*   Guide for speakers
+*   Documentation (moises) How to organize this?
+
+*   Divide the notes from terms. We need a fresh one for this term.
+*   Are there any better ways for archiving?
+**
+
+## Finance and Admin Review
+
+**Previous Documents**
+
+*   Public finance report from Fall ‘13 term:
+*   [](https://github.com/SFPC/finance-and-administration/tree/master/01)<u>[https://github.com/SFPC/finance-and-administration/tree/master/0](https://github.com/SFPC/finance-and-administration/tree/master/01)1</u>
+**   Draft finance report from Spring ‘14 term (not yet public):
+*           [](http://goo.gl/rYHhKr)<u>[http://goo.gl/rYHhKr](http://goo.gl/rYHhKr)</u>
+
+**Proposed Budget**
+
+Revenue
+<table style="font-size:13px;cell-spacing: 0px; border-collapse: collapse;"><tr><td style="border:1px solid #999; min-width: 50px;height: 22px;line-height: 16px;padding: 0 4px 0 4px;" class="added">Income</td>
+<td style="border:1px solid #999; min-width: 50px;height: 22px;line-height: 16px;padding: 0 4px 0 4px;" class="added">Amount</td>
+<td style="border:1px solid #999; min-width: 50px;height: 22px;line-height: 16px;padding: 0 4px 0 4px;" class="added">Quantity</td>
+<td style="border:1px solid #999; min-width: 50px;height: 22px;line-height: 16px;padding: 0 4px 0 4px;" class="added">Total</td>
+</tr>
+<tr><td style="border:1px solid #999; min-width: 50px;height: 22px;line-height: 16px;padding: 0 4px 0 4px;" class="added">Tuition</td>
+<td style="border:1px solid #999; min-width: 50px;height: 22px;line-height: 16px;padding: 0 4px 0 4px;" class="added">$5,000</td>
+<td style="border:1px solid #999; min-width: 50px;height: 22px;line-height: 16px;padding: 0 4px 0 4px;" class="added">17</td>
+<td style="border:1px solid #999; min-width: 50px;height: 22px;line-height: 16px;padding: 0 4px 0 4px;" class="added">$85,000</td>
+</tr>
+<tr><td style="border:1px solid #999; min-width: 50px;height: 22px;line-height: 16px;padding: 0 4px 0 4px;" class="added">Sponsorship</td>
+<td style="border:1px solid #999; min-width: 50px;height: 22px;line-height: 16px;padding: 0 4px 0 4px;" class="added">TBD</td>
+<td style="border:1px solid #999; min-width: 50px;height: 22px;line-height: 16px;padding: 0 4px 0 4px;" class="added">TBD</td>
+<td style="border:1px solid #999; min-width: 50px;height: 22px;line-height: 16px;padding: 0 4px 0 4px;" class="added">TBD</td>
+</tr>
+<tr><td style="border:1px solid #999; min-width: 50px;height: 22px;line-height: 16px;padding: 0 4px 0 4px;" class="added">Fundraising</td>
+<td style="border:1px solid #999; min-width: 50px;height: 22px;line-height: 16px;padding: 0 4px 0 4px;" class="added">TBD</td>
+<td style="border:1px solid #999; min-width: 50px;height: 22px;line-height: 16px;padding: 0 4px 0 4px;" class="added">TBD</td>
+<td style="border:1px solid #999; min-width: 50px;height: 22px;line-height: 16px;padding: 0 4px 0 4px;" class="added">TBD</td>
+</tr>
+</table>
+
+Expenses
+
+[](https://docs.google.com/spreadsheets/d/1in2fxygHNhYYdtAclBXOwslAc-Yv4KY2ie2AMDdXsKo/edit)<u>[https://docs.google.com/spreadsheets/d/1in2fxygHNhYYdtAclBXOwslAc-Yv4KY2ie2AMDdXsKo/edit](https://docs.google.com/spreadsheets/d/1in2fxygHNhYYdtAclBXOwslAc-Yv4KY2ie2AMDdXsKo/edit)</u>
+
+^ Taeyoon and I are still volleying back and forth on this, I did a pass last night to review everything so far.
+
+My synopsis is that: 
+
+*   We're in okay shape. We're, for the first time, building 30% overhead into the budget for taxes, etc (as recommended by our accountant), which gives us ~25k flex room.
+*   We can use our own historical information to understand how things are increasing or decreasing. 
+*   We keep putting off fundraising but it won't be hard.
+
+**Participant Agreement**
+
+Last modified March 27, 2014
+
+URL: [](https://github.com/SFPC/finance-and-administration/blob/master/)<u>[https://github.com/SFPC/finance-and-administration/blob/master/](https://github.com/SFPC/finance-and-administration/blob/master/participant-agreement.md)</u>
+
+<u>[participant-agreement.md](https://github.com/SFPC/finance-and-administration/blob/master/participant-agreement.md)</u>
+
+Make sure everyone is cool with this, I'd like to tone down the photo release language that we borrowed from 3rd Ward, Gary would like his LLC added to it in the space section.
+
+**Payment Status**
+
+Payment schedule proposed to students
+
+$500 Sept 15
+
+$2000  Oct 1
+
+$2500 Nov 5
+
+Status: Basically on track.
+
+[](https://docs.google.com/spreadsheets/d/1iXr8Ka0nfnGjN1LXJq3Aq1miDVHssK50BDsNRelpOwE/edit?usp=drive_web)https://docs.google.com/spreadsheets/d/1iXr8Ka0nfnGjN1LXJq3Aq1miDVHssK50BDsNRelpOwE/edit?usp=drive_web
+
+**Fundraising Ideas**
+
+*   Apply for relevant grants: art, technology, education, STEM.
+*   Teachers/alumni donate a day or two of time teaching workshops.
+
+        *   Zach could teach a day or two of workshops on Open Frameworks to raise about $4,000.
+
+*   Hold some sort of one day conference. 70 attendees + $100 per ticket = $7,000. Potential costs: space, speaker honorariums.
+*   Reach out to organizations who might be interested in sponsoring future students. Adafruit, for example.
+*   Sell things: t-shirts, 1-bit computer kit.

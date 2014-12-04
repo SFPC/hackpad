@@ -1,0 +1,84 @@
+Allison's week 3 - Decentralization and its Discontents
+
+Readings for today
+   * Alexander Galloway, Protocol, pgs 3-53 (Introduction and Ch 1 'Physical Media,' though the whole book is worth reading)
+   * 21 Technologies That Will Decentralize the World
+   * Jo Freeman, "The Tyranny of Structurelessness"
+   * Bitcoin
+     * "Why Bitcoin Matters," Marc Andreesen
+     * "Bitcoin is the offshore tax haven of the future," Aaron Sankin
+
+
+Tyranny of Structurelessness - Jo Freeman
+Jo Freeman's background:
+ * Active in civil rights movement and feminist movement, wrote the bitch manifesto and 'girls can't cover riots'
+
+The article:
+ * can pick up on her personal feeling throughout the piece. access to tools like printing press from husbands...
+ * structurelessness organizations
+   * lack of structure creates informal structures. a formal structure allows people to question decision making and participate whereas informal structures do not
+   * lack of structure will allow 'elite' smaller groups to become the defacto leaders
+   * structurelessnes might not really exist, since structures appear automaticly in groups
+ * Hidden power - it is to an 'elite's' benefit to not be named
+   * Not being able to point on the people in control makes it hard to influence the power, and if you struggle against it, not knowing where it is makes it hard to fight against it.
+   * this is an early work (macromedia) that pulls in the names of people who sit on multiple boards¨
+   * when you make structure explicit then the people who are in 'power' have a responsibility to those who are not in power
+ * How have we experienced this personally?
+   * occupy
+   * robert's rules of order
+     * govt protocol
+   * if a group is small do they need structure if they have trust? Trust should be grown through the achievements of the organizations goals - not in the people
+ * questions
+           * *
+
+ * References: 
+   * Content moderation on social media http://www.wired.com/2014/10/content-moderation/
+   * http://gawker.com/these-are-the-creepy-4chan-successors-behind-gamergates-1648966614
+Protocol - Alexander Galloway
+Alex Galloway background:
+ * writer and computer programmer. RSG (radical software group), 
+   * Carnivore is a Processing library that allows you to perform surveillance on data networks. Carnivore listens to all Internet traffic (email, web surfing, etc.) on a specific local network. Using Processing you are able to animate, diagnose, or interpret the network traffic in any way you wish.
+
+The book:
+ * The history of the internet
+   * Comes from military usage, a system that could resist a nuclear attack
+   * Decentralized system where no central place can be hit
+   * current usage themes - library and social
+ * Three types of networks
+   * Centralized netowrk
+     * Everything passes through one central point
+   * Decentralized network
+     * Metaphore: airplane rutes
+   * Distributed network
+     * A mesh of notes with no central points
+               * *
+   * Rhizome - 'endogenetic' has all the instructions for how to create itself within itself - this is a distributed network
+ * Description of
+   * TCP / IP 
+     * TCP: The layer that transports information from a source to a destination, and makes sure it arrives
+     * IP: The layer that takes a packet, looks at the address (IP Address) and sends it to the next gateway that is the right direction until it arrives
+   * DNS
+     * how does it work?
+       * a list of domains assigned to IP addresses
+       * approval of TLDs
+       * agreement across multiple companies and countries
+     * What are the rules that govern this?
+       * coordinated effort, don't know if the protocol is practical or more for show
+       * the people who 'control' the internet: http://www.theguardian.com/technology/2014/feb/28/seven-people-keys-worldwide-internet-security-web
+     * Questions & Resources
+       * does the united states have veto power?
+       * how do things like firewall blocking that china does affect sites"
+         * if they block on the IP level then you can not get to the site at all however blocking the domain would still allow people to get to the site by the IP address
+       * name servers - http://en.wikipedia.org/wiki/Name_server
+   * Internet Media Formats
+     * there are more open and universal formats that are being accepted by browsers but it has typically been controlled by the plugin or service popularity (eg flash vs html5)
+             * *
+ * 
+Bitcoin 
+Marc Andreessen background:
+ * Entrepreneur, investor and software engineer - cofounder of netscape currently a VC
+ * Borad member in several large it cooperations
+
+Thoughts:
+ * 
+

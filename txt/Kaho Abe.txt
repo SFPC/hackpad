@@ -1,0 +1,79 @@
+Kaho Abe
+*
+
+ * Invisible Playground
+   * http://www.invisibleplayground.com/en/welcome
+   * Turtle Wushu
+     * http://ludocity.org/wiki/Turtle_Wushu
+*
+*
+
+ * JS Joust
+*
+http://www.youtube.com/watch?v=iUzIhFHxJ5Q
+   * http://www.jsjoust.com/
+ * Technological Parts
+   * What kind of difference does the technology my take on JS Joust compared to Turtle Wushu?
+   * The technology is also a judge. << trust on the computer
+   * More socially acceptable.
+   * Technology can encourage playfulness? Not having technology can encourage playfulness?
+   * Physical Digital games spectator experience is just as important.
+     * Spectators are the next potential player.
+     * forming anticipation, magic circle
+Game Controllers/Interfaces
+ * Limited way of interacting with games through just controllers.
+ * There are so many ways you can react to things.
+ * With digital games it's always going to be in the screen.
+ * With physical digital games the story can exist outside the screen.
+
+HIT ME project
+button on the cap
+ * precedents
+ * twister
+ * sumo
+ * fencing
+ * Van Damme is Lionheart << movie as a great way to help imagine your game
+>> Personal Injury Waiver form, legal and also mental entry point to the game
+*
+http://vimeo.com/29638917
+
+Magic Circle - game design principle of behaviors that are not socially acceptable in normal society are sanctioned by the game. Originally defined in Homo Ludens
+ * The whole experience from the player entering that world, and the preparation for them to be playing the game until the end of the experience. Is not the game itself but the game the experience that surrounds them. 
+
+Mary Mack 5000
+*
+http://vimeo.com/21707873
+   * Guitar hero as simulation of awesomeness
+   * Rhythm game about timing
+   * Similar to Patty Cake
+   * Created controllers for it with arduinos.
+   * each glove have different voltage ID as the way to track which glove is which
+   * XML of clap combo(!!?)
+
+Costumes as Game Controllers
+ * Cosplay and LARPing
+ * The way that people create realationships with an avatar.
+   * One you start wearing a costume you can start playing the role of the avatar.
+   * They become game controllers.
+ * What could happen between the players and the technology.
+   * Thought of a shooting game that required holding hands.
+   * costume as ritual of becoming super hero << Kamen Rider!
+*
+http://www.youtube.com/watch?v=QUGeESWLrqg
+   * http://fashion.eyebeam.org/
+   * technical: Yoyo board + android >> osc >> processing on mac
+
+Simple Globe Controllers
+ * A way to start brining these experiences out of the screen.
+
+
+closing thought
+ * experience first technic later
+ * more human centric, not techno centric
+ * decoration as part of the narrative
+
+in two player setting 
+each glove had different voltage output
+only one of the glove is sensing at a specific time
+each glove takes turn to sense in a very fast loop
+

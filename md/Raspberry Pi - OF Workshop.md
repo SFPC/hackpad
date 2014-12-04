@@ -1,0 +1,54 @@
+# Raspberry Pi + OF Workshop
+
+With Jason van Cleave
+
+Today we are interfacing RPi, OF and linux. 
+
+RP Specs:
+
+*   has microcontroller features (GPIO)
+*   GPU - OpenGL ES 2, OpenMax
+*   RAM shared between GPU/CPU
+*   Component/HDMI audio
+*   Ethernet
+*   GPI/O  - like arduino however it has less protection - it is possible to fry your board.
+*   Need an additional chip to deal with analog inputs 
+
+Github repository for OF that will run on the Raspberry Pi
+
+*   [](https://github.com/openFrameworks-arm)https://github.com/openFrameworks-arm
+
+*   If you want to do a 10 screen project - can use 10 Pis instead of 10 mac minis. 
+
+OpenMax (OMX)
+
+*   think of it like an openGL for accelerated video
+*   provides hardware accelerated - video decoding, encoding, audio decoding, camera access
+*   Allows 1080p playback
+*   Large texture access (720p at full framerate)
+
+CV
+
+*   OpenCV is CPU bound so it will eventually hit the slower processor (can't run from the GPU only)
+
+Textures - live in the GPU which is fast
+
+*   Pixel access however requires the CPU - makes it much slower. 
+*   Can get pixels from a texture but then it goes to CPU - and that makes it slow.
+
+Cross-compiling
+
+*   SLOW!
+*   Workflow: Develop on the desktop and port to the Pi
+
+Node also runs on the Pi
+
+FOR set up instructions see here:
+
+[](http://www.openframeworks.cc/setup/raspberrypi/)http://www.openframeworks.cc/setup/raspberrypi/
+
+Also see Jason's github:  
+
+[](https://github.com/jvcleave/openFrameworksRPiWorkspace)https://github.com/jvcleave/openFrameworksRPiWorkspace
+
+If you see .bin files it means that it has already been compiled. 

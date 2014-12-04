@@ -1,0 +1,141 @@
+Claire's project stack 
+
+
+ * 1. The Real Neo
+
+* 
+
+Idea:
+ * Play on The Matrix/Baudrillard's theories on simulacra
+ * Explore the hyperreality of pop culture / exaltation of culture icons 
+
+Project:
+ * Pepper's ghost of Keanu Reeves video collage (in small box?) – need to test quality in different sizes
+
+To do:
+ * Get materials to test best outcome (flat glass, lexan polycarbonate sheet, thinner plexiglass, grey scrim)
+ * Edit video pieces – test speed of videos (slowed-down?) + if full body is more effective than cropped/close-ups (gaze)
+
+
+
+
+ * 2. The Rules of Attraction
+
+*
+
+Idea:
+ * Simulation of desire / disembodied intimacy
+ * Disruption of fantasy
+ * The death of romance (a theme from Bret Easton Ellis' The Rules of Attraction) explored through materializing the spatiality of a couple's initial meeting
+ * Appropriating the scene from Romeo and Juliet (1996) – nostalgia/invented worlds as fascimile for the real
+ * Explore the affective qualities of physical space
+
+Project:
+ * Two projected video feeds that allow the viewer to literally + physically walk through a scene of a movie. Videos react to location of the viewer, as if the actor's gaze was following the viewer. When there is no one in the space, they are looking at each other.
+
+To do:
+ * Figure out how to track heads/blobs in OF with the PS3 Eye, then put on Raspberry Pis
+ * Build prototype of projections in space to see where the "gaze" of each video should land 
+
+
+ * 3. Programming language (Amit's class)
+
+Project:
+ * Programming language assignment from Amit Pitaru's class
+ * Hackpad: Parsed Poetry Programming Language with Moises Sanabria and Jason Levine and Jonathan Wohl
+
+To do:
+ * Finalize syntax and how IDE would work
+ * Wireframe + design IDE
+ * Name + brand + any other design needs?
+
+
+ * 4. Control Structure Diorama (Zach's class)
+
+Project:
+ * Control Structure education tool from Zach Lieberman's class
+ * Hackpad: Control Structures Metaphor with Jonathan Dahan
+
+To do:
+ * Get materials for diorama and build it
+
+
+
+ * 5. Paradise (Pineapple) 
+*
+
+Idea:
+ * Simulated paradise, in an object
+
+Project:
+ * A pineapple made up of mirrors. 
+
+To do:
+ * Find a 3D drawing of a pineapple and figure out how to fabricate
+
+
+
+ * 6. Paradise (Zombie) 
+**
+
+Idea:
+ * Simulated paradise, in the form of an infinite drink maker
+
+Project:
+ * Infinite drink maker, like a fountain. The zombie glass would empty out into a repository that feeds back into the drink shaker which would then shake the drink liquid up before pouring back into the glass.
+
+To do:
+ * Get materials: Glass, shaker, drink materials, motor?
+
+
+
+ * 7. YOLO/FOMO
+
+
+*
+Idea:
+ * Happy face / sad face
+
+Project:
+ * Rotating circular neon signs with YOLO or FOMO on top or bottom at any given time, dependent on up/down (in/out) see-saw action.
+
+To do:
+ * Fabricate neon signs
+ * Figure out materials + tech
+
+
+ * 8.  Paradise: Making it Rain
+
+
+**
+
+
+Idea:
+ * 
+
+Project:
+ * Motorized fake hand that "makes it rain" money
+
+To do:
+ * Get fake hand
+ * Prototype with motor
+
+
+ * 9.  Lenna Masked (Analog Image Proccessing)
+
+*
+
+
+*
+
+
+Idea:
+ * Analog image processing of "standard Lenna" image
+
+Project:
+ * Printed out image of Lenna with printed out "masks" of her face
+ * Masks could be on a motorized rotation
+
+To do:
+ * Print assets out
+

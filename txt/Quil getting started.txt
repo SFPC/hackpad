@@ -1,0 +1,32 @@
+Quil getting started
+Quil is Clojure wrapper for Processing
+Github 
+
+Install Leiningen
+"Leiningen is the easiest way to use Clojure. "
+You need to install it also to use Quil.
+Official page 
+Github
+
+ * Copy the script from here and saved with a name "lein".
+ * Then put on `/usr/bin/` folder on your Mac.  (make `$PATH` to `/usr/bin/`, means you can run lein by just type `lein` in Terminal)  
+ * You may need to change the permission by `$ chmod 755 /usr/bin/lein`.  
+ * Test with `$ lein -v`.  It shows a version if the install was successful
+
+--- 
+
+Make a Quil project
+
+1. `$ lein new quil myapp`  //create a project
+2. `$ cd myapp` //go inside the folder just created
+3. `$ lein repl` //launch repl  
+4. `user=> (require 'myapp.core :reload)` // *run the project  
+*the location of the project is `src/myapp/core.clj` in this case.   
+In repl, use `.` instead of `/` (not `myapp/core.clj` but `myapp.core`) 
+
+*
+
+There are many examples on github (https://github.com/quil/quil-examples). 
+The tutorial on this page is helpful.
+
+

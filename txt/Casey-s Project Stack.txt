@@ -1,0 +1,38 @@
+Casey's Project Stack
+
+ * Projects
+
+ * Make sfpc a free school
+ * Make sfpc run better
+ * Shrink administration!
+   * Self-governance
+   * Self-administration
+ * Create transparent and legible finances (ongoing)
+
+ * Todo List
+ * Revise interim estimate for legal & professional
+   * Incorporation upkeep?
+   * Quickbooks monthly
+   * Storage monthly
+ * follow up on payments
+   * talk about salaries
+   * transparency email draft
+   * Post budget on Github
+       * pay people
+ * write about taxes
+ * Sponsorship
+   * followup on emails
+   * outreach
+   * online page
+
+Communication
+ * Switch address to Taeyoon's house
+ * Move mailing list from Dreamhost to Mailchimp
+ * is this because of the new site?  I really dislike mailchimp and other $$ mail services.
+ * its free depending on list size but I know what you mean. Anything where we can share access would be good, so that going forward I can send announcements without nagging you. 
+
+Buy
+ * paper towel
+ * coffee
+
+

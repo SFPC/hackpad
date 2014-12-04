@@ -1,0 +1,236 @@
+Animation Week
+SFPC 2013
+__________________________________________________________________________________
+
+Algorythmic Animation
+ * Day 1
+   * Static Animation Techniques
+       * Github Examples
+         * Openframeworks
+           * https://github.com/ofZach/algo2012
+         * Processing
+         * Blog
+           * http://scriptogr.am/algo2012/archive
+     * Snapshopt of an Object
+         * 3 Weeks
+         * Very easy to derive where things should be.
+         * Basic Animation Techniques.
+         * Percentages.
+         * Book
+           * Nature of Code.
+       * Information from an Object
+           * Discrete Time Intervals
+             * velocity = velocity x acceleration.
+             * rate of change.
+           * You can know position from 1 frame
+           * From 2 frames you can know velocity.
+             * Amount of change in position.
+           * From 3 frame you can know acceleration
+             * Two velocitys, know the rate of change of velocity.
+           * You can go backwards.
+             * Newton
+               * F = MA
+               * May the F = MA be with you.
+               * We can assume that everything has a mass of one, so force and mass are equal to each other.
+           * If you know how fast you're moving you can figure out how far you have changed.
+     * Describing Movement
+       * In the world there are patterns of movement described by mmathematical principles.
+       * Going between to Values
+           * Have a number that goes between 0 and 1. <3<3<3<3
+           * Really easy to make it go into another range.
+           * We can take some percentage of A and some percentage of B and get a new value.
+           * Domain, Range, finding the minimum and maximum.
+           * Map Function
+             * Have 5 parameters, ValueA, ValueB, Input Range, Output Range.
+           * You can curve them and Shape them.
+       * Linear Interpolation.
+             * If you have two things how do you figure out the things between them.
+         * Shaping Functions,
+             * If you take a numberand raise it to a power you can change this curve.
+             * Takes the same amount of time from point A to point B.
+             * Penner Easing Functions
+               * http://www.robertpenner.com/easing/
+             * Javascript Examples
+               * http://javascript.info/tutorial/animation
+               * http://easings.net/
+             * Processing Examples
+             * Golan Examples
+               * http://www.flong.com/texts/code/shapers_exp/
+           * If you have a percentage you can animate between two things.
+           * Linear Interpolation:
+*
+http://code-check-eins-zwei.tumblr.com/post/58390099766/upload-93-frames-frame-time-0-03-119
+
+         * Xeno
+           * Xenos Paradox
+             * Running 1/2 of the distance, will they ever finish the race.
+           * Only use for good.
+           * Early 2000s Flash GUI quality.
+           * Take my posiition and the target figure out some percentage and move that muchcloser by that percentage.
+             * Always a smaller amount every time.
+           * Smoothly catching up.
+           * Smooth that data out over time.
+ * Sin & Cosine
+     * Unit Circles <3
+     * Building blocks that are used to make interesting animations.
+     * Sine and cosine are forms based on a circle.
+     * Trigonometry.
+     * Functions that you can plug anything into that gives you a repeating value.
+     * osX Graphing Calculator
+     * Periodic Functions
+       * repeat themselves, wave forms.
+     * Full cycle is 2π
+     * Addiitve Synthesis.
+     * Motion perception: http://www.youtube.com/watch?v=1F5ICP9SYLU
+     * Amplitude Modulation
+       * Use the amplitude of one since wave to control the amplitude of another wave.
+     * Frequency Modulation
+     * Used to draw thing in a circular way. #formula
+       * Formula for putting things on a circle.
+     * Lissajous Figures
+       * Stunning Forks
+     * aTan
+       * inverse of tangent
+       * Plugin an x and y and tell you an angle back.
+       * Vector = "ilne"
+         * angle and a magnitude
+*
+http://www.youtube.com/watch?v=KbrEBpCw3Ag
+         * can use aTan to rotate
+         * If you flip the x and the y and make one negative gives you the perpendicular.
+   * Grid & Vector Fields
+ * Day 2
+   * Simulation
+       * THinking of forces as littler ingredients
+   * Particle
+       * A particle is object that has its own position and velocity.  it's a tiny element.
+       * Create an H file that defines what an object can have.
+         * POS (position) point
+         * VEL (velocity) line
+       * This idea of a vector, think of a point as storing x,y,z or a point as being a line which connects 0,0,0 to x,y,z
+       * if it's a line, it will have a magnitude and a direction.
+         * If the magnitude is one its called a unit vector.  (ie, it has just direction)
+         * If you normalise the line by turning it into a unit line.
+         * it's a ector that just represents direction.
+       * we will be storing velocity as an ofPoint (which is a vector).
+       * Vector
+         * The number of dimensions stored in a vecotr doesn't matter so it has parallels to the vector in c++.
+         * http://en.wikipedia.org/wiki/Euclidean_vector
+         * http://www.openframeworks.cc/tutorials/maths/001_vector_maths.html
+         * https://www.khanacademy.org/math/linear-algebra/vectors_and_spaces/vectors/v/linear-algebra--introduction-to-vectors
+       * Framerate based animation.
+         * F = A
+         * v = v + f  (ie, v = v + a... but F = A because of F=MA... thanks newton!)
+         * p = p + v
+       * One of the forces you can feel is in the opposite direction of where you are traveling (damping / friction)
+       * Turning an image into a vector field.
+       * Tiny small local thing can lead to interesting global things.
+       * Thres so many Java applets I want to show you. :(
+       * Computational problem
+         * How to get alot of things interating with each other.
+       * O-notation
+         * For a given algorythm how heavy is it.
+       * Spatial Subdivision
+   * Spring Systems
+       * Force Models
+         * Hooks Law
+       * More complex relationships between particles.
+       * Force Directed Graph
+     * Challenges
+         * Record a Video and describe the path of the movement.
+         * Maseh Ikosato
+           * CURVES
+             * Create graphs that visualize and show movement.
+             * In the ned they wind up building machines that describe these movements.
+         * Slow Linear interpolation example way down and way up.
+           * Shows the limits of what we can perceive.
+         * Make something as cool as Norman McClaren
+         * Using these animation concept make a creature that follws the mouse.
+
+
+   * Dynamic Animation Techiniques
+       * Describing the landscape and letting things play out.
+       * Talk about a model where forces move objects.
+       * Playing with forces.
+         * Attraction, Repulsion.
+       * 9 weeks
+       * Creating simulations and letting things play out.
+       * Drawing with time example where drawnigs can be replayed.
+
+Proposition - find and record physical equivilents of generative systems.
+
+Optimising Particle Systems - THE FRENCH METHOD
+ * Sort the array of particles based on the x position
+ * Then only deal with particles that are within each particles array of influence
+ * This means that we are only doing calculations on particles close to each particle - not every particle
+ * Sorting is very light computationally compared to making all those addional calculations - drasitcally reduces amount of caluclations done. 
+ * use ofSort(vec, boolean predicate function)
+
+Artist & Projects
+   * Ideas
+     * Hack Grand Theft Auto
+       * http://www.gta4-mods.com/
+   * Memo Atkin
+     * Simple Harmonic Motion Study
+       * Circular screen
+       * http://vimeo.com/40785633
+   * Mary Ellen
+     * News Article
+   * James Whitney
+     * Animations creating mechanical systems
+     * Would buy analogue computers and reporpose them.
+     * Create a grammar around visual amd musical form.
+     * Vertigo, zooms into a characters eye.
+     * Animations deal with things going in and out of phase.
+     * Frame by frame animation.
+     * http://www.youtube.com/watch?v=TbV7loKp69s
+     * Screening Room
+       * http://www.amazon.com/Screening-Room-John-Whitney-Sr/dp/B001FH8FWM
+   * Visual Music Book
+   * Cory Archangel
+     * Website
+       * http://www.coryarcangel.com/
+     * Youtube Channel
+       * http://www.youtube.com/watch?v=Kow3MR2kTVs
+   * Masahiko Sato
+     * CURVES
+       * Create graphs that visualize and show movement.
+       * In the ned they wind up building machines that describe these movements.
+   * Norman McClaren
+     * Drawing Sound
+     * Canadian Experimental Animator and Artist
+     * Pen Point Percussion
+       * Paint on the Optical Track
+       * Optical Sound Synthesis
+       * http://www.youtube.com/watch?v=Q0vgZv_JWfM
+   * Issey Miyake
+     * Walk Sequence
+       * http://www.youtube.com/watch?v=aYL4TyV1YDk
+   * Lissajous Figures
+     * Stunning Forks
+   * Scott Snibbe
+     * Motion Phone - 
+*
+
+ * Kim Pimmel
+ * https://vimeo.com/28304264
+ * Uses ferrofluid to create non digital but generative systems/graphics
+ * Ferrous particles suspended in water
+ * Jeremy Rotztain 
+   * Animals
+   * http://www.flickr.com/photos/mantissa/
+ * Craig Reynolds
+   * Steering Behaviors
+   * Seek and Flee Behaviors
+   * Popularized Flocking Algorythms
+   * red3d.com
+ * Intersection in India where there are not streetlights.
+ * Evacuation Simulations
+ * Mosh Pit simulation
+ * Soda Play
+   * sodaplay.com
+   * Soda Constructor
+   * How to make a Biped in soda constructor
+   * Dainty Walker
+
+

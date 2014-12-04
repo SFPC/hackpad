@@ -1,0 +1,91 @@
+Homework from MA/AM class 1: Examples of work
+
+ * Find examples of work that you'd like to investigate and figure out how it's made. This was the original idea: "I like this stuff; how is it made?"
+
+
+Jon Kessler: The Palace at 4AM
+*
+http://www.likeyou.com/files/fullimages/jon_kessler_louisiana_08.jpg
+
+
+*
+http://www.youtube.com/watch?v=k-uBggfiMGo
+
+The Web
+*
+http://www.youtube.com/watch?v=z8n61QTJpTw
+
+kinetic / sound of machines / frames layered over frames
+
+everything Olafur Eliasson
+http://www.olafureliasson.net/works/din_blinde_passager.html
+
+Tim Hawkinson, Emoter
+*
+
+Obtaining heart rate from video (http://people.csail.mit.edu/mrub/papers/vidmag.pdf).
+
+VIDEO: http://web.mit.edu/newsoffice/2012/amplifying-invisible-video-0622.html
+
+ofx implementation: https://github.com/yusuketomoto/ofxEvm
+
+Turning medical data into artful data viz - Stamen
+*
+http://content.stamen.com/files/wdcw/green.gif
+http://content.stamen.com/turning_medical_data_into_artful_data_viz
+
+
+
+ * Making own 3D display / how to draw images in the space
+
+RAMDanceToolkit https://vimeo.com/64771987
++
+*
+ 
+2. creating 3D model from 2D image
+https://vimeo.com/38421611
+
+
+
+
+ * Computer Learns Language by Playing Games
+   * http://web.mit.edu/newsoffice/2011/language-from-games-0712.html
+   * http://groups.csail.mit.edu/rbg/code/civ/video/
+ * Internet Map
+   * http://internet-map.net/
+ * ChronoZoom
+   * http://www.chronozoom.com/
+ * Google Image Search Visually Similar Images
+
+http://kindred.stanford.edu/#
+http://www.mta.me/
+At www.mta.me, Conductor turns the New York subway system into an interactive string instrument. Using the MTA's actual subway schedule, the piece begins in realtime by spawning trains which departed in the last minute, then continues accelerating through a 24 hour loop. The visuals are based on Massimo Vignelli's 1972 diagram. (More info at this blog post.)
+
+
+Painting WiFi https://vimeo.com/20412632
+*
+
+http://www.evolutionoftheweb.com/
+
+http://viz-carbontool.appspot.com/
+
+https://vimeo.com/74033442
+
+http://complexification.net/gallery/machines/substrate/index.php
+
+*
+http://www.youtube.com/watch?v=fycvjkj5BMg&list=FL2DqpTgEnI6B5fvb49dUkeQ&index=38
+
+*
+http://www.youtube.com/watch?v=JJvK47ncVjU
+
+Wombats – Techno Fan (2010)
+*
+http://vimeo.com/26051798
+http://www.memo.tv/wombats-techno-fan/
+
+Marius Watz on overused algorithms: http://vimeo.com/46903693
+
+Question: what are good math resources?
+hyperphysics for physics stuff
+

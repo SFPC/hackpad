@@ -1,0 +1,215 @@
+Mesh Networks
+Happy Hour Mesh Networking with Sean McIntyre
+*
+Evernote sucks, Notational Velocity is rad. 
+
+The router is awesome. We have lots of Rasbberry Pis and Arduinos. What about the router!?!
+
+-----
+Side quiz:
+What is Gentoo? Flavor of Linux - https://en.wikipedia.org/wiki/Gentoo_Linux
+
+What flavor of Linux is OSX built on? FreeBSD
+---
+
+What does flavor of linux mean?
+
+THE INTERNET
+
+Flavors of linux:
+
+OSX -> FreeBSD (osx is based on freebsd)
+Debian - lots of people develop this, most bad ass of the linux 
+Ubuntu -> Debian, made by canonical, trying to make it more user friendly
+Raspian
+
+
+Hardware:
+D-Link
+Buffalo
+Netgear
+Cisco -> LinkSys
+60 - 100 mhz (level of fast arduinos!)
+
+Is it weird to put Arduino and Raspberry here (under hardware) on the list? Why? No multithreading. That's why it feels different. 
+
+*
+
+Are routers computers? (@lee thinks they are micro- controllers, not computers) lee t is correct!
+How fast is your processor on your computer? 2.4 ghz
+Arduino? 16 mhz
+RaspPi - 500 mhz
+Phone - 700 mhz
+Which is bigger? Mac! 2.4 billion cycles a second.
+
+
+hz = 1 cycle per second
+60 hz = 60 cycles per second
+ * (drunk math... plz help!)
+
+Routers are somewhere between an arduino and a raspberry pi with a radio.
+
+(hackaday.com plug - who's going to space?)
+If you read hack a day for a year, you'll come up with 10 router hacks. they are undocumented arduinos. They are all running propriety ar operating systems. Name another proprietary operating system: windows! when was windows made? early 80s. when were routers made? early 2000s. They have linux on them! all of them!
+
+*
+
+What can you do on a router? run Python, run C. There's just not a lot of memory (more than an arduino, less than a raspberry pi)
+
+POINT BEING: Routers are a completely hackable platform, and people are hacking them all the time.
+
+*
+
+Sean's favorite OS: OpenWRT - OpenWrt is an operating system / embedded operating system based on the Linux kernel, made to work with radio, and primarily used on embedded devices to route network traffic.
+
+
+VisiBox - 
+
+Embedded Device: An embedded system is a computer system with a dedicated function within a larger mechanical or electrical system, often with real-time computing constraints.[1][2] It is embedded as part of a complete device often including hardware and mechanical parts. By contrast, a general-purpose computer, such as a personal computer (PC), is designed to be flexible and to meet a wide range of end-user needs. Embedded systems control many devices in common use today. (microcontrollers)
+
+*
+
+7 layers of the network:
+ * Physical Layer (wire, fiber-optics, air)
+ * Data Link Layer (moving electrons!)
+ * Network Link Layer
+ * Transport Layer
+ * Session Layer
+ * Presentation Layer
+ * Application Layer
+*
+
+Protocols! - agreed-upon interfaces to connect between different nodes
+ * TCPIP
+ * Websockets
+ * DNS (Domain Name System, aka phone book)
+
+Topologies (very physical concept -> where the internet comes from):
+ * wifi router
+ * somewhere else in the room
+ * 60 Hudson st (tribeca)
+ * *
+   * a 1 bedroom 1 bath costs 1.7 million here @ 55 hudson, lowest latency internet :-p wrong address!
+ * California
+ * Excellent documentary on where is the physical internet in NYC. By Ben Mendelsohn and Alex Chohlas-Wood - https://vimeo.com/30642376#at=0
+ * (I've head this is good: http://www.amazon.com/Tubes-A-Journey-Center-Internet/dp/0061994952)
+
+Regular internet looks like:
+
+*
+
+MESH NETWORKS
+*
+
+A mesh network is a network topology in which each node (called a mesh node) relays data for the network. All nodes cooperate in the distribution of data in the network. It is an agreed-upon protocol for computers to talk to each other in a self healing way, without a centralized structure or authority to manage connections. (I.e. no 60 Hudson st)
+
+Meshes are self assembling networks, or self healing networks.  If a node goes down, the network will find a new path to connect nodes. 
+
+*
+
+Centralized (star topology) - DNS (can also run on a decentralized network), HTTP, broadcast radio, twitter (through a single server), roads
+De-centralized - runs peer-to-peer on each person's computer - Bit Torrent
+
+Metaphor: the ring road might be faster even if it's not as direct.
+
+There are a number of very large mesh networking the world, not very well publicized. All in Europe - example:
+*
+
+Guifi - this network in barcelona is made possible by rooftop broadcasting antenas.
+see how star based it still is? sorta centralized.
+
+Mesh is such a sexy topic. It just sounds etherial and like something you want to do, right? But the biggest mesh networks are politically motivated (less sexy?). Folks in teh Catalan only had dialup, they wanted broadband. So they did mesh to spread teh broadband. Germany had lots of infrastructure mismanaged during iron curtain. Tech savvy folks leapfrogged this by connecting by mesh. 
+
+Ushahidi BRCK - backup generator for the internet
+
+*
+
+
+Ubiqiti router - you can upload an operating system based around mesh networking on it.
+(yes, he's doing this all off the cuff)
+
+airMaX Ubiquiti
+
+bidirectional link needs strong signal in both directions. 
+
+Let's talk about Occupy.
+
+This is Isaac:
+ * :) lee t link to the documentary!
+*
+He made a mesh network for Occupy.
+Clear routers - 3g routers for cell network, makes hotspot, 
+Free The Network
+*
+
+MAKING A MESH
+
+ * Check what you have on the router already. written on underside. - in our case TP-Link TL-MR3020
+ * look for this name on openWRT
+ * Go into System Preferences and then open Network. Check your IP address
+ * Open your Network Utility app (find in the search) and click Netstat and run.
+ * Open terminal and enter nmap -sP 192.168.1.0/24 (brew install nmap, if you get a command error)
+ * call Dan on the phone to ask him for passwords/how to reset
+ * In this photo, Dan is on speaker phone. (oh hai —Dan)
+
+*
+
+*
+
+Just poke the recessed reset button 10 seconds *after* you first apply  power and hold it down for a couple seconds. The light should start  flashing super fast. Then you should be able to telnet in to 192.168.1.1  using Ethernet.
+
+More on failsafe mode here:
+http://wiki.openwrt.org/toh/tp-link/tl-wr703n#failsafe.mode
+
+Now you need to get that file onto the router. The easiest way is just to put it on a usb drive, and then plug it in.
+
+`mtd write -r /usb/openwrt-ar71xx-generic-tl-mr3020-v1-squashfs-factory.bin firmware`
+
+telnet lets you connect to anything that has a tcp/ip access
+
+mtd - Memory Technology Device
+A Memory Technology Device (MTD) is a type of device file in Linux for interacting with flash memory. The MTD subsystem was created to provide an abstraction layer between the hardware-specific device drivers and higher-level applications. Although character and block device files already existed, their semantics don't map well to the way that flash memory devices operate.
+
+
+really? the os is called Attitude Adjustment?
+ *  the old version was called white russian...
+
+download squash-factory version of openwrt for your router
+
+scp = copy over ssh,,,
+mtd = instead of accessing harddrive > ram instead
+have to use so you can flash into firmware
+
+If telnet doesn't work, go into failsafe mode. 
+
+
+
+way we pass file to router
+ * npm install -g serve (on laptop)
+ * run serve at the folder with file (on laptop)
+ * (on router) wget http://192.168.1.2:3000/filename
+ * cd tmp (to see file there)
+
+ida's password: willcodeforgin
+success:
+*
+
+
+
+BATMAN
+COMMOTION http://commotionwireless.net/
+olsr
+
+Address Space Collision!
+
+Other resources (via Sean):
+
+Slovenia mesh has a great setup page: <https://grow.wlan-si.net/wiki/Navodila/Kratka/English>
+
+Biggest mesh in the world map: <http://guifi.net/en/node/2413/view/map>  They actually have started installing fiber onto their network to get  super fast broadband.  AND actually their network is no longer a "mesh",  it was originally using mesh protocols so that they could quickly grow  their network. Now it's top-down managed, i.e., there's a central  authority that manages the links. Mesh becomes unmanagable and does not  scale well when it gets past a few hundred nodes.
+
+Not necessarily a mesh network, but I am really fascinated with packet radio -- it's a kind of low tech mesh system through radio: http://en.wikipedia.org/wiki/Automatic_Packet_Reporting_System
+http://www.aprs.org/
+here you can see objects sending message mapped to google maps: 
+http://aprs.fi/#!lat=38.00000&lng=-97.00000
+

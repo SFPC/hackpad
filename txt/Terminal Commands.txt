@@ -1,0 +1,184 @@
+Terminal Commands
+Command Line as a Creative Practice
+Command Line Tutorials
+Command line Video Scraping
+
+alias - Create an alias
+alloc - List used and free memory
+awk - Find and Replace text within file(s)
+basename - Convert a full pathname to just a folder path
+bash - Bourne-Again SHell (Linux)
+bless - Set volume bootability and startup disk options.
+break - Exit from a loop
+cal - Display a calendar
+case - Conditionally perform a command
+cat - Display the contents of a file
+cd - Change Directory
+chflags - Change a file or folder's flags.
+chgrp - Change group ownership
+chmod - Change access permissions
+chown - Change file owner and group
+chroot - Run a command with a different root directory
+cksum - Print CRC checksum and byte counts
+clear - Clear terminal screen
+cmp - Compare two files
+comm - Compare two sorted files line by line
+complete - Edit a command completion [word/pattern/list]
+continue - Resume the next iteration of a loop
+cp - Copy one or more files to another location
+cron - Daemon to execute scheduled commands
+crontab - Schedule a command to run at a later date/time
+cut - Divide a file into several parts
+ * cut -d ":" -f 5- file (http://en.wikipedia.org/wiki/Cut_(Unix))
+date - Display or change the date & time
+dc - Desk Calculator
+dd - Data Dump - Convert and copy a file
+df - Display free disk space
+diff - Display the differences between two files
+diff3 - Show differences among three files
+dirname Convert a full pathname to just a path
+dirs Di - play list of remembered directories
+diskutil - Disk utilities - Format, Verify, Repair
+ditto - Copy files and folders
+dscl - Directory Service command line utility
+du - Estimate file space usage
+echo - Display message on screen
+ed - A line-oriented text editor (edlin)
+enable - Stop or start printers and classes.
+env - Set environment and run a utility
+eval - Evaluate several commands/arguments
+exec - Execute a command
+exit - Exit the shell
+expect - Programmed dialogue with interactive programs
+expand - Convert tabs to spaces
+expr - Evaluate expressions
+false - Do nothing, unsuccessfully
+fdisk - Partition table manipulator for Darwin UFS/HFS/DOS
+find - Search for files that meet a desired criteria
+fmt - Reformat paragraph text
+fold - Wrap text to fit a specified width
+for - Expand words, and execute commands
+foreach - Loop, expand words, and execute commands
+fsck - Filesystem consistency check and repair
+fs - usage Filesystem usage (process/pathname)
+ftp - Internet file transfer program
+GetFileInfo - Get attributes of HFS+ files
+getopt - Parse positional parameters
+goto - Jump to label and continue execution
+grep - Search file(s) for lines that match a given pattern
+groups - Print group names a user is in
+gzip - Compress or decompress files
+head - Display the first lines of a file
+hdiutil - Manipulate iso disk images
+history - Command History
+hostname - Print or set system name
+id - Print user and group names/id's
+if - Conditionally perform a command
+info - Help info
+install - Copy files and set attributes
+jobs - List active jobs
+join - Join lines on a common field
+kill - Stop a process from running
+l - List files in long format (ls -l)
+iconv -f original_charset -t utf-8 originalfile > newfile
+ * hanging utf-8 to orginal charset so it will be readable (http://docs.moodle.org/23/en/Converting_files_to_UTF-8)
+ll - List files in long format, showing invisible files (ls -la)
+less - Display output one screen at a time
+ln - Make links between files (hard links, symbolic links)
+locate - Find files
+logname - Print current login name
+login - log into the computer
+logout - Exit a login shell (bye)
+lpr - Print files
+lprm - Remove jobs from the print queue
+lpstat - Printer status information
+ls - List information about file(s)
+lsbom - List a bill of materials file
+lsof - List open files
+man - Help manual
+mkdir - Create new folder(s)
+mkfifo - Make FIFOs (named pipes)
+more - Display output one screen at a time
+mount - Mount a file system
+mv - Move or rename files or directories
+net - Manage network resources
+nice - Set the priority of a command
+nohup - Run a command immune to hangups
+onintr - Control the action of a shell interrupt
+open - Open a file/folder/URL/Application
+osascript - Execute AppleScript
+passwd - Modify a user password
+paste - Merge lines of files
+pbcopy - Copy data to the clipboard
+pbpaste - Paste data from the Clipboard
+pico - Simple text editor
+ping - Test a network connection
+pmset - Power Management settings
+popd - Restore the previous value of the current directory
+pr - Convert text files for printing
+printenv - Print environment variables
+printf - Format and print data
+ps - Process status
+pushd - Save and then change the current directory
+pwd - Print Working Directory
+quota - Display disk usage and limits
+rcp - Copy files between machines.
+repeat - Execute a command multiple times
+rm - Remove files
+rmdir - Remove folder(s)
+rpm - Remote Package Manager
+rsync - Remote file copy - Sync file tree (also RsyncX)
+say - Convert text to audible speech
+sched - Schedule a command to run at a later time.
+screencapture - Capture screen image to file or disk
+sdiff - Merge two files interactively
+security - Administer Keychains, keys, certificates and the Security framework
+sed - Stream Editor
+set - Set a shell variable = value
+setenv - Set an environment variable = value
+setfile - Set attributes of HFS+ files
+shift - Shift positional parameters
+shutdown - Shutdown or restart OS X
+sleep - Delay for a specified time
+softwareupdate - System software update tool
+sort - Sort text files
+split - Split a file into fixed-size pieces
+stop - Stop a job or process
+su - Substitute user identity
+sudo - Execute a command as another user
+sum - Print a checksum for a file
+switch - Conditionally perform a command
+tail - Output the last part of files
+tar - Tape ARchiver
+tee - Redirect output to multiple files
+test - Condition evaluation
+time - Measure Program Resource Use
+touch - Change file timestamps
+traceroute - Trace Route to Host
+tr - Translate, squeeze, and/or delete characters
+true - Do nothing, successfully
+tty - Print filename of terminal on stdin
+type - Describe a command
+umask - Users file creation mask
+umount - a device
+unalias - Remove an alias
+uname - Print system information
+unexpand - Convert spaces to tabs
+uniq - Uniquify files
+units - Convert units from one scale to another
+unset - Remove variable or function names
+unsetenv - Remove environment variable
+users - Print login names of users currently logged in
+uuencode - Encode a binary file
+uudecode - Decode a file created by uuencode
+vi - Text Editor
+wc - Print byte, word, and line counts
+where - Report all known instances of a command
+which - Locate a program file in the user's path
+while - Execute commands
+who - Print all usernames currently logged on
+whoami - Print the current user id and name (`id -un')
+xargs - Execute utility - passing arguments
+yes - Print a string until interrupted
+
+

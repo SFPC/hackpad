@@ -1,0 +1,69 @@
+Binary Numbers
+Basis of computation.
+ * What do they mean what do they feel like.
+ * In terms of code who wants to learn what.
+ * Think about this topic from the standpoint of pedagogy.
+ * When I say Binary numbers what do you think of.
+   * 0 1 0 1
+   * Machine language.
+   * A light switch.
+   * Input/Output
+   * True and False
+ * They are the building blocks.
+ * There are only 10 different kinds of people in the world.
+ * Audacity import Raw Data.
+   * Doesn't know anything about the file.
+   * Every pixel translated into every decibel in audio.
+   * If we add noise to the image and save it again as raw
+   * 
+ * The poetic side of Binary numbers.
+   * Signaling systems.
+     * Using 0 1 to represent something else.
+   * Hannah Weiner Code Poems
+*
+*
+http://www.youtube.com/watch?v=DF0IoXUGkKU
+ * Thinking about Binary numbers as an information display.
+ * We are used to counting in base ten.
+ * Alot of things that make up code is made up of binary numbers.
+ * Computers are a machine that push electricity at a constant rate.
+   * It uses electricity to build things that create computation.
+   * 256 values with 8 zeros and ones.
+ * Binary numbers as permutations.
+ * Rotary Encoder
+
+*
+   * http://en.wikipedia.org/wiki/Rotary_encoder
+   * A knob, you want to figure out how much you have rotated the knob.
+   * A lot of them work optically.
+   * The systems is not always perfect (Gray Code).
+     * http://en.wikipedia.org /wiki/Gray_code
+   * John F. Simon Jr. Every Icon
+     * 32 X 32
+     * http://www.numeral.com/eicon.html
+     * How many combinations is this
+     * *
+
+*
+http://www.youtube.com/watch?v=5q-BH-tvxEg
+*
+
+*
+
+*
+http://www.youtube.com/watch?v=Z_sl99D2a18
+
+Chris Harrison
+*
+http://chrisharrison.net/index.php/Research/Lumitrack
+
+*
+ * Some bits are more important than others.
+   * Least significant bit, most significant bit.
+   * Stenography load secret messages.
+   * What is the most important informations vs the least important
+Proposition
+ * Design a tool or a game  to teach this concept.
+
+
+

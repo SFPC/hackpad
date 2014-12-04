@@ -1,0 +1,96 @@
+Arduino Workshop Sign Up
+With Zach D. and Andrew K.!!! Guaranteed Fun.
+
+Newbie Course (2+/- hr): Wednesday Dec 10th 10am-12pm
+Sign up (please indicate if you have an Arduino you can bring):
+Christo Allegra I think I have some in storage, let me track them down.
+Zan!  (um... I can buy an arduino if I need to - let me know)
+Sarah GP: My arduino is in my robot, so I'd rather use a different one
+Nathan Rosenberg (I have an arduino)
+Paige (I can also buy an arduino if I need to (I kind of want one) - let me know as well)
+Franc Camps-Febrer  (I don't have one, but I may get one before then)
+Lauren Gardner (i have one)
+Meghana Khandekar (don't have one)
+Defne Onen (don't have one)
+
+ *  I'm ordering 7 Arduinos and we have about 5 at the school, so we should be covered. You can also buy the arduinos I'm getting now to keep. $24 each.  
+
+Beyond Newbie Course (2+/- hr): Thursday Dec 11th 10am-12pm
+Sign up (please indicate if you have an Arduino you can bring):
+Zan!
+zach l (I can bring a bunch too if need be, we have heaps in the studio)
+Sarah GP
+Christo Allegra 
+Nathan Rosenberg (have arduino)
+Rachel Rose Ulgado (I don't have my arduino with me, sorry!)
+Paige
+Franc Camps-Febrer 
+Lauren Gardner (i have one)
+Yuki (I have 2xuno and 1xmega, and some sensors/step-motors. if you need spares, you can use them)
+Meghana Khandekar (don't have one)
+
+
+
+
+Rough outline for classes (still in progress):
+
+Pre-course expectations:  
+ * Bring Arduino if you have one.  Be willing to work with partner if not enough devices.
+ * Download and confirm operation of Arduino 1.0.6 software.
+
+Newbie Course: 1.5 hr
+
+What is it? single chip computer (5 min)
+How is it different from other small computers
+Powering. 5v and 3.3v regulated systems. 
+Programming IDE : C/C++
+Example files. 
+Basic Structure: global variables, setup, loop, custom functions. 
+
+Exercise 1: flash onboard LED (10 min)
+Emphasize:  declaring PINS as input or output in setup. Controlling digital PINs.  Using time. 
+                                                            
+Exercise 2: Serial output for debugging. (5 min)
+Emphasize: declaring baud rate, Output data types. Output runtime, output LED state. 
+
+Exercise 3: control external LED with PWM. (10 min)
+Emphasize: what is PWM. analog vs        digital Fade LED - fade colors on RGBled
+
+Exercise 4:  Digital Input with push button.  (15 min)
+Emphasize: Debouncing switches, pull-up, pull-down resistors 
+
+Exercise 5: Analog input (photoresistor) (15 min)
+        Analog to Digital Conversion 
+        Control an 8 bit tone
+
+Exercise 6: Control DC. motor with external MOSFET. (15 min)
+Emphasize: current limitations of Microcontroller pins.  how transistor works. Role of diode. 
+
+Exercise 7: Servo Control (15 min)
+
+A few tips for troubleshooting:
+        Test individual components before creating a complex system.
+        Do not leave a circuit on while building or when it doesn’t do what you expect.
+
+__________________________________________________________________________
+
+
+Beyond Newbie Course: 1.5 hr
+
+7 min review from class 1
+
+Storing a value in EEPROM (15 min)
+
+Installing and using a library (5 min)
+Communicating with other modules (40 min) 
+(Neopixels, Digit-display, Matrix, Accelerometer)
+
+Firmata with Processing or OF. Exercise: control size of shape with photoresistor. (15 min)
+
+Short Lecture -Nothing Hands on: Different Arduino devices.  Which one is for me?
+Breadboarding an Arduino / ATtiny (10 min)
+
+Short Lecture -Nothing Hands on: Tried and True Sensors and Add ons
+Multiplexing (10 min)
+
+

@@ -1,0 +1,68 @@
+# OF / GLSL study group
+
+**Tutorial:**
+
+[](http://www.openframeworks.cc/tutorials/graphics/shaders.html)http://www.openframeworks.cc/tutorials/graphics/shaders.html
+
+**GLSL instruction from Zach:**
+
+*
+
+[](https://soundcloud.com/motoititvcc/20131003-zach-glsl)https://soundcloud.com/motoititvcc/20131003-zach-glsl
+
+**Our Repos:**
+
+*   Motoi: [](https://github.com/motoishmz/sfpc-2013/tree/master/shader)[https://github.com/motoishmz/sfpc-2013/tree/master/shader](https://github.com/motoishmz/glsl)
+*   Jason: [](https://github.com/jasonlevine/glsl-lesson)https://github.com/jasonlevine/glsl-lesson
+
+**Questions:**
+
+*   ofVbo vs ofMesh
+*   ofVbo vs ofVboMesh
+*   glsl verstion 120 vs glsl verstion 150
+
+**<u>What Is GLSL?</u>**
+
+GLSL (GLslang) is a short term for the official OpenGL Shading Language. GLSL is a C/C++ similar high level programming language for several parts of the graphic card. With GLSL you can code (right up to) short programs, called shaders, which are executed on the GPU.
+
+**<u>Why Shaders?</u>**
+
+Until DirectX 8 hardware (GeForce 2 and lower, Radoen 7000 and lower) the graphic pipeline could only be configured, but not be programmed. For example there is the OpenGL lighting model with ambient, diffuse, specular and emissive lighting. This model is mainly used but there are many other models for lighting. In fixed-function OpenGL only this lighting model could be used, no other. With Shaders you are able to write your own lighting model. But thats only one feature of shaders. There are thousands of other really nice possibilities: Shadows, Environment Mapping, Per-Pixel Lighting, Bump Mapping, Parallax Bump Mapping, HDR, and much more!
+
+**<u>Why GLSL?</u>**
+
+Shaders are available in OpenGL till 2002 through ARB_vertex_program and ARB_fragment_program extension. But with those extensions you are only able to use assembly shaders. Because of the growing complexity of lighting and shading models assembly shaders are hard to use. GLSL is a high-level shading language, which means that you can write your shader in C/C++ style. This makes shader development much easier!
+
+**<u>Data Types In GLSL</u>**
+
+There are four main types: float, int, bool and sampler. For the first three types, vector types are available:
+
+vec2, vec3, vec4                        2D, 3D and 4D floating point vector
+
+ivec2, ivec3, ivec4                        2D, 3D and 4D integer vector
+
+bvec2, bvec3, bvec4                        2D, 3D and 4D boolean vectors
+
+For floats here are also matrix types:
+
+mat2, mat3, mat4                        2x2, 3x3, 4x4 floating point matrix
+
+Samplers are types representing textures. They are used for texture sampling. Sampler types have to be uniform. They are not allowed to be declared as a non-uniform type. Here are the different sampler types:
+
+sampler1D, sampler2D, sampler3D                1D, 2D and 3D texture
+
+samplerCube                                Cube Map texture
+
+sampler1Dshadow, sampler2Dshadow        1D and 2D depth-component texture
+
+**<u>About Attributes, Uniforms And Varyings</u>**
+
+There are three types of inputs and outputs in a shader: uniforms, attributes and varyings.
+
+Uniforms are values which do not change during a rendering, for example the light position or the light color. Uniforms are available in vertex and fragment shaders. Uniforms are read-only.
+
+Attributes are only available in vertex shader and they are input values which change every vertex, for example the vertex position or normals. Attributes are read-only.
+
+Varyings are used for passing data from a vertex shader to a fragment shader. Varyings are (perspective correct) interpolated across the primitive. Varyings are read-only in fragment shader but are read- and writeable in vertex shader (but be careful, reading a varying type before writing to it will return an undefined value). If you want to use varyings you have to declare the same varying in your vertex shader and in your fragment shader.
+
+All uniform, attribute and varying types HAVE to be global. You are not allowed to specify a uniform/attribute/varying type in a function or a void.

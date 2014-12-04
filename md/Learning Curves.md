@@ -1,0 +1,296 @@
+# Learning Curves
+
+Proffesor Amit Pitaru
+
+SFPC 2013
+
+__________________________________________________________________________________
+
+editing
+
+**CLASS 1**
+
+*   A language that makes a square with a triangle and a circle.
+*   You don't have to justify that it can be built today
+*   You won't show us how its done 
+*   Write the answer, but just give the documentation
+*   Build language for a specific audience
+*   A language that allows to be able to put any shape within any shape and place a color on each shape
+*   Language that uses emoticon
+*   Email the class about Roman Opalka and Jaron Lanier
+*   What are you trying to inject in a language write a paragraph
+*   Is it worth it, why is it worth it
+*   What does it mean to not have set hours of class
+*   What are some tricks and mechanisms for languages to work
+*   what dii languages let us do that illustrator does not
+*   We do it because things can be done in computer time and not in our time
+*   Why is your work specific to a computer
+*   what if the computer interpretation is a human reading an 'algorythm' that is impact, similar to how Amit was told to draw a line 
+*   formal and informal
+*   Computer used to be a job
+*   what if you code from the perspective of an ant to a bird that needs work done,
+*   out sourcing functions of the language to someone else
+*   Original artist are good are masking their inspirations and resources
+
+**CLASS 2**
+
+*   Creating a point of breathing in and breathing out every week
+*   Someone who is willing to listen to his worst ideas
+*   Why would you collaborate
+*   What would you wish your programming language would do
+*   Constraint based Programming Language
+*   Bill Atkinson : Hypercard
+*   Lego + Flow
+*   How do you keep a language from being complicated
+*   Everything seems to be an exercise of translation in some way
+*   Netscape, 20 days, Javascript
+*   Javascript is supposed to fail gracefully
+*   What kind of pizza owner are you? Metaphor
+*   The reason that javascript is broken and fails gracefully
+*   is the reason for its success.
+*   Tolstoy book replaced with Jon, Mary, and Jim (Email him Justin Suaso's)
+*   There are so many things that stumps us about a language
+*   that has nothing to do with the intelligence of the language but its notation.
+*   Chef computer language
+*   THe ability to just go through the hacking through stuff that i know the basic stuff but not the specific stuff
+*   A language for geometry using geometry
+*   Chinese easy (Website)
+*   What is the learning curve of your language
+*   Are you building thats easy
+*   A game called learning curves that allows you to see the learning curvesof things you want to do and proritize
+*   You can learn to read Korean in a day
+*   Be able to read others language but not speak it
+*   Start seeing the learnable at in everything
+*   Andrew Allan deciphering message the something something cypher
+*   Poetic Computation is much more than code
+*   Where at this very particular time where enough people have been exposed enough to computation to see the value in code.
+*   Rule based art
+*   The relevancy of literacy was not just there
+*   THe presipis of doing things computationally
+*   One piece of work that uses computational literacy to convey are creative ideas
+*   My literacy
+*   Internet Literacy
+*   Nerd-core
+*   MC++
+*   Free Dance + Jazz for Jazz Musicians
+*   Descriptive Language, VLSI, FPGA, Vherylaw, Hardware descriptive language
+*   Program at the logic level, design for machines
+*   The abstractions are on the language, and the output is a thing
+*   Microwave cooking for one
+*   Limited in a way that is more manageable
+*   Im so tainted I'm painted in tar
+*   undo some of the assumptions that are good or bad about code
+*   What are things that are defining your abilities and capabilities
+*   Why does a program really need these elements inside of it.
+*   Unlearning to Learn. Learning to Unlearn.
+*   These ideas of being able to hold two notions in your mind.
+*   The true signs of understanding is to able to hold two things in your mind and understanding F Scoot Fitzgerald
+*   Striving for adaptability
+*   Programming languages are so specific
+*   Maybe we don't think so specifically
+*   You're just nudging things around
+*   Engineers want optimize putout
+*   Take a moment to make a graphical piece that tries to convey your ideas and can put your name onto
+*   The language feels a style of working
+*   Instant Feedback
+*   Who is this everyone you speak of?
+*   Everyone. The whole planet is in controversy.
+*   Live coding, or slam coding. A computer that goes to resolve what it means.
+*   When it comes to a word that is doesn't recognize, it knows of previous grammar.
+*   There are certain words that it kwnoes.
+*   Recursively tries to find synonyms in order to understand keywords.
+*   Engine of very silly AI that we can fall to and pull things from
+*   Why even tell the computer to do anything?
+*   A human approximates things and the machine is specific.
+*   Roman Opalka is a Digital Signal Processing command (start from 1 -> infinity)
+*   THe language needs to convey the idea in a that is less explicit than this
+*   If we can create an idea that the computer can write
+*   How is a language or concept form the perspective of a language maker even born?
+*   Our understanding of the pattern recognition and wanting to convey that to the machine
+*   Creativity is solely based on the idea of deconstruction and synthesizing of patterns
+*   Explicit to the pattern to the condensity of the pattern
+*   The concept of iteration allows you to enact in computer time
+*   Lets not be as smart as that
+*   a variable is space in memory and a container
+*   McDonalds is a real state company
+*   Facebook is a data mining company
+*   Google is an ad company
+*   An idea of garbage collection, keeps looking to see that something is being called.
+*   Will the language do some feature for you. This will say how strict or loose your language is.
+*   What separates us the level through which we are able to take advantage of this.
+*   when talking about variables say set not equal.
+*   Its faster to hop into variables that are similar in size: 
+*   In terms of data stored in the computer by being more specific.
+*   Which language fits your character and which ;anguage fits the character your trying to get.
+*   Something cannot equal itself plus ten. y = y + 10; Take the value of y add 10 and set it equal to y
+*   Its evaluating y+10 before it sets y = to y + 10
+*   an iteration structure: decide how many times you want to era rate through a bunch of code.
+*   A language that is easy to write and easy to type.
+*   Brett Victor Talks
+*   How much memory did the spaceship had to get to space. Saving a file might have more memory than that these days.
+*   Some that is very explicit and annoying to write move into pattern recognition.
+*   We always need a new variable to expand on the language.
+*   Allows us to take a pattern that is intuitive to us for the machine and and expanding back.
+*   A language that will see your patterns and optimized your code.
+*   A lot of our smartest people are not curing cancer but making javascript faster.
+*   Code using more code using more code using more code
+*   By being able to convey ideas to the algorithm we can move beyond labor to create a certain task.
+*   The algorithm will always allow you to do more things that you could not do brutally
+*   Figure out where the algorithmic part of it is an advantage of it
+*   Classes of computer problems that are computable.
+*   Algorythms and how they relate to your process.
+*   And algorithms that says that if I'm here now i should take half the distance where I'm supposed to get to.
+*   With creative coding you don't mind fudging it because your not creating a spacecraft.
+*   Not have the vocational idea that we are doing amazing things with computers.
+*   When and where, do we reveal it or not, literacy of understanding computation.
+*   Don't go into outer space with them produce.
+*   Take this language that you've written or new one and also one more concept that you choose.
+*   A language that is well rounded needs to consider more than you've thought about last week.
+*   A recurring chris burden piece that shoots the highest form of AI and shoots it
+*   I think being dismissive of cultures that are growing can create unproductive tensions.
+*   Its the argument of privilege.
+*   Theres a level of intuition and respect to the audience.
+
+**ClASS 3**
+
+*   Most systems that we divise always hit a wall.
+*   Broad and expressive and not interesting in anyway
+*   What are the limitations of these things and how far can it take me.
+*   Whenever I'm learning something new I want to get an overal context.
+
+        *   what kind of things have people done with it.
+    *   do i invest my time and move forward or not.
+
+*   The underlying part of all of this is that there is not such thing as simplification. What is really happening is that they make one thing easy and other things difficult.
+*   Pay attention to how complexity moves, and how it easily happens.
+*   You should figure out if a language is a three year investment.
+*   How much have they gained and internalised certain complexities.
+
+        *   In the end they start ooking for other systems that start overlapping with that system,
+
+*   The ergonomics of learning,
+*   It defers complexity from me to the computer.
+*   I insist on this thing being fun.
+*   80% confort 20% disconfort
+*   80% disconfort 20% confort
+*   realise the physics of your brain
+*   I know knowledge that you not know.
+
+        *   if you pull it to the the extreme its a puzzle.
+    *   Write a lesson plan or recod a video showing how it works.
+
+*   Are we looking at it graphically or are we looking at it algorythmically.
+
+        *   two totally different ways of thinking and looking at the world.
+
+*   Ways of seeing algorythmically
+*   <u>pseudo code</u>
+
+<ul style="list-style: none;"><li>Processing Sketch
+
+<ul style="list-style: none;"><li>void draw() {<ul style="list-style: none;"><li>for (int i = 0; i < 500; i+= 15) {<ul style="list-style: none;"><li>for (int j = 0; j < 500; j +=15) {
+
+*   float distance = dist(i, j, mouseX, mouseY);
+*   fill(255 - distance);
+*   rect(i, j, 10, 10);
+</ul style="list-style: none;">
+
+*   }
+</ul style="list-style: none;">
+
+*   }
+</ul style="list-style: none;">
+
+*   }
+
+*   call back functions in creative programs. setup(), draw();
+*   we didn't plan this in any way we are doing this in real time.
+*   Somethings I need to learn again and again everytime I'm looking at it.
+*   I just can't get it in my head, that's fine no one is keeping score.
+*   Important 100 things you need to learn once.
+*   Not because the process is complicated but figuring out what to search for.
+*   Books teach you something and then build on their own context.
+*   Weird unintuitive, but totally natural.
+*   You uncomment stuff just to see what breaks.
+*   Sometimes when you don't define somthing they have a default value.
+*   What youre doing is taking the meaning of values, wragling them and creating a meaningful systems.
+*   The kernel, to be able to image how your system intearcts with a number and affec tthe nature of the system without coding it upfront is the nature of the expretise.
+*   Deep systems thinking.
+*   You have to have a mental model of these systems.
+*   Don't look at this code write it from scratch.
+*   I cannot tell you how many times I written the same code again and again.
+*   Learning to play the piano from a crazy teacher that would throw books at me.
+*   Languages that are specific to learn certain nuggets of information.
+*   The idea that any systems that we build can have mental models that are intuitive is very interesting.
+*   David Noland who wrote closure script.
+*   Notice what you're actually learning, the mental models.
+*   How can you create values and mental models that are meaningful to humans.
+*   Take something that you are learning and became and aha moment and convey and deliver it to someone else. [#project](https://moises404.hackpad.com/ep/search/?q=%23project&via=emKRYzuwbsm) 
+
+        *   The difference between classes and constructors,
+
+*   How do you explain a mental model to someone.
+*   Help Claire and Jason make their esoteric meta laymans language. What steps are needed [#project](https://moises404.hackpad.com/ep/search/?q=%23project&via=emKRYzuwbsm) 
+*   There are programs that will stream their programming. [#links](https://moises404.hackpad.com/ep/search/?q=%23links&via=emKRYzuwbsm)
+*   Computers was programming for women.
+*   Outsourced Art
+*   Learning Technologies, Learning my ideas and learning to talk about them.
+*   Why am I not interested in this. What is keeping me from diving into this field.
+*   We all have different styles of creating.
+*   You put a misucuan an a conceptual artist in a room it becomes a true collaboration. If they are there to make an album together it wouldn't work but if they are there to make something else t will work.
+*   When the camera became boring technology and its stop being about replacing portrait artist that is when it started becoming interesting.
+*   I want to see this craft basically undone from the innards.
+*   rentacoder.com to make an artwork critisizing capitalism
+*   What they have is algorythmic thought.
+
+**CLASS 4**
+
+*   <u>Yukinori Yanagi</u> Pacific 1996
+
+        *   [](http://www.tate.org.uk/art/artworks/yanagi-pacific-t07464)[http://www.tate.org.uk/art/artworks/yanagi-pacific-t07464](http://www.tate.org.uk/art/artworks/yanagi-pacific-t07464)
+
+*   Its always a challenge because the works that use machines, the heavy impression that it leaves is connection to nostalgia.
+*   if you think about all the possibilities.
+*   Make the connections to the amount of information your making now.
+*   Bottom Up Approach
+
+        *   Start by Meddling
+    *   Start by Starting
+    *   Pick the stuff that you are genuinely most interested.
+
+                *   Spend sometime creating permutations of it.
+
+        *   Being to concious about it being to deliverate about it.
+    *   The art of sleeping on ideas and seeing what happens to them.
+    *   Whatever you spend more time during the day the more gets processed the most.
+    *   Lose track of time.
+    *   Inapropreate amountes of time on insignificant things.
+
+*   John Cleese
+
+        *   prolific comedians and director.
+    *   Give yourself a tremendous amount of empty time to percolate your ideas.
+    *   More time.
+    *   it truly is an uncomfortable feeling not to know whats going on.
+
+*   Optimize your experience of having fun.
+*   Your not second guessing the thing that your doing.
+*   The discovery of Antibiotics
+
+        *   The lack of bacteria on that dish was faillure.
+
+*   The idea of not being tight.
+*   Not opinion is original but we have original takes on an idea.
+*   Any piece of technolgy example is demos.
+
+        *   Three layers deep.
+
+*   Photographs of the Mundane
+
+        *   Americana Pictures
+
+*   THe cusp of a bad idea turning into a good idea.
+*   The purpose of vistuosity is not to play 20 notes in seconds but to play 3 notes that everyone has heard and move them.
+*   Inner language when someone spends alot of time with a language they start developing a language with their work.
+
+*   **CLASS 5**

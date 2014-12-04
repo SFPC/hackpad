@@ -1,0 +1,17 @@
+Some SFPC Readings to help our SFPC Thinkings
+
+Add suggested readings here for discussion (prob best to keep these readings shortish - ie something we can do in a sitting, otherwise please suggest an excerpt)
+
+Andrew Gallaway, 2004, Protocol introduction
+http://thecomposingrooms.com/research/reading/GALLOWAY-Alexander.-Protocol.pdf
+
+A.M. Turing, 1950, Computing and Machinery Intelligence
+http://loebner.net/Prizef/TuringArticle.html
+A classic computation paper that initiated the field of artificial intelligence.
+
+uncreative writing - Kenneth Goldsmith
+http://chronicle.com/article/Uncreative-Writing/128908/
+It's Not Plagiarism. In the Digital Age, It's 'Repurposing.'
+(about poetry, text and writing in the digital age)
+
+

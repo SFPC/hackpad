@@ -1,0 +1,62 @@
+"homework" fall 2014
+
+For Zach (usually around Mon/Tues/Wed): 
+ * * OF example scripts: https://github.com/ofZach/algo2012
+   * challenge: get as many particles as you can interacting with each other in real time
+if you want to do things that are reactive, talk to Zach
+   * play with particle systems and particle-particle interactions
+   * look at John Whitney & make a John Whitney tribute with sin & cos
+     * make something beautiful with sin and cos
+   * print out some code, and annotate it
+   * write some code by hand (on paper)
+   * pick a tool/language and jam with it. 
+   * big list of tools,  but don't feel constrained to just this list
+   * notes  from friday's tool class
+
+For Ramsey (Mondays) - Radical Computer Sciene:
+   * (long term goal): A final project, write a turning complete programming language. Partners/collaboration welcome.
+   * clojure
+   * grammar homework 2
+     * File here has correct header: Ramsey class grammar 2
+   * grammar  homework 1
+   * postscript homework
+   * Play with puzzle script
+   * Wed 15th
+     * play with brainfuck - see info on blog 
+   * Mon 13th
+     * choose an image from greatartbot and write text code to create it (does not need to be executable) - bring to class Mon 13th
+     * readings/videos to watch on http://radicalcomputerscience.tumblr.com/
+         * note- some of these are long, leave time :)
+       * Bret Victor
+       * Alan Kay
+       * Mother of All Demos
+       * Sutherland (2)
+
+For Amit 
+ * prep a short lesson to teach something to the rest of the group next Wed
+ * write the tasks (scaffolding) that you would recommend to another, or assign yourself for learning some new thing
+ * Ongoing - choose something you want to teach (in 15 minutes,) and teach it to someone.  Also, learn something from someone.  
+
+For Taeyoon (Thursdays):
+ * Create all five logic gates (NOT, AND, NAND, OR, NOR) with transistors by next Thursday. He will be able to help throughout the week. Link to that hackpad here: flip flop
+ * Draw a diagram or comic of how you think your computer works (hint: input, output, cpu, memory, hardware, process...) - due Thurs Oct 16
+
+For Allison (Fridays):
+ * link to syllabus
+   * Each week, do the readings for that week & write a blog post
+   * Each week, two people will plan a presentation for the class.
+     * week 2 - What was the vision?
+       * Lauren and Toru
+     * week 3 - Decentralization and its Discontents
+       * Christo Allegra and Defne Onen
+     * week 4 - Utopias and Sci Fi
+       * Paige and Rachel
+     * week 5 - Messaging and Language
+       * Franc and Jonas
+     * week 6 - Internet of Things
+       * Zach and Sarah
+     * week 7 - Privacy and Surveillance
+       * Todd and Yuki
+     * week 8 - Political Change and Riots
+       * Andrew and Meghana
+

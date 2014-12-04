@@ -1,0 +1,93 @@
+# Introduction to Nodejs
+
+**examples of using Node.js?**
+
+*   www.abug.in/school_for_poetic_computation
+
+    anything with abug.in/xxx translate into sound..?
+
+*   use to mockup api's
+*   Dumbrella - proxy service that checks web to see if it's going to rain, communicates this to arduino in an umbrella handle, and lights up the handle if it's going to rain
+*   write simple chat bots, twitter bots easily
+
+**What is Node.js and why use it?**
+
+Python is a  language and interpreter. It's a glue between hardware and software or an interface between networking and a website. It's a platform for building fast networking scalable applications. In Nodejs you are writing javascript code and nodejs runs and interpretes it. It can do many things at once (asynchronys thinking) as apposed to doing things in order A, B, C, etc.
+
+**Install node**
+
+in terminal, type 
+
+*   brew install nodejs
+*
+
+**Example 1**
+
+*   what do each of these examples do?
+
+*       var http = require('http');
+*       
+*       var send_hello_world = function (req, res) {
+*           res.send('hell world\n');
+*       }
+*       
+*       http.createServer(send_hello_world).listen(1337, '127.0.0.1);
+*       
+*       console.log('Server running at [](http://127.0.01:1337/)http://127.0.01:1337/');
+*       
+
+**Example 2**  
+
+*       my_cool_message_manager.on('message', function(message){
+*           console.log(message);
+*       })
+*       
+*       my_cool_message_manager.on('leave', function(person){
+*           console.log('goodbye, ', person);
+*       }
+
+**Example 3 description**
+
+-a stream listens for things and pipes them.
+
+-whenever we get a tweet from this twitter stream, print it to the console
+
+**Example 3**
+
+server.listen (process.env.PORT or 5200), ->
+
+    stream = t.stream 'statuses/filter', { track: keywords }
+
+    stream.on 'tweet', (tweet) ->
+
+        for socket in connectSockets
+
+            socket.emit 'tweet', tweet
+
+    console.info "[%s] #{server.name} listening at #{server.url}", process.pid
+
+**Resources:**
+
+    Nipster - [](https://eirikb.github.io/nipster/)https://eirikb.github.io/nipster/
+
+    Request - [](https://github.com/mikeal/request)https://github.com/mikeal/request
+
+     ( nice node built-in 'http' alternative ) 
+
+*        had trouble installing nps and request.
+
+*
+
+[](https://gist.github.com/jedahan/11351894)https://gist.github.com/jedahan/11351894
+
+*    make sure to do `npm install request` before running this
+*   but how do i install npm?
+
+**Node.js on the raspberry pi**
+
+Node on the raspbian (the default raspberry pi linux distribution), is really, really out of date. To get an up-to-date version, install from these sources (thanks [revryl](http://revryl.com/2014/01/04/nodejs-raspberry-pi/) ):
+
+*   wget [](http://node-arm.herokuapp.com/node_latest_armhf.deb)[http://node-arm.herokuapp.com/node_latest_armhf.deb](http://node-arm.herokuapp.com/node_latest_armhf.deb)
+*   sudo dpkg -i node_latest_armhf.deb
+
+[](http://casperjs.org/)http://casperjs.org/[ - ](http://casperjs.org/)

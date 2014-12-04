@@ -1,0 +1,12 @@
+# Every Icon++
+
+A hackpad for braking down the steps and linking to code needed to recreate John F. Simon, Jr. for the web.
+
+[](http://www.numeral.com/eicon.html)http://www.numeral.com/eicon.html
+
+zach's implementation (always starts from time = 0): [](https://github.com/ofZach/sfpc_l2l_examples/tree/master/P5/everyIcon)https://github.com/ofZach/sfpc_l2l_examples/tree/master/P5/everyIcon
+
+**TECHNOLOGIES NEEDED**
+
+*   Javascript
+*   Backend?

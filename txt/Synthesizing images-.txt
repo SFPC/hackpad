@@ -1,0 +1,170 @@
+Synthesizing images!
+
+   Zach's class... add your code!
+  
+  ------------------------------------------ 
+   800x800 image
+  
+  
+    for (int i = 0; i < myImg.getWidth(); i++){
+        for (int j = 0; j < myImg.getHeight(); j++){
+            pixels[ (int)(j * 800 + i)] = sin(i * j)  * 178.0 + 178.0;
+        }
+    }
+    
+    *
+
+-----------------------------
+800 x 800 img
+
+pixels[ (int)(j * 800 + i)] = (i - mouseX) * (j - mouseX) / 5.0;
+
+*
+
+----------------------------------
+800 x 800 
+
+  for (int i = 0; i < myImg.getWidth(); i++){
+        for (int j = 0; j < myImg.getHeight(); j++){
+            float distance = ofDist(i, j, mouseX, mouseY);
+            if(distance < 200){
+                pixels[ (int)(j * myImg.getWidth() + i)] = sin((i + j + 1) / 20.0) * 178.0 + 178.0;
+            } else {
+                pixels[ (int)(j * myImg.getWidth() + i)] = 0;
+            }
+        }
+    }
+
+*
+
+
+  for (int i = 0; i < myImg.getWidth(); i++){
+        for (int j = 0; j < myImg.getHeight(); j++){
+                pixels[ (int)(j * myImg.getWidth() + i)] = sin((i +1) / 50.0) * 100.0 + cos((j +1) / 40.0) * 100.0 + 150.0;
+        }
+    }
+
+*
+
+
+                pixels[ (int)(j * myImg.getWidth() + i)] = (i - j)*(i+j);
+                
+             *
+             
+             
+                pixels[ (int)(j * myImg.getWidth() + i)] = (i/2.0 - j/2.0 + 5)*(i/3.0+j/1.0 + 100);
+                *
+
+
+   k = rand() % 30 - 15;
+            pixels[ (int)(j * myImg.getWidth() + i)] = (i/10.0 - j/10.0 + 5)*(i/10.0+j/10.0) + k;
+            *
+
+Titled: "harvest the noise" (thanks Andrew!)
+
+
+            k = rand() % 80 - 40;
+            pixels[ (int)(j * myImg.getWidth() + i)] = (i/10.0 - j/10.0 + 5)*(i/10.0+j/10.0) + k;
+           *
+
+    unsigned char * pixels = myImg.getPixels();
+    float w = myImg.getWidth();
+    
+    for (float i = 0; i < myImg.getWidth(); i++){
+        for (float j = 0; j < myImg.getHeight(); j++){
+            k = rand() % 100;
+            float norm = 255.0 / w;
+            pixels[ (int)(j * w + i)] = i * norm + j * norm + k ;
+        }
+    }
+    *
+    
+        unsigned char * pixels = myImg.getPixels();
+    float w = myImg.getWidth();
+    
+    for (float i = 0; i < myImg.getWidth(); i++){
+        for (float j = 0; j < myImg.getHeight(); j++){
+            k = rand() % 40;
+            float norm = 255.0 / w;
+            bool z = (int)((i - j)*(i+j)) % 255 > 220;
+            if(z){
+                pixels[ (int)(j * w + i)] = (i - j)*(i+j);
+            } else {
+                pixels[ (int)(j * w + i)] = 0;
+            }
+        }
+    }
+    
+    *
+
+
+    unsigned char * pixels = myImg.getPixels();
+    float w = myImg.getWidth();
+    
+    for (float i = 0; i < myImg.getWidth(); i++){
+        for (float j = 0; j < myImg.getHeight(); j++){
+            k = rand() % 40;
+            float norm = 255.0 / w;
+            bool z = (int)((i - j)*(i+j))% 255 < -230 ||(int)((i - j)*(i+j))% 255  > 230  ;
+            if(z){
+                pixels[ (int)(j * w + i)] = (i - j)*(i+j);
+            } else {
+                pixels[ (int)(j * w + i)] = 0;
+            }
+        }
+    }
+    
+    *
+    
+        for (float i = 0; i < myImg.getWidth(); i++){
+        for (float j = 0; j < myImg.getHeight(); j++){
+            if(rand() % 500 < 1) {
+                pixels[ (int)(j * w + i)] = 255;
+            } else {
+                pixels[ (int)(j * w + i)] = 0;
+            }
+        }
+    }
+    
+    *
+
+   for (float i = 0; i < myImg.getWidth(); i++){
+        for (float j = 0; j < myImg.getHeight(); j++){
+            if(rand() % 500 < 1) {
+                pixels[ (int)(j * w + i)] = 255 - rand() % 200;
+            } else {
+                pixels[ (int)(j * w + i)] = 0;
+            }
+        }
+    }
+
+*
+
+    Adding noise to define how likely it is that the given pixel will be a star pixel.  
+    
+            int val = ofNoise( i / 50.0, j / 50.0) * ofNoise( i / 500.0, j / 500.0) * 2000 + 1;
+                if(rand() % val < 2) {
+                        pixels[ (int)(j * w + i)] = 255 - rand() % 200;
+                    } else {
+                        pixels[ (int)(j * w + i)] = 0;
+                    }
+*
+
+The underlying noise function is shown below... The darker pixels in the image below are more likely to be stars in the image above than the lighter areas. 
+
+*
+
+
+Using a the same noise function but with different parameters, we get a different star density.
+
+  int val = ofNoise( i / 200.0, j / 200.0) * ofNoise( i / 100.0, j / 100.0) * 2000 + 1;
+            
+                if(rand() % val < 2) {
+                        pixels[ (int)(j * w + i)] = 255 - rand() % 200;
+                    } else {
+                        pixels[ (int)(j * w + i)] = 0;
+                    }
+
+
+**  
+

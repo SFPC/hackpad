@@ -1,0 +1,39 @@
+Themes
+
+Themes
+ * Movement (animating) 
+ * connecting things (different program, data) 
+ * Spaces
+ * Social hacking (Kyle & Lauren) - ITP class 
+ * Wearable or Games Kaho Abe (Two mondays)
+ * Environmental data (Tega and Paul Chang) 
+ * Ramsey Nasser (Language (poetry +code) 
+ * Lev Manovich 
+
+Technologies
+ * OpenFrameworks
+ * Processing
+ * Arduino 
+ * Pi 
+ * Web (javascript)
+ * Low level electronics 
+ * Handmade objects
+
+Structure
+ * Connect to your previous project, think about connections to the next project
+ * ex: openframeworks <-> http <-> arduino <-> physical
+ *  - those arrows, understanding how 2 of the layers communicate, means you know the key points of why
+   * chat with Zach re: oF to web, web to arduino
+
+ * spacebrew - http://docs.spacebrew.cc/gettingstarted/
+
+
+workshops/classes
+ * physical to virtual : arduino & C w/Taeyoon and Jonathan
+   * explore the relationship between low level logic and how we express it in software
+ * virtual to networked: making devices talk w/Zach and Jonathan
+   * looking at the http protocol from a space & speed limited device, the goal is to show just how open networking and packets are - to not be afraid of inspecting raw feeds to learn how they work. You can be a hacker too!
+ * networked to meaningful: communicating with humans w/Paul and Jonathan
+   * how to turn data into something that makes you feel / understand?
+   * the joys of animation?
+

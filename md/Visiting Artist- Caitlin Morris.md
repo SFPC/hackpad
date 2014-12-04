@@ -1,0 +1,71 @@
+# Visiting Artist: Caitlin Morris
+
+ Caitlin will teach 2+ sessions on physical computing and also deliver artist talk at some point next week. please use this pad to coordinate and update schedule. Caitlin has access to our calendar. 
+
+SIGN UP here
+
+This wednesday 1~4:30pm Intro Arduino (7 students max) 
+
+*   Andy
+*   Moises
+*   Jesse
+*   simona
+*   jason
+
+Friday 1~4:30 Intermediate Arduino (7 students max: intro students may take it as well)  
+
+*   Andy
+*   Le
+*   Jonathan
+*   Mini - have my own arduino
+*   Paul
+*   Rachel
+*   Jon
+*   Jesse
+*   Tega
+
+Next week 
+
+Wednesday 1~4:30 Individual/ small group sessions 
+
+Claire
+
+Jason
+
+Friday 1~4:30 Individual/ small group sessions 
+
+**Session 1, Intro to Arduino:**
+
+- anatomy of the arduino
+
+- anatomy of the sketch
+
+making an LED blink: digitalWrite HIGH and LOW
+
+Serial library + serial communication
+
+Serial = one thing after the other (one bit after the next, one at a time)
+
+single bit = 0 or 1
+
+1024 bits = 1 kilobyte (KB)
+
+Baud rate = bits per second = serial "frequency"
+
+Serial.println("Hello world!");
+
+Digital read / write - will also be binary (1 or 0) -- use a pushbutton
+
+Analog read - ADC analog-digital converter chip on pins A0-A5
+
+use a photoresistor / light sensor - this will convert the resistance coming in to a value between 0 and 1KB, or 0 and 1023
+
+** delay as a clearing tool - delay 5 or 10 ms between loops for the converter to settle / clear
+
+Serial.println(incoming value)
+
+Convert incoming value to an outgoing value
+
+PWM (pulse width modulation) - on pwm pins
+
+map()

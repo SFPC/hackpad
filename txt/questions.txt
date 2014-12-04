@@ -1,0 +1,187 @@
+questions
+
+this is from the google drive - please add / organize / augment as you like: 
+
+Conceptual
+ * Is the existence/interplay of coherence and incoherence in a piece what makes it interesting?
+ * What is the hardest programming language to be poetic in? The easiest?
+ * Is a computer crash an example of non-media?
+
+Political
+ * How do we mitigate risk when creating poems that may get entangled with current power structures? 
+ * Do the inventors of the magic lantern, lcd, etc, think about their impact as new media theorists do? 
+ * Has apple supported or hindered poetic computation? How does the @Raspberry_Pi help with poetry? Can we do better?
+ * Whats the history of computation poetry as we know it? How far does it go back?
+ * Why @zachlieberman have student make OpenFrameworks? Freedom from the existing libraries influencing the work?
+ * What regimes does the Met promote? 319 Scholes? Cooper Hewitt? The Walker?
+
+School
+ * Can we keep bees on the roof? And do datavis/painting/cooking/physcomp with them?
+
+Practice
+ * What are good challenges (code, paint, etc) in the format 'do the same thing in 3 different ways'? Are these useful? Like ‘calculate the 256th prime in 3 different languages’
+ * Are there exercises like code katas for fine arts?
+ * What constraints would be good to do something like 100 sketches in 10 days? 100 sketches in 100 days?
+ * Are there exercises to quickly learn about a particular medium like paint / video, that promotes iteration and experimentation?
+ * Are we permitted to do solo projects? The whole time?
+ * Or will we be in a bunch of self-organized groups?
+ * Will we do a project involving a contribution from every student?
+ * What about collaborating with someone outside the school?
+ * Can we continue our current personal projects? Or would you prefer something NEW?
+ * what's the best way to organize all your code and projects?
+ * I have a programming background, is it reasonable to use the “Learning to learn” class to learn multiple languages that I am not familiar with in parallel?
+ * Furthermore, is it reasonable to learn languages with different paradigms in parallel?  Specifically, I have no experience with functional programming, but I have strong urge to learn one(with no practical reason)
+
+
+Technical
+ * How do I do robust image matching like tineye or google image search?
+ * what are some useful APIs to know about?
+ * how do you write an API?
+ * what are shaders?
+ * how do you use OpenGL or webGL?
+ * how does sound work?
+ * how do you create models for 3d printing?
+ * how do electronics work?
+ * how do you write iOS apps?
+
+
+Community
+ * what's the best way to share your work?
+
+Pre-work
+ * what materials do you need to start working with hardware?
+ * how do people set up and test large (room-sized) installations? or even begin to work on them?
+ * what are the most important statistical concepts to know for making data visualizations?
+ * how do you choose between processing, openFrameworks, cinder, etc. what are the strengths and weaknesses of each?
+
+Artistic Practice
+ * Does being an artist mean having to describe yourself with words? Selling yourself with words?
+ * Often I feel like I don’t get residencies or grants as a result of the words I chose in my biography or proposal. I could also be paranoid.
+ * Can we learn about how to write about our art and artistic practice in a way that is not marketing?  Or is that a waste of time? Sometimes I feel like replacing my bio or proposal with: “Just watch my videos!”
+
+
+
+Syntax
+ * How can we build our own bible of vocabulary, syntax, etc.?
+ * Where can we find good references for all those?
+ * How do I write code? How do I optimize, organize it? How do you learn that?
+
+Documentation
+ * Where is the best place for code to live?
+ * What’s Github, and how do I get started?
+
+Anthropomorphic
+
+ * How do I get to speak to a machine?
+ * How do I make sure the machine understands me?
+ * How do I make a machine interact with a human?
+ * How do a machine talks to a machine?
+
+
+What is good for what?
+ * Which language is good for what?
+ * Which editor is better for X?
+ * Which technologies are better for X? computer vision, image processing...
+
+Languages
+ * What’s the best way to map and explain all languages?
+ * Is it starting from examples of projects - ends to means? Timeline - means to end?
+ * What’s the historic reason for a computer language to exist?
+ * Is the linear nature of code the best way to program? Is there a way to code with ‘media’ edges so it’s easier to create a mental model of what we’re doing, and where we are at any point?
+ * When does a piece of code become software?
+ * What is the level of bugs we can live with?
+
+
+
+
+
+Tool/process choices
+ * When working In a web development project, what are the different types of databases I can use and what is each database good at?
+ * How do I begin to conceptualize my web project to fit into a Model View Controller structure? Or other structure?
+ * How should I decide whether to learn AngularJS or Backbone for my project?
+ * I want to make a project that involves using the mechanical turk, how should I go about setting up my interface and project?
+ * Should I learn OpenGL before learning WebGL if I am coming from a web background? Long term
+ * In web development when should I use the HTML5 canvas tag instead of the DOM (Document Object Model)? Which is more heavy on the browser?
+ * What is the difference between Web Sockets and WebRTC?
+ * If I am interested in taking my existing web app into iOS devices should I use PhoneGap? Are there other similar services?
+ * If I'm interested in computer vision, should I start with the image Magik library?
+ * What tool to use for on screen highly interactive high frame rate video, with the result of still getting a vector bezier representation out of the image in the end? (not only drawing a rasterization to the screen)
+ * is open frameworks the right tool to learn
+ * what about programs like max/jitter compared to OF, why use python, why use java, is arduino the right thing to use 
+ * do i need to be proficient in more than one language
+ * will OF be redundant in a few years time
+ * how can i use the kinect - is it the best thing for tracking
+ * what is git - do i need to know it
+ * what about perl, shell scripts, still useful to learn to do?
+ * how detailed can i go on picking up movement, gesture and physical presence, and what would I use to do this?
+
+How to start
+ * What's the big difference between C, C++ and Objective-C? Can learning one help me with the others, or how different are they?
+ * What's the best way to learn C (or Objective-C) if I am comfortable with Python?
+ * How best to start with computer vision?
+ * What field of math should I be learning if I want to be more comfortable with dealing with bezier curves, curve continuity, etc.
+ * How and where to work with 3d shaders?
+ * How to build basic circuits? what is a transistor, capacitor, logic gate
+ * How to synthesize sound from circuits? (AM/FM/etc)
+ * how long will it take me to get good in open frameworks
+ * what is the best way to get sound in a piece - how small can i make it - why is it so small on chinese toys
+ * How to start with surface mounted electronics
+ * how can i understand projection - best way to do this
+ * what is the best way to play with video
+ * how can i learn to make things move as i want them to
+ * how do i control things with text messages
+
+Basic programming/tech terms and concepts
+ * What is memory allocation?
+ * What is Object Oriented programming
+ * What is computer vision?
+ * seems like the things i want to do are often the same - how can i create a library of code chunks to stitch together each time
+ * if i never understand pointers does it matter?
+
+Reinvention
+ * How do I turn my website into a TV with its own TV guide? How can I then make it so that I can stream live at specific times?
+ * I want to learn to mod commercial games by changing their source code, what games are good for beginners to mod?
+ * Is there a way to control the brightness of the pixels in my screen?
+
+Design questions
+ * What basic questions can I ask myself when making an interface to test if its intuitable and navigable?
+ * How do I learn to create Heroin Content?
+
+Procedural questions
+ * How do I install an OS onto my raspberry pi?
+ * How do I set up web sockets to allow to computers to interact with each other?
+ * How do I turn an algorithm that I find into code? (Math skills I guess) 
+ * whats the best way to start on a project - should i write pseudocode
+ * how can you collaborate effectively in code, can you code together
+ * how much should i document in the code and out of the code
+ * how often should i save a copy i can go back to, version control
+ * if i sell something and want to make it a one click process how can i do this #marketing
+
+Hardware
+ * What are different ways in which I can make a regular screen a touch-screen?
+ * if i have a prototype how can i convert it into a product
+ * am i limited by the choice of computer i have to do any of these things
+ * is it worth using all the arduino shields - or learning enough electronics to do it myself
+ * how can i control the computer with code - turn it on and off etc
+
+Reverse engineering
+ * What are the steps involved in making an app like the google project Chrome Maze?
+ * if i look at some of the pieces i admire- how hard on a scale of 1 to 10 are they to achieve.
+ * how did they do the one where they make you smile in the mirror
+ * and the one where you scratch his head and he looks up
+ * how much of other peoples code can i reuse and how
+
+Deep thoughts
+ * Should i improve my coding or will it take too long to be really good and i should collaborate with coders? is it worth improving my coding ability a small amount
+ * do i want to end up sitting at my computer all day long
+ * can you make any money from any of these things
+ * do you think part of the creative process is the coding
+ * what makes someone a good artistic coder
+
+Scope 
+ * how deeply do i have to understand it to teach it
+ * do i need to learn electronics at a low level to use it, and how deep do you have to go?
+ * am i too old to learn these things
+ * how many hours should i expect to spend getting good at this
+
+

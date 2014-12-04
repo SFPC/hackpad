@@ -1,0 +1,45 @@
+Mini's Project Stack
+
+ * Main Project
+Hacking Hangeul 
+Create your own language or sound using Korean written language system
+
+
+ * Side Coding Projects
+Javascript dog maker
+You can click to create random dog with different head, body, leg and tail
+
+Managing Project Tool
+Use D3 to create data viz tool that I can use to manage all the projects
+
+
+ * Things I like
+Teaching tools for programming
+ * How can I use physical object to teach programming in more tangiable way?
+ * Audience: younger children or just the beginner
+
+Data Visualization topic I am interested
+ * Making art with self-collected data
+   * Data around the city seen by Mini
+   * All the stuff in my house (When I was cleaning I had soooooo much stuffffff)
+   * Openpaths data
+   * Foursquare data
+   * Relationship 
+*
+
+ * Language analysis - e-mail? 
+*
+
+Topics I am interested in
+ * Connection between people - People's need to belong 
+*
+*
+
+ * Korean alphabet? - How do people perceive it. What do you think each thing will sound like? 
+   * Have a thing that people can pick a letter and see what they think it will sound like and record it
+   * Amit comment: 
+     * coding concept + learning language
+     * could you demonstrate. easiest things to teach in korean
+     * what is the little thing I can build to start this?
+ * Introversion/extroversion personality in general
+

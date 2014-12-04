@@ -1,0 +1,62 @@
+Some notes on particle systems in oF
+I'm trying out a few things and experimenting with particle systems in oF. My goal is to have some functioning systems  that display swarm behavior, so I'm noting here what's going on. Nowhere close to swarms and emergence yet, but I've got some nice particle systems going on. 
+I have some code in here:
+https://github.com/francamps/particles_oF
+
+And following Cinder tutorials, sections 1 and 2:
+http://libcinder.org/docs/v0.8.4/hello_cinder.html
+http://libcinder.org/docs/v0.8.4/flocking_chapter1.html 
+
+Sequential containers
+ * Vectors Use '''.push_back''' to add a new element to the end of the vector. Use a for loop '''vec[i]''' to iterate over the vector Calling methods on its elements like: p.update();
+ * Lists Containers whose elements can't be called by index, but rather sequentially. They need iterators to go over its elements, such as in:
+ * for( list<Particle>::iterator p = mParticles.begin(); p != mParticles.end(); ){
+ * Calling methods on its elements like:
+ * p->update();
+
+Particle physics
+Create individual particles
+ * Particle()
+And collect them in a larger object, which uses a container (vector, lists, etc)
+
+Layout
+ * Start them at random, or using a 2D Perlin noise (ofNoise).
+ * Place them on a grid and apply trig. functions on its radius according to position, such as:
+ *     radius = sin(pos.x*0.1)*2*cos(pos.y*0.1 + 0.1)*4;//ofRandom(2, 5);
+ * Start them on mouse pressed and then scatter with the velocity of the mouse. Calculate mouseVel:
+ *     mouseVel = ofVec2f(ofGetMouseX() - mouseLoc.x, ofGetMouseY() - mouseLoc.y);
+ *     mouseLoc = ofPoint(ofGetMouseX(), ofGetMouseY());
+And start particles with a proportion of this vel.
+
+Particle movement
+Position gets updated every frame with its velocity: pos += vel;
+Velocity can decay using a decay factor between 0 and 1: vel *= decay;
+Or we can use different sets of forces.
+
+ * Particle death
+Create age and lifespans
+ * int mAge = 0; //Add one per frame
+ * int mLifespan = 600;
+ * bool mIsDead;
+Use then the ratio between this as a factor on the radius:
+ * radius = radius*(1.0f - ( mAge / (float)mLifespan ));
+
+Make particles know about each other: repulsive force
+Give every particle an acceleration acc and a mass, and we'll iterate over every pair of particles to see the distance and how they affect each other.
+ *     for (unsigned int i = 0; i < vp.size(); i++){
+ *         for (unsigned int j = i; j < vp.size(); j++){
+ *             float d = ofDist(vp[i].pos.x, vp[i].pos.y, vp[j].pos.x, vp[j].pos.y);
+ * 
+ *             if (d > 0.0f){
+ *                 ofVec2f dir = vp[i].pos - vp[j].pos;
+ *                 dir.normalize();
+ *                 float f = 1.0f / pow(d, 2);
+ * 
+ *                 vp[i].acc += dir * (f / vp[i].mass);
+ *                 vp[j].acc -= dir * (f / vp[j].mass);
+ *             }
+ *         }
+ *     }
+This is going really slow :/ What is going on?
+ * particle particle interaction can be *very* slow, I will talk about this next week and strategies for speeding this up
+

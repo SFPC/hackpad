@@ -1,0 +1,24 @@
+OF Common Compile Errors
+Post Errors here and let's look for common errors to troubleshoot:
+
+While trying to compile ofxVoronoi example file:  
+https://github.com/vanderlin/ofxVoronoi
+Problem with Compile Utils.cpp
+
+
+*
+
+TOP 5 problems 
+ * set to build openframeworks not the project (target)
+   * soluton : be sure to pick the target you are compiling in the top left corner
+   * *
+ * 64 bit vs 32 bit
+   * sometimes it's set to build for 64 bit not 32 bit, you can change this by hightlighting the blue file for the project in the sidebar and adjusting build settings
+   * *
+ * missing frameworks from older projects
+   * older projects (0.8.0 for example) might be missing frameworks needed in newer OF
+   * solution-- navigate to system frameworks, right click to say "reveal in finder" and find the missing frameworks (likely coreVideo and qtkit) and drag them into the older project
+   * *
+ * project in wrong place
+   * check if "openframeworks" is red in the sidebar
+

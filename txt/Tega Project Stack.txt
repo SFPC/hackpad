@@ -1,0 +1,65 @@
+Tega Project Stack
+
+Ebay application for hoarders
+This project explores our relationship to the stuff we own. Generally once we have lost an item we quickly forget that we ever owned it, however, we are reluctant to take the initiative to throw things away by ourselves. This is especially apparent when it appears that other people are competing to own a particular object that is in our possession (I suppose this is what constitutes the concept of 'value').
+This project is a rogue piece of software that runs in the background of your computer and occasionally photographs your surroundings via the webcam. It then identifies objects from the photograph and automatically uploads the photographs of these objects to ebay, posting these items for sale unbeknownst to the owner of the objects and the program. You only realise your possessions have been sold once the auction is finished and it is too late.
+
+ha... rogue... but also quiet noir? i was talking with some friends about software fiction, hardware noir (like film noir) 
+
+A realestate hack to counter gentrification
+A program that monitors the value of real estate value based on recent sales figures for neighbourhoods. When it identifies a suburb where property prices are rapidly appreciating in value, the program pulls photos of properties from google streetview to place these properties for sale on real estate websites. The program attempts to counter the force of gentrification by artificially increasing the apparent supply of properties for sale.
+Aaamazing^^
+
+Digital image decay
+Remembering is an unstable and profoundly unreliable process. Brain researchers have found that the more we remember past events, the more our brains actually change and alter the events we recall making our most precious memories increasingly fictional. This project responds to these findings. A script gradually alters the digital image files stored on your hard-drive over time. The program acts to decay, pixelate and slightly change the images. The more you open these files to look at the images, the more rapidly the image decays and changes.
+ * I really love this idea — something great about artworks that irrevocably alter data on the computer.
+ * Perhaps images could also be combined occasionally, the way sometimes memories merge?  Or the created/modified dates could be altered, especially for older files?
+ * Totally - this would be really great. I've not really thought how to start this so let's chat.
+
+
+Typeface identifier
+A program that will generate a typeface by searching google images and identifying letters in the images returned. In this way, themed typefaces can be generated based on a keyword search.  For example, search the word 'tree' and generate a typeface made of leaves and branch shapes. Search the word 'porn' and generate a fleshy bodily typeface.
+
+
+Email Art
+Building on a long history of mail art projects that go back to fluxus works of the 1960s and 70s, this project aims to develop a script that tracks the path of an email. Where does an email actually go? Where are the google servers actually located? Can we track this in anyway?
+ * This is definitely possible — if you view the raw source of an email you get a trace of all the servers the email passed through, the IPs of which could be geo-located.
+cool. place-ness of internet is interesting.  
+
+
+Video frequency Studies
+Use EVM algorithms to identify oscillations in the world. Use this video analysis process to study people's heart rates in situations like political interviews, love scenes in movies, legal trials etc. Would add an additional dimension to how we understand these events?
+ * I'm still interested in this as well. 
+
+Street Tree Accounting
+How do you place a value on air quality or on maintaining the health of an ecosystem? How can we include improvements to air/water/biodiversity in our economic systems so that these things are rendered significant? A huge barrier to improving/maintaining the health our environmental commons is that the condition of our shared environment often remains as an externality to our economic systems. Air quality, water quality is typically under accounted for when designing our cities, industries and so on.  This project aims to develop accounting technologies for street trees. What is the value of a street tree, what are the improvements they make to air quality and amenity worth? I propose to build street tree calculator devices that attempt to value these activities and print them on invoices that are then both sent to city officials via email and printed at the site of the tree. I want to equip trees with little weather proof printers that senses a person is standing under the tree and then prints out invoices (with real bank account details) on behalf of the tree. This invoice would then fall out of the tree and onto the person's head. 
+
+
+Visual turing tests
+How well are we able to tell the difference between a real physical system and a programmed system? How close are our algorithmic representations to the actual behaviour of the system that they are trying to replicate. This project tests this by setting up real particle systems eg. a tank full of small fish, behind what appear to be a computer screens to see whether viewers can tell the difference between the real and the representation. 
+
+
+Weather turing machine
+Our weather system is changing but how rapidly and to what extent this is happening, are questions being dealt with by climate researchers around the world. How might we understand and render weather records in more meaningful and poetic ways? Daily weather records are freely available online and these datasets extend back over hundreds of years. This project is a machine that reads todays temperature data in concert with the temperature data from this day 100 years ago. Like a duet, each temperature record plays a part of a melody, when there is a significant difference between these two records the duet plays out of tune - it sounds dissonant, when the records are approximately the same, the duet plays in tune. The machine looks much like a Turning machine, the data is printed on paper and the paper runs through readers that play the data in real time. 
+
+*
+
+
+Water circuit kit
+This is a kit that can be hooked up to a bath tap to create a circuit. There are parts that reflect common electrical components like resistors, capacitors, switches etc. The kit helps build a conceptual understanding of how an electric circuit works whilst taking a bath. Parts are to be transparent and are to reflect how electrical components work as well as possible. LED = sprinkler. Resistor = funnel. 
+ * As a basic first step we could build some transistor-transistor logic gates with solenoid valves... I have a couple, and a pump. 
+ * Yes Im up for this (if we have time.. aghr)
+how about bath tub/ faucet toys?
+
+*
+
+*
+
+
+I wonder how far you can take the metaphor wit pressure and gravity before having to use electronics.  because there's something nice about explaining electronics without using electronics (like motors/ sensors) , and (like you wrote) sprinklers and pumps. Maybe a trip to water toy store? or Korean Spa in Queens? spa castle. 
+Yes I guess I thought about eventually printing parts but ready mades would be a good place to start.*
+
+Shazam for leaves
+An application that identifies tree species via "leaf recognition" software. Is this possible via computer vision algorithms?
+
+

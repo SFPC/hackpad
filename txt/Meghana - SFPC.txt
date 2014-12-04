@@ -1,0 +1,52 @@
+Meghana @ SFPC
+
+To do and learn:
+
+ * get comfortable with these, specifically movement & animation:
+   * concepts
+     * sin, cos
+     * push pop matrix
+   * environments
+     * processing
+     * openframeworks
+     * aftereffects
+     * d3
+ * sound design
+ * integrate sound with animation sketches
+ * make sketches that are interactive (a person can interact and play in addition to / instead of passively experiencing sketches)
+ * small weekly exercises
+ * blog regularly on sketches or thoughts about readings
+
+Timeline
+ * Week of Nov 3
+   * mon/tues — triptych drawing that models the kind of thing I want to replicate in motion (input: sound or kinect movement, output, animation)
+   * mon/tues — sketches / storyboard of possible interaction
+   * tues — plan what to learn
+   * tues/wed — dive into sin, cos & particles in oF
+   * end of week — 3 oF animation sketches
+
+Concepts to explore while learning the above ^ :
+
+ * ways of communication
+ * one person's reality vs another person's reality
+ * how miscommunication, mistranslation, glitches happen, and results in unexpected outcomes in a person's experience.
+ * use  cos / sin as stand-ins for person 1 and person 2 to explore  communication, translation & conflict *resolution* (but a positive,  learning from it phrase) between the two.
+ * use noise or drawing with time as a metaphor for person 1's process of learning person 2's way of communication, listening and adding on to a conversation to come to a shared understanding
+
+
+Work that inspires me in this moment; work that's addresses "translation":
+
+ * "Enamorados-Enamored" by Laura Belem 
+   * "Laura's    atmospheric works accomplish to take us to another time, subtly     engaging us in unexpected encounters with our everyday life and  making    us rethink our own history and the context we live in. Between  history  and fiction, she offers new perceptions of the world,  oscillating in   the  ghostly gap between presence and absence."
+   * Love the simplicity and beauty
+   * http://laurabelem.com.br/Enamorados-Enamored
+
+ * Radiolab "Translation" 
+   * How close can words get you to the truth and feel and force of life?  That's the question poking at our ribs this hour, as we   wonder how it is  that the right words can have the wrong meanings,   and  why sometimes the  best translations lead us to an understanding   that's  way deeper than  language.   This  episode, 8 stories that play out in the middle space  between   one  reality and another — where poetry, insult comedy, 911  calls, and   even  our own bodies work to close the gap.
+
+ * Leo's Song + Spheremetrical (Here With You) 
+   * Examples of stories of moments & relationships told through motion graphics
+
+
+
+

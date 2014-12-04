@@ -1,0 +1,239 @@
+# Final event 
+
+**Eyebeam tech list**
+
+note some are going to be in use by other artists in the building.
+
+from email. ''
+
+List is here, as of today: (exluding any which are used by artists or projects elsewhere in the building in March 2014, naturally)
+
+1) Projectors
+
+10 X Optoma TH1060p projectors, 1920x1080p full HD, 4500 lumens, DLP
+
+2) Monitors
+
+4 X Sony HX750 46" HDTVs, 1920x1080 240hz
+
+4 X Sony HX729 55" HDTVs, 1920x1080 240hz
+
+3) Media players
+
+8 X Netgear NeoTV 300SL, 1920x1080 players, from flash drives, look like Apple TVs,
+
+H264 formatting, can play loops (while not as super fluidly as an authored Quicktime Pro file on a loop using a Mac)
+
+4) Computers
+
+3 X 2.3ghz latest gen Mac Minis
+
+3 X Mac Pro towers (Quad core 2.66 Xeons), 5 years old, not latest gen, but can drive multiscreen video with Matrox boxes if needed (2x1920x1080, 3x1024x768 etc)
+
+possibly a few 27" LCD iMacs by then (based on budgets/money), can not yet promise
+
+5) Mixers
+
+1 X Mackie 402 VLZIII
+
+1 X Mackie 1402 VLZIII
+
+1 X Mackie 1604 VLZIII
+
+1 X Midas Venice F32 firewire live mixer
+
+6) Speakers
+
+- 7 pairs of Yamaha MSP3 biamped diecast powered monitors
+
+(by that time, depending on a large grant, possibly 10+ pairs of Genelec 8020s/8030s too)
+
+- 2 X QSC KW181 18" subs, amplified (great)
+
+- 2 X QSC KW152 15" PA speakers, amplified
+
+- 3 X QSC KW122 12" Wedge/monitors, amplified
+
+- 1 X QSC 122i 12" Wedge/monitors, amplified
+
+- 2 X QSC 152i 15" PA speakers
+
+- 1 X QSC 151i 15" Subwoofer
+
+- 2 X JBL PRX512 PA speakers
+
+7) Audio interfaces
+
+MOTU/Marc of the Unicorn
+
+Ultralite HD MkIII, 192khz 10/14 a/d, d/a audio interface
+
+**Paragraph for Eyebeam website**
+
+"_more poetry, less demo_" - SFPC 
+
+School for Poetic Computation, or SFPC, is an experimental education and research initiative in the form of a ten week learning environment. It is led by former Eyebeam fellows Zachary Lieberman and Taeyoon Choi with Amit Pitaru and Jen Lowe. In partnership with Eyebeam Art & Technology Center, the school will present _SFPC: The First Class _from November 20th to 23rd, a survey of unconventional learning processes featuring fifteen artists from their first class. 
+
+Through an open call, SFPC accepted these individuals from diverse backgrounds and locations around the world. Since September 15th, they have occupied a sun light filled loft in downtown Brooklyn attending lectures and workshops and averaging days of 12+ hours spent together. Classes covered topics from basic electronics, programming, math, cooking and walking and were accompanied by a program of guest lectures and workshops offered by leading artists and technologists.These students have produced teaching tools, software and hardware, interventions and provocations, asking questions on the poetics and creative use of computation.
+
+For _SFPC: The First Class_, the fifteen students will bring their final week of learning, collaboration and prototyping to Eyebeam. _SFPC: The First Class_ will transform Eyebeam's main exhibition space into a hybrid space of classroom, studio and an exhibition for work in progress and documentation from classes. Participating artists Andy Clymer, Claire Lin, Ishac Bertran, Jason Levine, Jessica Wolpert, Jonathan Dahan, Jonathan Wohl, Le Wei, Mini Kim, Moises Sanabria, Motoi Shimizu, Paul Cheng, Rachel Uwa, Simona De Rosa and Tega Brain will be present at Eyebeam to continue to work throughout the week. _SFPC: The First class_ will be open to the public from November 20th to 23rd, as an open classroom for the wider New York community to glimpse unconventional learning processes. There will be a public reception on the evening of Friday November 22nd, 6~8:30 pm and participatory workshop and discussion on Saturday November 23rd, 1~5 pm.
+
+-------------
+
+**OLD**
+
+Past week, I've been communicating with Eyebeam to host sfpc final event. Current progress is that we have positive feedback from programs director, and we need to answer some questions (below) to get executive confirmation. 
+
+The exhibition, or event, will be Nov 22~27. so it's not very long, because of Thanksgiving Holiday. Also we want to deinstall the show before some students will return home. We can't really ship art work, or deinstall for you. Please arrange your schedule accordingly, or coordinate with another student to plan deinstall. And since it's a short exhibit, we should be careful about putting too much energy in installation and try not to make anything too big that will be trash right after the show! (Its not only bad for the environment, but it costs alot to throw stuff out in NYC) 
+
+![](https://hackpad-attachments.s3.amazonaws.com/hackpad.com_FTMj23jzZhh_p.77239_1382103770397_undefined)
+
+They have availability in Main Space and Workshop Space, but not in Bookstore and Common Area. 
+
+This is an outdated floorplan, the space in far left is now entrance (bookstore) and Lobby Entrance with 9'7'' door is now Workshop space. 
+
+if you haven't been there, it's a large space with high ceiling. 
+
+This is a link to Interactivos? exhibition Zach, Fredrich and I curated in 2008
+
+[](http://www.flickr.com/search/?q=eyebeam%20interactivos)http://www.flickr.com/search/?q=eyebeam%20interactivos 
+
+ ![](https://hackpad-attachments.s3.amazonaws.com/hackpad.com_FTMj23jzZhh_p.77239_1382104221287_undefined) 
+
+ this was part of my exhibition in 2008 .
+
+ some random pictures i found online. 
+
+![](https://hackpad-attachments.s3.amazonaws.com/hackpad.com_FTMj23jzZhh_p.77239_1382104004171_undefined)
+
+![](https://hackpad-attachments.s3.amazonaws.com/hackpad.com_FTMj23jzZhh_p.77239_1382103991198_undefined)
+
+![](https://hackpad-attachments.s3.amazonaws.com/hackpad.com_FTMj23jzZhh_p.77239_1382103968306_undefined)
+
+ The space is also good for performance. 
+
+ --
+
+ Eyebeam suggests we use Workshop area (former Lobby) and part of Main Area. Set up might be similar to Prism Breakup exhibition. or it can be different. We will probably not use all the Main space, because it's huge. but close to half or 1/3 of space. 
+
+ so..i'm happy to lead curating of the final exhibition, but if someone wants to curate, or collaborate, im even happier to share the duty. 
+
+A. curating: this entails, thinking about works, text, installation, PR, inviting writers, etc 
+
+[Tega Brain](/ep/profile/ppZjvPL5nSC) [Rachel](/ep/profile/BIJbfRL0o0r)
+
+B. design: print, branding, web, invite, exhibition design
+
+Would you guys want to help out with Web/ Print for our exhibition design? 
+
+*   I can help with any design needs! - [Claire Lin](https://sfpc.hackpad.com/ep/profile/sOovaDOwuJq) 
+
+[Moises Sanabria](/ep/profile/v6pSS8EP8fM) [Andy Clymer](/ep/profile/ybfmyCe3WiP) Mini 
+
+C. tech: making tech list, working with eyebeam technicians
+
+Would you like to lead building tech list from student's needs so the exhibition realize itself? [Jason Levine](/ep/profile/m5rLOYYylrl) we can get additional technican, installer, we just need someone on the student's side to update me and eyebeam. I'll query everyone tmrw(monday) and start a hackpad.
+
+D. Logistics: budget, cash control, opening, reception, cleaning. 
+
+E. Documentation: photo/ video/ interview with students
+
+F. Education: free/ priced workshops 
+
+I think all of us will use exhibition as educational opportunity (to teach and learn) 
+
+** **
+
+## Eyebeam Space Application
+
+These are questions from Eyebeam we need to answer to get confirmation on event. 
+
+**1. Main contact person and contact information**
+
+Admin: Casey Gollan / casey@sfpc.io / 914.471.0959
+
+Curatorial: Taeyoon Choi / taeyoon@sfpc.io / 347.836.1388
+
+*            Tega Brain/ tegabrain@gmail.com/ 3472593073
+
+              Rachel Uwa/ rachel.uwa@gmail.com/
+
+Technical: Jason Levine 
+
+Design: Claire Lin 
+
+**2. Proposed date and time of event**
+
+First choice: Monday November 18~ Saturday November 23 (Install begins Sunday Nov 17, open process exhibition from 19~23. Public reception on Friday 22nd, Deinstall on Saturday after open hours and Sunday, Monday )
+
+Second choice: Friday November 22nd ~ Wednesday 27  (Install begins Wednesday 20, Public reception on Friday 22nd, Deinstall on Wednesday 27 after open hours, and over thanksgiving break) 
+
+**3. Event description**
+
+title: SFPC: The First Class 
+
+School for poetic computation is an experimental education and research initiative led by four artists in New York City. For its first class, the school accepted fifteen individuals from diverse backgrounds and locations around the world. Since September 15th, they have occupied a sun light filled loft in downtown Brooklyn attending lectures and workshops, averaging days of 12 + hours/day together. Covering topics ranging from logic gates, computer vision, cooking, walking and more, the daily classes became springboard for collaboration and collective teaching and learning. Over a ten week period, these students have produced teaching tools, software and hardware, interventions and provocations that bring into question the poetics of computation and creative use of computational media. <SFPC: The First Class> is a survey of the ideas exchanged at the school and an invitation for the wider New York community to glimpse an unconventional learning process initiated by this first class. Exhibition of student work, documentation from classes as well as workshops for the public willl be presented at Eyebeam Art and Technology Center. 
+
+**4. Space requirements/request**
+
+First choice, Entire main space. 
+
+Since the exhibition is process oriented and experimential, we would like to have the possibility to use the entire space. The setting will be similar to some CT-SWaM events [](http://danielneumann.wordpress.com/ct-swam/)http://danielneumann.wordpress.com/ct-swam/ where art work (sound/visual) will occupy the entire space but physical objects in the space will be at a minimum. It may be possible that some artist's work may demand more space for light/ sound seperation. 
+
+Second choice, east half of the main space and workshop area. The workshop area will be used for organizing classes, some open to the public and some for eyebeam community (students/ past artists/ invitation only). The main area will be inhabited by artist's work and presentation of classes at SFPC. 
+
+**5. Expected attendance and type of audience (i.e., coders, makers, hackers, business folks, artists, scientists, designers, etc)**
+
+Our opening event on September 15th attracted over 150 people, mostly from creative technology and art community in New York. We think our exhibition at Eyebeam will attract around 500 people over the course of week, opening event is expected to draw 300 people. 
+
+**6. List of collaborators, co-sponsors, funders**
+
+**Exhibiting Students: **Andy Clymer, Claire Lin, Ishac Bertran, Jason Levine, Jessica Wolpert, Jonathan Dahan, Jonathan Wohl, Le Wei, Mini Kim, Moises Sanabria, Motoi Shimizu, Paul Cheng, Rachel Uwa, Simona De Rosa, Tega Brain
+
+**SFPC: **Amit Pitaru, Zach Lieberman, Jen Lowe, Taeyoon Choi, Casey Gollan
+
+**Sponsors:** We can list school sponsors and probably also get event sponsors for things as needed.
+
+**7. Budget available**
+
+$1000+ for Space and Staff time at Eyebeam 
+
+(Eyebeam will let us know if they will charge for space or not, but we will have to pay for extra staff time and additional tech. For example, if we want the podiums painted, or special request, we will need to arrange things) 
+
+$3000+ for print/ web/ documentation/ transportation 
+
+(this number is arbitrary. It will be unlikely that this will be less than 3K, most likely we will have more left for exhibit. Sometime next week (or even early this week) Casey will have a firm grip on $ we have for final exhibit.) 
+
+**8. How will the event be publicized?**
+
+Via the SFPC mailing list (of approximately XX people), social media, to press contacts, relevant list-servs/blogs, friends and family. Possible to promote to Eyebeam's audience? (Bet we could think of some cool guerilla promotions for the show too?)
+
+**9. Technical requirements (audio, video, projection, lighting, etc.)**
+
+can you see if you can make a work in progress list of technical requirements? [Jason Levine](/ep/profile/m5rLOYYylrl) yes. see note above.
+
+**10. Presentation requirements (chairs, panel presentation tables, podium, etc.)**
+
+Podium of various size 10+
+
+Beam projectors 7+ 
+
+Stage with speakers and projection screen 
+
+Chairs 30+ 
+
+**11. Is there an admission cost or free of charge to attend?**
+
+Free and open to the public.
+
+We will charge $10~30/person for artist lead workshops.  
+
+**12. Will there be a reception?**
+
+Yes! (Nov. 22, 6 - 9pm.) And some performances of electronic instruments seems really important.  (Last night, there was a great happy birthday off the circuit from Taeyoon's class). 
+
+**13. What additional infrastructure will be needed to realize event?**
+
+**14. If applicable, do you have a liability insurance policy?**
+
+Not applicable. (I think.)

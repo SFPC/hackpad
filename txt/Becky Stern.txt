@@ -1,0 +1,144 @@
+Becky Stern
+*
+http://www.adafruit.com/beckystern
+*
+http://www.youtube.com/user/bekathwia
+Director of Wearable Electronics
+https://www.adafruit.com/
+ * Make project tutorials for all of the hardware.
+ * It is my job to put leds on things.
+ * Studied design and technology at Parsons.
+ * Get people to come to our site to learn from our tutorials.
+ * Manufacture from out factory space in Varick street.
+ * Unlocking hardware for artist.
+ * Carry interesting materials.
+   * Get to choose which materials beginners get to play with.
+ * Trying to solve some of these problems, trying to bring materials to the maker movement.
+ * Don't want to handle a personel overhead.
+ * Have 70 people in tribecca.
+   * Doubling the size of it really shortly.
+*
+
+ * Code Samples and Wiring Diagrams
+ * Easy to start and understand, don't have to learn to program to start.
+ * I'm more in the crafting team
+*
+http://www.youtube.com/watch?v=Cg3uBXMrshI
+   * Adafruit Skrit with motion sesnsor
+   * Teenage girls have wanter to make 
+   * How many LEDs can you put in fabric really?  #question
+   * The technique of your craft impacts the functionality of your circuit. #tip
+ * FAT Lab free art and technology.
+   * Mailing list where they share projects.
+ * KATSU Graffiti Drone
+*
+ * http://www.theguardian.com/artanddesign/architecture-design-blog/2014/apr/21/drone-does-graffiti-street-art
+ * Hussein Chalayan is a good example of wearables + tech
+*
+https://www.youtube.com/watch?v=TTisE2f5d0o
+
+ * Make sure that you can clean, fiberglass, plastic, and metal. If not on in general this stuff is kind of washable.
+ * Flora Board, arduino compatible board.
+ * Flora GPS Watch, Compass Module
+   * Looks for GPS signal shows you which way is north.
+   * Circuit you buy
+ * Hydrophobic Coding called Neverwet
+http://www.neverwet.com/
+
+
+NinjaFlex 3d printing
+*
+
+ * How did the Flora came into being? #question
+   * Political issues related to the creator ,MIT, and commercial use.
+   * The difference is similar to the arduino uno and the arduino leonardo.
+
+Community
+http://www.adafruit.com/blog/category/show-and-tell/
+ * Show and tell hangout.
+   * Half and hour. 
+   * AdaFruits show and tell.
+     * https://forums.adafruit.com/viewforum.php?f=31
+   * Out joy is in the teaching and making of communities.
+
+ * What is the best way to power wearable if you are designing for people who are non technical?
+   * Have a whole session on battery.
+   * Teardown playlist
+http://www.youtube.com/watch?v=xo0VAb53Hbg&list=PLjF7R1fz_OOXgtmTKH-1Dinp_HjEHK14T
+
+ * Has it happened where a company uses your examples and code in a product without crediting? #question
+   * Its okay to use our code we just want people to know that it is our code.
+   * We want to protect our trademark.
+   * People would clone our design and make cheaper price.
+   * Creative people building of our design.
+ * Physical Presence
+   * Rarely have a booth or physical presence at MakerFaire.
+   * Spent inside and do our stuff where we can reach more people.
+   * Workshops takes more effort and impacts lets people.
+   * Tend to be very selective.
+   * Hackers on Planet earth.
+*
+ * https://codebabes.com/
+ * Autodesk bought Instructables for a couple of million dollars.
+   * Software to manage shipping.
+   * Don't buy commercial software so much.
+   * If you are good at programming why would you buy a software that doesn't do what you really want.
+ * New Website
+   * 3 to 4 weeks ago
+   * Invest in our content.
+ * Fountain of Silicon Adhesives
+
+Origin Story Adafruit
+ * Limor Fried - College Dorm Room making cool experiments.
+   * Things that people want to make.
+   * Has a good spidey sense about things that want to be popular.
+   * Example: Internet of Things.
+
+ * Horror stories about what it took to get to the core values of Adafruit.
+   * Saying yes to things you regret later.
+   * By enacting those values so consistently.
+
+ * How do you want these wearable future to be.
+   * Wearables devices that they want you to wear all the time.
+     * Fibit, Nike Fuel Band.
+       * Augment your experience invisibly, have that data be part of your being.
+   * Like the opposite.
+     * Not make technologies that are invisible.
+ * Human powered Carnival
+ * How to keep staying in task with one project.
+   * Ping pong between different parts of the project.
+   * A job conducive to this workflow.
+ * The idea that there will be different ways to interface with hardware.
+
+If This Then That
+ * https://ifttt.com/
+ * Good for non programmers.
+ * Can interface with many things.
+ * Lets you prototype stuff really easy.
+
+ * how do you stop yourself from working on the different projects? #question
+   * Managing your own enthusiasm is really hard.
+   * I have 18 million work hobbies.
+Wearable Wednesday
+3D Thursday 
+Raspberry Pi Friday
+
+ * Are there other things like the makey makey that are useful for super rapid prototyping.
+   * Could turn any arduino into a makey makey if you use their code.
+   * Adafruit leraning system.
+
+Implementing your own tools
+ * There are infrastructure questions where you don't know how everything works.
+ * You can't rely on a single service.
+ * Economies of scale that can be so big that they control everything.
+
+Indie Web Camp
+http://indiewebcamp.com/
+
+LittleBits
+http://littlebits.cc/?gclid=CN2ug--b_L0CFYMcOgodSF8Avw
+
+Forrest Mims
+ * Hand-drawn graph paper books.
+
+

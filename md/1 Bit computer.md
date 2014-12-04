@@ -1,0 +1,36 @@
+# 1 Bit computer  
+
+This will take 3~4 hours (or more depending on how complex you want your computer to be)  
+
+Let's start tonight at once, if possible.  I think I can take 7 people at once. If more, we will do it two parts. 
+
+If you can't make it today but would like to join tomorrow afternoon for session on adder and memory.  
+
+**4.29 Monday 7 ~ 9: PM Clock, feedback, oscillation, Schmitt Trigger **
+
+*   Lee 
+*   Alex Z
+*   firm
+*   hiro.
+*   Diana
+*   yoyo
+*   Hyojung
+
+**4.30 Tuesday 3 ~ 5:30 PM Adder/ Memory **
+
+*   Alex Z
+*   firm
+*   Diana
+*   Hyojung
+*   yoyo 
+*   Nathan
+
+[](https://www.youtube.com/watch?v=YE52jvC-4r0)https://www.youtube.com/watch?v=YE52jvC-4r0 
+
+![](https://hackpad-attachments.s3.amazonaws.com/hackpad.com_Q5eXNVkbgiv_p.77239_1398704889078_undefined)
+
+![](https://hackpad-attachments.s3.amazonaws.com/hackpad.com_Q5eXNVkbgiv_p.77239_1398705139235_undefined)
+
+![](https://hackpad-attachments.s3.amazonaws.com/hackpad.com_Q5eXNVkbgiv_p.77239_1398705200154_undefined)
+
+![](https://hackpad-attachments.s3.amazonaws.com/hackpad.com_Q5eXNVkbgiv_p.77239_1398809976927_undefined)

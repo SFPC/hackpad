@@ -1,0 +1,31 @@
+# Amit's Last Class (Wed. 13.11)
+
+6:27 Claire
+
+6:39  Jazon
+
+6:51Moises
+
+7:03 Rachel
+
+7:15 Le
+
+7:27 Mini
+
+7:39 Jesse
+
+7:51 Motoi
+
+8:03 Tega
+
+8:15 andy
+
+8:27 Simona, would like to talk about : Apple Under Investigation in Italy for Alleged Tax Fraud
+
+8:39 Jon
+
+8:51 Ishac
+
+9:03 Paul
+
+<s>9:15 Jonathan </s>Thanks Jesse!

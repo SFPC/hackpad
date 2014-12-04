@@ -1,0 +1,39 @@
+ofxAudioUnit w/Jason
+
+Source code from workshop: https://github.com/SFPC/Audio-Unit-Workshop.git
+
+Step 1: Getting set up
+Download ofxAudioUnit : https://github.com/admsyn/ofxAudioUnit
+Place it in your addons folder
+Create a new project using projectgenerator and include ofxAudioUnit
+Open the project and add the audiounit.framework and coreaudiokit.framework
+Now your project should run without errors
+
+
+Step 2: Playing a file
+at the top of your .h file add:
+#include "ofxAudioUnit.h
+
+inside your testApp class add:
+ofxAudioUnitFilePlayer player;
+ofxAudioUnitOutput output;
+
+inside your .cpp file add:
+in setup():
+player.setFile(ofToDataPath(mySoundFile.mp3));
+player.connectTo(output);
+output.start();
+player.play();
+
+Now running your project will play your chosen file!!! Now, go ahead and erase iTunes!
+
+coming soon: adding effects to the DSP chain...
+ 
+
+try `auval -a` in terminal to see what audio units you have to work with
+ * all of these arguments are 4 characters! if its 3, like aumu dls appl, make sure you append a space to the dls argument so its `'aumu' 'dls ' 'appl'
+
+background info: 
+ * http://en.wikipedia.org/wiki/Audio_Units
+ * https://developer.apple.com/library/mac/documentation/MusicAudio/Conceptual/AudioUnitProgrammingGuide/Introduction/Introduction.html
+

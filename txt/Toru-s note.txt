@@ -1,0 +1,74 @@
+Toru's note
+
+My novel about SFPC
+http://ppppoetic.tumblr.com/
+My Triangle Map
+https://mapsengine.google.com/map/edit?mid=zMGQtUAgMtlU.kFikWOnJNJ2E
+
+
+Thoughts
+Tabletop games
+ * Games represent the nature of the code / computation / network 
+   * encode / decode 
+     * ex.) human fax experiment
+     * http://scan.net.au/scn/journal/vol10number2/Brogan-Bunt.html
+   * all of us operates everything that can be represent as numbers
+   * bicycle of our mind?
+   * Logic
+   * 
+ * 
+ * Deterministic / Stochastic
+ * Full information / Partial information
+ * 
+ * References
+ * http://en.wikipedia.org/wiki/Tabletop_game
+   * http://en.wikipedia.org/wiki/List_of_tabletop_game_components
+ * http://en.wikipedia.org/wiki/Board_game
+   * -"While some purists consider luck to be an undesirable component of a game, others counter that elements of luck can make for far more diverse and multi-faceted strategies, as concepts such as expected value and risk management must be considered."
+   * -"Luck, strategy, and diplomacy"
+   * -" Two-player games usually do not involve diplomacy (cooperative games being the exception). Thus, negotiation generally features only in games with three or more players. "
+   * http://en.wikipedia.org/wiki/List_of_board_games
+   * http://en.wikipedia.org/wiki/Category:Roll-and-move_board_games
+   * http://en.wikipedia.org/wiki/Category:Tile-based_board_games
+ * http://en.wikipedia.org/wiki/Abstract_strategy_game
+   * http://en.wikipedia.org/wiki/List_of_abstract_strategy_games#Stacking_games
+ * http://en.wikipedia.org/wiki/Connection_game
+ * http://en.wikipedia.org/wiki/Card_game
+ * http://en.wikipedia.org/wiki/Tile-based_game
+ * http://en.wikipedia.org/wiki/Paper-and-pencil_game
+ * http://en.wikipedia.org/wiki/List_of_dice_games
+ * http://en.wikipedia.org/wiki/Cooperative_board_game
+ * http://en.wikipedia.org/wiki/Race_game
+   * http://en.wikipedia.org/wiki/Game_of_the_Goose
+   * http://en.wikipedia.org/wiki/Parch%C3%ADs
+ * http://en.wikipedia.org/wiki/Deduction_board_game
+ * http://en.wikipedia.org/wiki/Educational_game
+ * http://en.wikipedia.org/wiki/Guessing_game
+   * http://en.wikipedia.org/wiki/Charades
+ * http://en.wikipedia.org/wiki/Mancala
+   * http://en.wikipedia.org/wiki/Bao_(mancala_game)
+ * http://en.wikipedia.org/wiki/Party_game
+ * http://en.wikipedia.org/wiki/Word_game
+ * -
+ * http://en.wikipedia.org/wiki/Game_mechanics
+ * -
+ * http://www.tk-game-diary.net/pix/pix.html
+ * http://en.wikipedia.org/wiki/Expected_value
+ * http://en.wikipedia.org/wiki/Risk_management
+ * http://en.wikipedia.org/wiki/Hardware_random_number_generator
+ * http://en.wikipedia.org/wiki/Diplomacy
+ * -
+ * http://www.boardgamegeek.com/
+ * http://geekandsundry.com/
+ * http://www.white-wolf.com/
+ * http://en.wikipedia.org/wiki/Going_Cardboard
+ * -
+ * Zach Gage
+   * https://www.stfj.net/text/
+ * Conditional Design Workbook
+   * -"sets of rules and conditions that stimulate collaboration between participants and lead to unpredictable outcomes."
+   * http://workbook.conditionaldesign.org/
+
+
+
+

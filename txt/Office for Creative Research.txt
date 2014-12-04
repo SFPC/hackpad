@@ -1,0 +1,36 @@
+Office for Creative Research 
+Jer Thorpe and Ben Rosen
+
+ data art 
+
+Working with CSV file from Moma, big messy file about everything in their collection 
+
+*
+(ops... not sure why that's upside down! blame it on messy data)
+
+usually starts with 'heres a bunch o data, go make your magic on it'
+
+Moma's collection is not jsut a bunch of stuff in boxes. It's a cultural history. The data lets us access that history. Example: lots of fuck shit piss art in the 1970s, not so much in the 1890s.
+
+OCR works heavily in processing. Jer advocates Processing because it's easier than openFrameworks.
+
+Java had a bad moment 10 years ago, really bloated. That's why open frameworks was started. Now, Java is not so bloated any more, the problems OF addressed are no longer issues. You can do everything with Processing that you can with OF now. 
+
+
+
+
+*
+http://earstudio.com/wp-content/uploads/2010/01/4191127272_3dfa6e6333_b.jpg
+
+
+The function of data is to solve things and to be operated on. Most excitement about big data is for utility, not art, installation or performance. The stuff in MoMA's collection is beautiful, and so also their data is beautiful.
+
+What is the natural resting place of a database?
+
+Collaboration with Elevator Repair Service - some data's natural resting place is in performance. 
+
+*
+http://vimeo.com/88271704
+
+
+

@@ -1,0 +1,80 @@
+Command Line Tutorials
+http://cli.learncodethehardway.org/
+http://en.flossmanuals.net/command-line/
+Advanced Bash-Scripting Guide - http://www.tldp.org/LDP/abs/html/
+
+theory of the command line
+http://theody.net/elements.html
+http://reader.lgru.net/texts/echo-echo-echo-echo-command-line-poetics/
+http://adam.shand.net/library/in_the_beginning_was_the_command_line/
+ * http://en.wikipedia.org/wiki/Unix_philosophy
+
+suggestions from the community: 
+*
+https://twitter.com/zachlieberman/status/458954412481069056
+
+fun
+ * telnet towel.blinkenlights.nl
+
+directory
+ * cd     (change directory  cd ../ goes back a level)
+ * pwd    (show where you are at)
+ * mv important.txt notSoImportant.txt (Rename `important.txt` to `notSoImportant.txt`)
+ * mv important.txt ~/Desktop/important.txt (Move `important.txt` to `Desktop` folder)
+ * pushd .   (push the current directory on to the stack)
+ * popd      (go back to the top most pushd folder)
+ * diff -qr /path_to_dir_A /path_to_dir   (compare two folders)
+https://github.com/rupa/z
+missing : cp
+
+memory
+ * history | grep part_of_command
+
+looking at text files
+ * wc -l   (word count lines)
+ * head 
+ * tail
+ * tail -f   (for viewing realtime logs... ie tail -f  /var/log/system.log)
+ * cat file.txt  (spit out file)
+ * 
+ffmpeg
+ * ffmpeg
+ * ffmpeg -i inputfile.avi -r 1 -f image2 image-%3d.jpeg
+ * ffmpeg -i inputfile.avi -r 1 -s 4cif -f image2 image-%3d.jpeg
+http://linuxers.org/tutorial/how-extract-images-video-using-ffmpeg
+
+internet 
+use curl or wget or browse the web with lynx
+ * curl http://www.theguardian.com/us -s | grep "war "
+ * curl http://neon.wavestreamer.com:8459  (warning this is crazy! raw mp3 data to the console)
+ * curl http://neon.wavestreamer.com:8459 > out.mp3  (ctrl c/z to stop)
+ * 
+ * http://www.telesthetic.org/woven/popup.htm?woven_presents_600.jpg
+
+OSX
+sips - http://www.ainotenshi.org/818/resizing-images-using-the-command-line
+pbcopy (copy to the clipboard)
+ * history | pbcopy    (pipe history into pbcopy)
+say 
+ * say "hello"
+cal 
+hexdump  (view hex info on files)
+
+expansion
+ * echo {Z..A}
+ * echo {0..15}
+ * for run in {1..10}; do echo hello; done
+
+text sorting
+ * tr ' ' '\n' < a.txt >> b.txt
+ * sort b.txt >> c.txt
+ * tr '\n' ' ' < c.txt >> d.txt
+ * (change spaces to newlines in a.txt into a new file b.txt)
+ * (sort b.txt into a new file c.txt)
+ * (change newlines to space in c.txt into a new file d.txt)
+
+Missing: 
+xargs, alias, tr, sort...  
+explanation of what I did with that bible file
+
+

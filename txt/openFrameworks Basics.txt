@@ -1,0 +1,38 @@
+openFrameworks Basics 
+
+Questions
+ * How do I get started with OF?
+ * Best way to structure files, especially if you are trying to put it on the Github and keep on updating?
+ * How to Addon stuff?
+ * Where and how can we find examples?
+ * how to use, understand and navigate through the documentation
+
+Notes:
+ * How compiling works? 
+ * Source code - Write text 
+   * differene between cpp file and h file
+     * h file - list of ingredient
+     * cpp file - how to execute the ingredients (steps)
+ * Pre-process
+   * Taking the text and changing it 
+     * "#" Take this file and modify it
+     * Include guard so if the file sees "h" file twice, it won't freak out
+       * http://en.wikipedia.org/wiki/Include_guard
+ * Compile
+ * Link
+   * Smashes all the code into one
+
+
+documentation: 
+
+use the prefix "of" to know what's going on
+objects will have an of, like ofImage, ofPolyline, ofVideoPlayer but have function and variables that don't have OF as a prefix.  like: 
+
+ofImage img;
+img.draw();
+
+other functions like in ofGraphics, such as ofRect, ofLine, ofCircle start with "of" as a prefix and don't require an object. 
+
+examples are really your friend.  
+
+

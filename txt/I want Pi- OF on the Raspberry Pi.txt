@@ -1,0 +1,39 @@
+I want Pi: OF on the Raspberry Pi
+
+Equipment List
+ * router
+   * ethernet cables? or wifi?
+ * For each participant:
+   * RPi
+   * Power Cable
+   * WiFi
+   * Pre-configured SD Card
+   * Maybe:
+     * Keyboard/mouse
+     * Display
+
+Workshop Outline
+ * Introduce ourselves, help people get setup (?), gauge experience.
+ * Intro to OF & Raspberry Pi
+   * What is OF good at?
+   * What is the Pi good at?
+   * And with their forces combined...
+ * Very Briefly walk through setup of Raspberry Pi
+   * we won't be performing this setup during the workshop, but I think it's good to go through it with people so that there's no mystery.
+   * describe difference between building in XCode and on pi (demonstrate make on Mac)
+ * Describe workflow
+   * Option A: SAMBA
+     * Mount the Pi on your computer
+     * If you're on a fast connection, edit the files directly
+     * If the connection is slow, edit a copy then move it to the Pi
+   * Option B: Git + SSH
+     * Develop and test on your computer
+     * Push working code to git repo
+     * From SSH session
+ * Walk through the osc skeleton code. Maybe we should build it together as a group since it's so simple, each one writing it individually?
+ * Show a couple examples of ways it could be used.
+ * Pair up participants, help them build something cool.
+
+Example Code
+https://github.com/jmwohl/OFPiWorkshop
+

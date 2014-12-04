@@ -1,0 +1,20 @@
+YOYO's works
+
+arduino + openframeworks
+ * LED control with openCv(motion detecting)
+*
+http://ryotaokawa.tumblr.com/post/84139364383/openframeworks-arduino-in-this-video-i-am-doing
+https://github.com/okawaryota/LEDcontrolwithOpenCc (code)
+ * aruduino(servo + pressure sensor)
+*
+http://ryotaokawa.tumblr.com/post/84140384013/presssure-sensor-controls-servo
+
+*
+http://ryotaokawa.tumblr.com/post/84159761438/make-things-wearable
+glsl
+
+
+
+
+
+

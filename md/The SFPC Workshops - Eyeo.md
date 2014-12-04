@@ -1,0 +1,150 @@
+# The SFPC Workshops @ Eyeo
+
+Deadlines:
+
+*   Final workshop descriptions to be added here by **Friday 25th April**
+*   Workshop booking system to be open for May
+
+Details
+
+*   One workshop is to be held per teacher
+*   A repeat or second workshop if co-teaching
+*   5 participants per workshop
+*   Workshops to run Wed, Thurs, Fri (1pm - 3pm?) - time TBC with Dave.
+*   Eyeo schedule tba in the first week of May. We will open up the booking for workshops following this. 
+
+To do
+
+*   Send descriptions to Dave for next week
+*   Send Dave twitter details and images of SFPC workshops
+*   Request draft Eyeo schedule to avoid competition
+*   Set up webpage with SFPC with workshop descriptions and links to booking system
+*   Equipment list (we need to source here and take gear with us)
+
+**Workshop Descriptions (in progress)**
+
+[Tega Brain](/ep/profile/ppZjvPL5nSC) & [Simona De Rosa](https://sfpc.hackpad.com/ep/profile/tDdkclidozg) 
+
+**Eat the data, smell the data**
+
+This workshop explores possibilities of presenting data as sensory experience. How can we work with data in ways that move beyond that of the visual? How can data or data combinations be physically represented, sensed, felt or tasted? How does the experience of data change how it is understood? 
+
+We will explore provocative and artistic ways to experience data by working through a number of exercises involving taste and fragrance. What aesthetic tactics and strategies are available for exploring data as a means of developing rapport with the system it represents?
+
+*
+
+Examples: 
+
+[](http://tegabrain.com/Weather-Instrument-1)[http://tegabrain.com/Weather-Instrument-1](http://tegabrain.com/Weather-Instrument-1)
+
+[](http://www.simona-derosa.com/works/#/tasted/)[http://www.simona-derosa.com/works/#/tasted/](http://www.simona-derosa.com/works/#/tasted/)
+
+[Le Wei](/ep/profile/EvXGRnnGwtq) and [Mini Kim](/ep/profile/C0i1FEsbqpf)
+
+**Analyzing your social history**
+
+In this session we will explore our relationships with others through history pulled from our phones or online social networks. What can this data illustrate about our evolving social patterns? How does this quantitative analysis compare to your own memories? This workshop will introduce some methods of gathering your personal data, followed by a brainstorm session around ways to work with it. 
+
+*   I would love to help with this Le. Let me know if that would be helpful or work. I am in India and could not join the Google Hangout. My connectivity is not the best here. 
+*   Yeah, for sure! added you to this one
+*   Let's meet up via Google hangout to discuss both of the workshop. :)
+
+[Jonathan Wohl](/ep/profile/rdI4x5fVNUz) and [Jonathan Dahan](/ep/profile/uABG7ngMwBe) 
+
+**I want Pi: OF on RaspberryPi  **
+
+Learn the basics of running openFrameworks on the Raspberry Pi! In this small workshop, participants will create a simple OF app that lets the Pis talk over a network. First, we'll briefly go through the steps of setting up the Pi, learn how to compile projects, and talk about the strengths and weaknesses of the Pi as a platform for OF projects. What types of projects are well suited to running OF on the RPi? Then we'll install and customize a small skeleton application that can send, receive, and react to OSC messages, demonstrating how multiple Pis might be used together in a project. In the process, we'll touch on a number of topics — shaders, video and image processing, sensors, and more!
+
+No prior experience required, and no need to bring your Pi. We'll have all of the necessary hardware ready to go — Pi's, screens, keyboards, etc.
+
+ [Jonathan Dahan](https://sfpc.hackpad.com/ep/profile/uABG7ngMwBe)**  and ???**
+
+**Taking Command**
+
+Use  the commandline to create new connections and artwork. Class will start out with some interesting examples, history and theory. Students  will then create programs that read from stdin and write to stdout, and  create one giant program that does...something fun.
+
+*   [Jonathan Dahan](/ep/profile/uABG7ngMwBe) - I (Le) would be interested in helping you with this! More people need to know how to use command line >:)
+*    Agreed — I'd help out with this too. Was thinking maybe also a "command-line show and tell" type of thing would be fun, since there are lots of ways to use the command line, and everyone has their own tricks.
+
+[Mini Kim](https://sfpc.hackpad.com/ep/profile/C0i1FEsbqpf) 
+
+**Color "Codes"**
+
+*   Not sold on the name, but please pitch in. 
+
+Color is very fun and the world is full of color. Colors are all beautiful on their own, but combining two or more colors can be difficult. Where do you start when deciding a color scheme for your design, website, or app?
+
+In the workshop, we will participate in hands on exercises that will build a better understanding of color combination and theory and try to write out our own rules to help us pick better colors.
+
+Our exercises will focus on:
+
+- Basic color theories that will help you
+
+- How different colors work together in combination
+
+- Different feelings evoked by different color combinations
+
+After this workshop, we hope for you to have a fun tool to help you start color picking for your projects in the future.
+
+*   [Le Wei](/ep/profile/EvXGRnnGwtq) Also let me know if you want to help with this. I don't think we will write real code, but everyone writing their own rule would be fun and your expertise might be useful.
+*   sure! maybe we can start to talk about generating colors programatically...
+*   I think this requires google hangout. :)
+
+[Peng Cheng](https://sfpc.hackpad.com/ep/profile/uWc1c24GF8a)
+
+**OpenFrameworks workshop---Mobile­ Apps**
+
+openFrameworks  is a cross-platform tool which means it not only can build apps for our  laptop, but also can build mobile apps for our phone and tablet. In  this workshop, we will learn how to use OF to build our first mobile app  on iOS. 
+
+In  workshop, we will walk through all basic knowledge about building iOS  apps with OF, such as setting up iOS development environment,  using  multi-touch, coding first iOS game and exploring openFrameworks iOS  addons.
+
+We are looking for all OF enthusiasts to join us.
+
+ OTHER WORKSHOP IDEAS
+
+ 1) Games for teaching and learning computation. Developing analog pedagogical tools for teaching programming
+
+^^^  Games for learning/teaching programming - maybe this could be  incorporated in the above. So we do a couple of exercises developing  games for teaching 
+
+Developing analog pedagogical tools for teaching programming
+
+*   binary 
+*   algorithmic processes
+*   I added the color & writing rules. That might be an interesting way to teach coding as well.
+
+ @[Mini](/ep/profile/C0i1FEsbqpf) -  You mentioned you want to help with data viz, want to help with this one? :)
+
+1 . openFrameworks workshop---Mobile­ Apps
+
+*   openFrameworks is a cross-platform tool which means it not only can build apps for our laptop, but also can build mobile apps for our phone and tablet. In this workshop, we will learn how to use OF to build our first mobile app on iOS. 
+*   In workshop, we will walk through all basic knowledge about building iOS apps with OF, such as setting up iOS development environment,  using multi-touch, coding first iOS game and exploring openFrameworks iOS addons.
+*   We are looking for all OF enthusiasts to join us.
+*
+
+2. Make the best controller for a Flappy bird like game
+
+makers can use tools provided by workshop, such as flexible sensors, Arduino and OF. to control a Flappy bird like game. For example,Players could wear flexible sensors on their body to simulate birds fly and control the game. The 
+
+workshop has 3 steps: 
+
+1.  learning step: show some examples as inspirations and explain foundation about  Arduino, Sensors and OF. 
+2.  Making step: makers start making their own controllers. TA will be beside them and give them help.
+3.  Competition: makers play test their projects by using their controller to play the game. The team who gets the best score who is the winner. 
+
+Students from the School for Poetic Computation (SFPC) propose to lead sessions at Eyeo 2014 to share research, experiences and skills developed during the first session of the school. Taking the form of Kitchen-Table coding workshops, they will share a taste of the SFPC experience with the EYEO community and showcase experimental approaches to teaching and learning developed in this educational project. 
+
+Kitchen-Table coding workshops* take the form of small group sessions designed for an intimate and flexible exploration of a particular theme or approach to coding and computational thinking. The group sizes are limited to 5 attendees (groups must be able to fit around a standard kitchen table) in order to create a safe, informal and relaxed atmosphere for collaborative learning. This format fosters conversation and encourages engagement with what might otherwise be considered 'silly questions' in a traditional classroom setting. 
+
+The SFPC alumni will run several parallel 2-3 hour workshops exploring computational techniques and educational approached developed at SFPC for EYEO participants. Topics for these workshops include:
+
+· Introduction to audio coding with Open Frameworks. Learn how to use the OF addon that wraps the _Audio Unit Framework_. This will enable you create interactive music and sound projects. The technologies studied in this course are demonstrated in an additional Eyeo performance offered by the instructor (Jason Levine).
+
+· Personal social data analysis. How does a quantitative analysis of your social life compare to your intuitive impression of it? Analyze your own recent social behaviours by creating a data visualization of your social interactions using data stored by your smart phone. This workshop introduces data vizualization techniques using Processing. (Mini is interested in helping  out)
+
+· (A)Life drawing session. How would you draw the internet? Or the inside of your computer? Mental models of computational processes are a key part of understanding how to program and code. Through drawing, this workshop explores participants’ mental models of important but often overlooked systems of computation.
+
+· Binary games. Develop your understanding of fundamental concepts of computation through play. In this workshop participants will develop pedagogical tools in the form of physical games to explore the building blocks of computing such as binary numbers and algorithms. (Mini is interested in helping  out)
+
+· Group therapy for technology educators. Do you need a space to share stories of the trials and tribulations of teaching code and technology? This is a 'safe' space for releasing some angst and sharing of what has worked and what has not worked in your classroom. From this session we aim to produce a small manual of lessons learnt, things to avoid and successful strategies, for sharing with others working in this field.
+
+· Group therapy for media artists. How do you make a living from being a media artist? And, is it worth it? How and why have you persisted with your artistic practice? What are some strategies and tactics that have worked for you? Or that have failed? This is a safe confessional space where participants can share and learn from the experiences other creative practitioners.

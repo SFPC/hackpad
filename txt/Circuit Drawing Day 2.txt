@@ -1,0 +1,127 @@
+Circuit Drawing Day 2
+Signals
+ * Low level electronics.
+ * http://casperelectronics.com/finished-pieces/circuit-bending-tutorial/
+Philip Stearns
+*
+   * http://phillipstearns.wordpress.com/
+   * http://steim.org/
+ * Creates Digital Synthesizers.
+   * Pete Edwards
+ * How can you get analogue and digital to interface? #question
+   * Sometime you want to think with logic and logic operators instead of working with signals.
+   * Easier to explain with an oscilloscope.
+   * When you are doing analogue output on an arduino you are not really doing analogue output. (PWM)
+   * There are functions that you can do in digital that you cant do in analogue.
+   * Just because its electronic it doesn't mean its digital. #tip
+Niklas Roy
+*
+   * ArtTank
+     * https://archive.org/details/NiklasRoyARTTANKadocumentaryaboutaworkshopinHongkong
+   * http://www.niklasroy.com/
+   * You are able to make a really complex system with a very simple mechanism.
+   * The aesthetic of DIY and punk
+     * The other endpoint is HD and high end is more aesthetic than artistic.
+   * At the end what you want to do with the medium is what matters.
+Andrea Goncalvs
+Julius Von Bismark
+ * http://juliusvonbismarck.com/
+Kyle McDonald 
+ * made a one bit synthesizers.
+
+Making Lab
+ * Public Art festival in Korea
+*
+ * http://www.kobakant.at/?p=546
+ * http://apap.or.kr/
+   * Hacker Designer space in Berlin
+     * Most well known hardware hacker space .
+     * Crazy Tutorials
+     * Enjoy doing things simply.
+Craft
+ * Thinking about knitting and craft.
+   * Knitting with conductive fabric.
+   * Good for teaching.
+     * Kids are good with repetitive tasks once they get into it.
+   * A teddy bear that sings to you when going to sleep.
+
+Low Tech
+ * More accessible.
+ * Somethings wont fail if there is no battery.
+ * How can you make it so that a kid can understand it.
+ * Audience can become stunned with the technology.
+
+Information and Communication
+ * Different ways of encoding informations.
+ * Binary is the most efficient for encoding digital information.
+ * Logics circuit and flow of electricity.
+ * When making a project how is information going to be encoded and how does the user interact with it. #question
+ * Levels of abstraction between communication and information.
+
+Museum of Moving Image
+*
+http://www.movingimage.us/exhibitions/2013/12/14/detail/indie-essentials-25-must-play-video-games/
+
+Super Marion Clouds
+*
+ * There are two chips on every nintendo one with the artwork and one with the data.
+   * Wrote his own application and used his cloud sprite.
+   * If you are an engineer you might think this is not hacking.
+     * Is it just as strong?
+ * Dahan started learning assembler to get into coding on NES.
+   * Learn number system to understand how the architecture is.
+   * You need to know how each machine works.
+   * NES system architecture
+     * ROM, RAM, PRG, CHR, CPU, PPU, APU
+     * Memory addresses are partioned by hexadecimal.
+     * http://www.nintendoage.com/forum/messageview.cfm?catid=22&threadid=4291
+     * There is no abstraction, "I want to work with this data and this is the interface I can use"
+     * 6502 Chip
+     * *
+
+ * When someone is designing and creating a new computer do the engineers write in binary and assembly.
+   * There are higher level abstractions that can help you.
+   * Its also based on other computer architectures.
+   * Assembler concatenates files for you.
+   * You write the compiler on assembly.
+How to Build an Operating System From ScratchNAND to Tetris
+*
+   * www.nand2tetris.org/‎
+   * Tough and comples
+   * There is a hardware level, primitive commands, and math
+   * New Arduinos that let you write into the USB
+     * Can drop to lower level below arduino.c
+7 Bit Computer
+ * http://www.neurophys.wisc.edu/comp/docs/ascii/
+FPGA
+ * Laptops with built in FPGAs
+ * Lets you write your own CPUs
+
+Blog on Project Managers Hovering Over
+*
+ * http://hoveringartdirectors.tumblr.com/
+
+CPU Transistor Counts 1971 - 2008 Moore's Law
+*
+
+TTL
+Transistor Transistor Logic
+ * ftp://apollo.ssl.berkeley.edu/pub/cinema/04.%20Science/TTL%20Cookbook_0672210355.pdf
+*
+ * A combination of a resistor and capacitor is called an RC network.
+ * People have been building computers based on this book.
+ * Taeyoon was trying to build a 4bit computer over the summer.
+*
+Input/Output
+https://vimeo.com/83232557
+
+How did I get into Low Level Electronics
+ * You dont need computer science to do that.
+ * It was all logic based.
+ * Made sense to build it low level.
+
+Logic
+*
+Pathfinder Shape Modes
+*
+

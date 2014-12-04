@@ -1,0 +1,129 @@
+# Ramsey class: grammar 2
+
+<meta charset="utf-8">
+
+<script src="js/jquery.js"></script>
+
+<script src="js/jqconsole.js"></script>
+
+<script src="js/sugar.js"></script>
+
+<script src="js/peg.js"></script>
+
+<script src="js/plt.js"></script>
+
+<script type="text/javascript"></script>
+
+<title>Conditionals</title>
+
+<!--
+
+Full documentation: [](http://pegjs.majda.cz/documentation#grammar-syntax-and-semantics-parsing-expression-types)http://pegjs.majda.cz/documentation#grammar-syntax-and-semantics-parsing-expression-types
+
+'x'   : match the literal character 'x'
+
+[xyz] : match one of the literal character 'x', 'y', or 'z'
+
+x+    : match x 1 or more times
+
+x*    : match x 0 or more times
+
+x?    : match x 0 or 1 times
+
+!x    : match anything but the match x
+
+x/y   : match x or y, trying in that order
+
+v:x   : assign the result of the match x to the variable v
+
+-->
+
+<grammar>
+
+  start                         = operation
+
+  operation                     = '(' space op:operator space args:expression+ ')' space { return eval(args.join(op)) }
+
+  operator                      = '+' / '-' / '/' / '*'
+
+  expression                    = operation / number
+
+  number                        = d:digit+ space { return parseInt( d.join('') ) }
+
+  digit                         = [0123456789]
+
+  space                         = [ ]* / !. { return undefined }
+
+  mandatory_space               = [ ]+ / !. { return undefined }
+
+</grammar>
+
+<h3>Operators</h3>
+
+<p><em>Make these operators parse correctly</em></p>
+
+<code>(+ 7 13)</code>
+
+<code>(+ 7 (+ 30 5))</code>
+
+<code>(- 100 (+ 29 29))</code>
+
+<code>(* (- 10 5) (+ 20 20 30 40 50))</code>
+
+<h3>Comparisons</h3>
+
+<p><em>These should evaluate to true</em></p>
+
+<code>(< 18 90)</code>
+
+<code>(> 78 12)</code>
+
+<code>(= 50 50)</code>
+
+<p><em>These should evaluate to false</em></p>
+
+<code>(< 5 4)</code>
+
+<code>(> 100 200)</code>
+
+<code>(= 50 51)</code>
+
+<h3>Conditionals</h3>
+
+<p><em>This should evaluate to 5</em></p>
+
+<code>(if (< 0 8) 5 9)</code>
+
+<p><em>This should evaluate to 9</em></p>
+
+<code>(if (> 0 8) 5 9)</code>
+
+<h3>Extra: Support nesting</h3>
+
+<code>(if (> 0 8) (+ 5 8) (- 9 8))</code>
+
+<code>(if (> (+ 90 12) (+ 80 15)) (+ 5 8) (- 9 8))</code>
+
+<h3>Extra: Support formatting</h3>
+
+<code>
+
+(if (> (+ 90 12) (+ 80 15))
+
+  (+ 5 8)
+
+  (- 9 8))</code>
+
+<code>
+
+(if 
+
+  (>
+
+    (+ 90 12)
+
+    (+ 80 15))
+
+  (+ 5 8)
+
+  (- 9 8))</code>

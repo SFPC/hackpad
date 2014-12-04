@@ -1,0 +1,11 @@
+# Zach's Text Class
+
+OneLook (phrase search engine): [](http://www.onelook.com/)http://www.onelook.com/
+
+Levenshtein Distance (distance from one word to another): [](http://en.wikipedia.org/wiki/Levenshtein_distance)http://en.wikipedia.org/wiki/Levenshtein_distance
+
+Get play always in the middle 
+
+*   Get bounding box
+*   break each string into multiple boxes
+*   draw play in the same spot every time and draw other boxes in relation to it

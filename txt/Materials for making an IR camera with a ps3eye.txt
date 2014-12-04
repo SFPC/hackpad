@@ -1,0 +1,14 @@
+Materials for making an IR camera with a ps3eye
+
+kodak wratten 87c
+m12 lens
+
+IR lights: 
+ * supercircuits (LED panel lights) 
+ * congo blue lee c181 + red gel = good IR filter
+   * http://www.amazon.com/Rosco-Roscolux-inches-Effects-Lighting/dp/B000B75UHA
+   * http://amasci.com/amateur/irgoggl.html
+
+
+
+

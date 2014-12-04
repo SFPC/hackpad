@@ -1,0 +1,154 @@
+Circuit and Drawing
+Jonathan Dahan x Taeyoon Choi
+*
+*
+ * Talking in small groups and as a whole about these questions.
+   * What is a computer?
+   * Draw a diagram of how a computer works.
+     * When you are making software
+     * What happens in your computer when you are looking at facebook?
+ * This is how I would have drawn a computer 4 years ago.
+**
+ * This is how I would draw a computer now.
+
+Von Neuman Architecture
+ * The unit for storing data and the units for storing instructions can be in the same place.
+*
+
+
+
+ * What we're commonalities between the groups in how you drew how your computer works.
+   * CPU and Memory are talking to each other quite often.
+   * When you hit the key what is happening to the input to translate into pixels, binary.
+   * It is from us the things we need from it.
+   * Power oriented - map (battery)
+   * Drawn Boxes
+ * CPU and Memory are so entwined in how software works.
+ * What happens when you create an html file.
+   * The life cycle of his html file.
+ * George Perec's Book
+   * A story of apt buildings according to different rooms.
+   * A story about a computer told from the point of view of different 
+   * When I ask an electric computer engineer what a computer is he will talk about electrons.
+ * A comparison with a vending machine where the input is the coin.
+   * Execute the snickers program => output is the food product.
+   * Think of all the products in the vending machine as memory.
+   * Pay your computer to do something.
+   * Feed the computer power.
+Instruction-less Computing
+   * Load the memory but it doesn't say execute.
+   * Instruction-less computing: Doing stuff with a CPU without actually executing instructions
+     * http://www.schrankmonster.de/2013/11/04/instruction-less-computing-stuff-cpu-executing-instructions/
+   * Its weird to be typing into a void.
+
+*
+*
+
+*
+   * Trying to see if the guy could be ALU and the other hand is the bus.
+   * Register
+     * Short term memory
+     * Copy data for a bit of time
+     * Shift registers and flip flops
+     * Latch that you lock the door the enables the computers to remember.
+   * Act of Cooking is control unit + ALU
+     * Remembering ordred => memory
+     * Getting food  => output
+ * Memory
+   * RAM, CPU
+     * Has its own cash
+     * Think of these as interchangeable.
+     * The only reason we have so many versions of memory is price tradeoff
+       * If it was cheap to make chance which is in your CPU we wouldn't have hard-drives.
+     * From a software point of view you are accessing these abstracted.
+     * Someone made the decisions where the data gets saved.
+ * Large Computer
+   * When computers where as big as size of rooms where did things get stored.
+   * Early storage - punch cards where the programs that you were telling it to write.
+     * Three dimensional abacus
+*
+ * Clock
+   * http://en.wikipedia.org/wiki/Computer_clock
+   * What makes all this works is a clock.
+   * A clock is a crystal.
+     * Oscillates at some frequency, when it hits this crystal and the light goes through.
+     * Every time a signal hits one of these to it is how the control unit decides to do something.
+     * 
+   * Now clocks are silicon.
+ * Calculator and Computer
+   * This ability to describe information its what makes it different form mechanical computers.
+   * Human supplements the mechanical computer.
+     * Someone who is good at simple math.
+     * Who is computer is it a she.
+     * Ada lovelace
+       * *
+     * Bruce Sterling
+       * Difference Engine
+         * What if the difference Machine was completed
+ * Alternative history of computer.
+   * Ballistic Research, trying to calculate if they could launch projectiles across a distance.
+   * Then Electronics and silicon valley and Bell Labs.
+Queer Computing
+ * Jacob Gaboury
+   * Turing was gay
+   * Other companions that were secretly gay.
+   * What are other ways computer could have gone if he completed his projects.
+ * Bret Victor
+   * http://worrydream.com/
+   * Talking about the future as if he was a time traveler from the 70s.
+*
+http://www.youtube.com/watch?v=8pTEmbeENF4
+ * Grace Hopper
+Buchla Electronic Musical Instruments
+ * http://en.wikipedia.org/wiki/Buchla_Electronic_Musical_Instruments
+Keith Fullerton Whitman
+https://soundcloud.com/kfw
+   * Patching real time
+   * http://www.keithfullertonwhitman.com/
+ * Laptop Buchla
+   * Charles Cohen 
+   * https://www.youtube.com/watch?v=UFTRRHyn3fI
+   * http://www.popscreen.com/v/bYG/CHARLES-COHEN-AT-THE-BUCHLA-MUSIC-EASEL
+ * Why is analog computer more poetic or interesting than silicon.
+   * There is no really wrong answer, glitches are more celebrated here.
+   * Is object oriented programming similar to modular computer.
+   * You give up control.
+   * Free form experiment.
+   * Layers of discovery.
+   * Nostalgia for Materiality.
+   * Appeal in restricting choices.
+   * Digital input and output could be as effective.
+   * direct manipulation of data (signal), low level of abstraction 
+ * Why do people now have a retro active view.
+   * Grew-up on cds, there is streaming, but we go back to vinyls.
+   * Photoshop => go back to photography
+ * Very few languages 
+   * the uncertainty tools of software are controlled by us.
+   * Structure Synth
+     * http://structuresynth.sourceforge.net/
+     * *
+ * Jaron Lanier
+   * You are not a gadget.
+     * Origin of Midi
+     * https://www.youtube.com/watch?v=IwbGumZ-FYg
+     * School of Life
+       * https://www.youtube.com/watch?v=lbdYg_z_SAE
+ * Ryoji Ikeda
+   * http://www.ryojiikeda.com/
+*
+ * What led you to start your inquiry to know how a computer works.
+   * Using Arduinos how a computer works.
+   * Burned Arduinos because I didn't understand how it works.
+   * Friends were suggesting that you can do a lot with very little.
+*
+
+ * At the end of this week you should be able to make something like this.
+   * 1 bit computer using 2 Nand gate chips.
+   * Will take about 4 or 5 hours to make.
+ * Jonathan Dahan Workshops
+   * Depending on how experience the group is we can decide on the project.
+ * Gabriella Levine will be here tomorrow.
+   * She builds aquatic robots
+ * Becky Stern
+*
+

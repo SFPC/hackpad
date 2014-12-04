@@ -1,0 +1,17 @@
+# VISR Experience Framework Discussion
+
+I have been working on an experience framework for understanding how visualization & information spatialization can work in a different model.  I am interested in rethinking the design approach for these types of engagements and I would love your help in strengthening the ideas.
+
+Right now I feel like a lot of the ways in which these engagements get approached and evaluated is in the traditional agency model, and it doesn’t really make sense for the type of work that we make. Visualization & Information Spatialization Research feels like it has different drivers than the brand & communication approach that get agencies excited.  Brand & communication are parts of the mix but research, art, product development, technology & strategy are major as well.
+
+If anyone is interested in talking about this, I’d like to setup a little session to hammer on the ideas in this presentation and talk about how they could be better.  One area in particular I’d love to talk about is in the experience analysis axes.  Feel free to skip anything in the VISR document that is boring or obtuse.
+
+[](https://www.dropbox.com/s/rvqw8n0mq0cjubv/VISR.pdf?dl=0)[https://www.dropbox.com/s/rvqw8n0mq0cjubv/VISR.pdf?dl=0](https://www.dropbox.com/s/rvqw8n0mq0cjubv/VISR.pdf?dl=0)
+
+**Signup**
+
+Christo Allegra
+
+[Sarah GP](/ep/profile/oVnErnsAFGD)
+
+[Franc Camps-Febrer](/ep/profile/qGBM7d6h8Ht) ( I just found this and I'm unsure whether it's already happened, but thanks for the doc anyways!)

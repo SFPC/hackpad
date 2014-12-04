@@ -1,0 +1,30 @@
+mnml Stack
+ * Gif Stream.
+   * grabs all the tweets that includes .gif
+   * Download them all.
+   * Let oF to play those just like zapping the channel.
+
+ * What is the good starting point to learn audio programming theory like the book "Musimathics" but more like primer resource? (etc, I want to learn how Sine Wave generate tones and where to start to programming those Low pass filter...) cc: Zach Lieberman / Jonathan Dahan ?
+   * https://github.com/openframeworks/ofBook/blob/master/11_sound/chapter.md
+   * computer music tutorial
+   * I have avsys examples (c++ code) might help
+   * graphical programming (PD / MAX) very good for sound / experimentation
+   * audio languages like supercollider and chuck also really good for learning
+   * Found this one and seems good resource too: http://music.columbia.edu/cmc/musicandcomputers/
+   * These two books are kind of amazing:
+   * *
+http://www.amazon.com/The-Computer-Music-Tutorial-Technology/dp/0262680823/ref=pd_sim_b_14?ie=UTF8&refRID=1B9SND1SWCJX99PFKBNT
+*
+http://www.amazon.com/Handmade-Electronic-Music-Hardware-Hacking/dp/0415998735
+ *  this is a classic, and 
+ * The ofBook looks nice to start from. The soundwave section is something I want to do :)
+ * Thanks Jonathan!
+
+ * makes me think of http://www.evan-roth.com/work/tribute-to-heather/ 
+Taeyoon Choi that's super interesting :D
+Hiroaki Yamane: could you grab all the tweets that include the emojis you used to make your emoji language, and then use it to generate some... images?
+
+☞ Some testing on emoji stream...: http://c.mnmly.com/VE60
+
+Thats actually interesting idea, and at the same time NSFW issue can be easily avoided :D
+

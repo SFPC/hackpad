@@ -1,0 +1,17 @@
+Toddpad
+
+Silent Barn Code Poetry Workshop
+ * Culminates in performance -- 2 options:
+   * Solo using just keyboard and either TTS or prerecorded voice audio, or just text on screen and music
+   * Duo, working in pairs, one student rocks the mic while the other controls the visuals
+ * Getting code from the kids options
+   * Sheet of paper with what happens when you press different keys
+     * i.e q { show "i'm cool" in front of picture of the ocean, play "beat1"}
+   * barebones mousetrap.js files with a couple of sample lines of code such as
+     * showText("this is the text", color=black) //text that auto-fits to the whole screen
+     * say("say this") // speak through a text to speech library
+     * playSound(soundFile) // plays a sound file
+     * bgColor(color) // makes the background a certain color
+     * showImage(imageFile) // changes background image to a certain image
+     * showVideo(youtubeLink) //plays a fullscreen youtube video from a link
+

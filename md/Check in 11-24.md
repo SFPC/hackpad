@@ -1,0 +1,58 @@
+# Check in 11.24 
+
+** *Projects* **
+
+We are not expecting students to create projects in next three weeks. Rather, we hope students keep learning and explore. 
+
+We want to encourage students to focus on documenting ideas and sketches, food for thought for their time after sfpc. 
+
+If some students want to create projects as part of their learning process, we will encourage them to do so. 
+
+We are hoping to create opportunities to present students projects in the future through group exhibitions: IRL and in hard drive (which can travel around). 
+
+***Learning report***
+
+We are hoping to gather learning report from everyone, a short document with few important points about what and how they learned during sfpc. We will have questions ready by Wednesday 11.26 and we hope to get the learning report by 12.7. so we can share it with mentors scheduled to visit on 12.9. This document will also be shared on our github or blog.
+
+*   What are some of your memorable learning experiences at the school?  
+*   What are some things you created during the school? Please provide a brief description and a link.   
+*   What would you'd like to teach and share after the school? and how would you like to teach?  
+*   What questions are you leaving the school with?  What questions did you come in with?
+*   What do you want the school to become? 
+*   What would you like to be doing one year from now? and five years from now? 
+*   What would you tell the person you were a year ago?
+*   What is going on with this world and how do you make stuff in it?
+*   If you could have one computational super power, what would it be? How would you use it to create?
+*   What is poetic computation?  
+
+past example of SFPC interview [](https://github.com/scarschwartz/SFPC_Interviews/blob/master/sfpc.pdf)https://github.com/scarschwartz/SFPC_Interviews/blob/master/sfpc.pdf 
+
+report is similar to [SFPC Yearbook](/mIlmhKMIb9l) idea, but more focused.  
+
+we will share your applications with you, so that you can look back to your original idea for applying to the school. 
+
+***Mentor session***
+
+We will invite 5~6 mentors from sfpc community (including alumni, visiting artists, teachers from previous terms) to join our review session on 12.9. Mentors will be asked to read all of learning report prior to coming to the session. 
+
+Students and mentors will have intimate conversation, where the focus is on providing students with critical support on their learning and life after sfpc. Each group will consist of 4~5 people, including other students and mentors. They will rotate throughout the day, every student will have 45 minutes of session. 
+
+We will finish off the day with a party 'Winter Formal' that's open to the public. We believe this format will give students more engaged experience of talking about their work, than public presentation or exhibition. 
+
+**People confirmed for mentor**
+
+Marius Watz 
+
+Kyle McDonald 
+
+to be updated 
+
+**Answer and Questions.**
+
+Assistive technology- adaptive design  
+
+inclusive design
+
+DIYability
+
+Symposium off season 

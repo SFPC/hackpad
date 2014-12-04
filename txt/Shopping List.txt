@@ -1,0 +1,57 @@
+Shopping List
+
+Raspberry Pis for
+Tega Brain, Jonathan Wohl, Ishac Bertran, Jason Levine, Rachel, Jessica Wolpert, Claire Lin, Peng Cheng
+ * Raspberry Pi  x8
+ * SD Card  x8
+ * WiFi x8
+   * SD card and wifi on the way w/ fast shipping. watch the mail!
+ * Power Supply  x8
+ * microUSB  x8
+
+Moises Sanabria
+ * Wii mote (didn't order, moises said he doesn't need this anymore)
+
+Ishac Bertran 
+ * Camera (had to order x6 due to minimum)
+ * motor shield: http://www.adafruit.com/products/1438 N/A
+ * small stepper (x2): http://www.adafruit.com/products/858
+
+Jonathan Dahan 
+ * Beaglebone Black 
+   * I will look for this in the studio tomorrow. we have one not in use.   (found and delivered - z)
+ * SD card breakout board
+ * Ralink USB wifi x3 (for network sonification project)
+ * canvas
+   * ordered 2x 18" square stretched canvasses
+ * Some paints
+ * Clay for diorama with Claire Lin re: control structures metaphor
+   * For the paint and clay, if you guys want to go ahead and buy this stuff at Apple Art (or wherever) and give me receipts I can reimburse you, otherwise can you point me to a specific URL?
+   * sound good
+
+Rachel 
+ * Thermal printer, something like:http://www.adafruit.com/products/600
+ * GSM Shield: http://www.makershed.com/Arduino_GSM_Shield_p/mksp21.htm
+
+Claire Lin 
+ * Servo shield: http://www.adafruit.com/products/1438 N/A
+ * Servo motor: http://www.adafruit.com/products/155
+ * DC motor: http://www.adafruit.com/products/711
+ * 2 Kinects (note: we have tons of kinects.  zach gage has 4 for us and I think there's plenty around...  might need usb adapter / power supplies and tripod mounts). (wrote intro for zach / claire so maybe a handoff can happen)
+   * kinect to usb adapter (power)
+   * kinect tripod mounts? 
+     * maybe there's something printable ?  I know I have a few around the office also...
+
+Le Wei
+ * actually contact mic! (11/8)
+ * note: I have alot of contact mics, how many? they usually require amplification.... do you need tube-preamps and / or sound card for multichannel?  (mics are cheap, not adverse to ordering also).
+ * theoretically only need one, but it might be good to have extras. not sure about amplification, what i want to do is pretty simple i think? but i'll talk to you or taeyoon about it.  
+ * if you need it going into software (microphone) you'll definitely need amplification, since the mic is very low power.  I have nice tube pre-amps, like: 
+ * https://www.google.com/shopping/product/13498184511371112207?q=tube+preamp+mic&espv=210&es_sm=119&biw=1050&bih=633&dpr=2&ei=b2p9UqmrEq_gsATjwYL4CQ&ved=0CO0EEKYrMAM
+ * ps: if you need a mic quickly you can run to guitar center at atlantic mall, ask at the guitar desk, they have them for acoustic guitars for about 20$ if I recall.  I think also Rachel has a small one...
+ * 
+
+Peng Cheng
+ * USB OTG Cable - Female A to Micro A  https://www.sparkfun.com/products/11604
+
+

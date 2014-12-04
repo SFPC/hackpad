@@ -1,0 +1,15 @@
+ * Node.js
+
+Install: http://nodejs.org
+API: http://nodejs.org/api/
+First Example: http://en.wikipedia.org/wiki/Nodejs
+Packages: http://jiyinyiyong.github.io/nipster/#
+Websocket demo: http://html5demos.com/web-socket
+Tutorial: http://www.nodebeginner.org/
+
+https://coderwall.com/p/8o4nnq
+Error: Cannot find module 'express'
+ * Solution----> npm install express
+
+
+

@@ -1,0 +1,189 @@
+Zach Gage
+SFPC 2013
+stfj.net
+@helvetica
+__________________________________________________________________________________
+editing
+Living as an Artist
+   * Surviving as Artist and how to do that.
+   * Lesson I've learned on games.
+   * Fail Slowly, Safe, Often
+     * surviving from the bottom up.
+   * Inner drive, and some kind of message you want to get out.
+ * Being an artist for a living is complicated
+     * Weird concept that money is bad for art.
+       * Conceptions bout what is like and what are has to be.
+         * Money is toxic.
+         * Sustainability is really important for the impact you want to make.
+         * Can be indebted to sponsors.
+           * Even if you disconnect your practice from money its always connected in some way.
+         * People who are consuming you're art need to think about how they make money.
+         * The person I want to be indebted to are the people who are consuming my art.
+     * The internet has really changed things for artist.
+       * App store, kickstarter, etc.
+         * Don't have to be business man.
+         * Otherwise have to create ways to accept credit cards.
+         * Huge revelation because you can focus on creating amd marketing things.
+       * You see this creating people making it big.
+         * The more this people are successful the more they say that "I don't know what I'm doing."
+           * If they don't know what they are doing how are they successful...
+         * I made to successful mobile games.
+           * Have know idea how to do it again, have made some essential choices.
+           * Don't know what I'm doing, but know how to make good choices.
+           * My strategy is really poor, but my tactics are really good.
+             * Tactics adds up to strategy.
+         * Top Down Learning
+             * You know what you want to do and find a book, school, or teacher to do it.
+         * Bottom Up Learning
+             * Known what you want to do but don't known how to get there.
+             * Build a bridge to get to the other part.
+             * Hard to find in school.
+             * Learn a lot more context about what you're learning about.
+               * Explore a lot of dead ends.
+               * Takes so much more time.
+             * Learning the Ollie (Skateboarding)
+               * A trick to slap the skateboard up.
+               * Watched the animations from Tony Hawk Pro Skater.
+               * Eventually I learned how to Ollie in a month.
+             * Some stuff you just have to top down learn.
+             * When you're bottom up learning you're usually passionate.
+             * Teaches you how to learn.
+             * Knowing how to do stuff nobody else can teach you.
+             * Make ship up long enough, that you're right.
+             * Set your self up with the means to fail. #tip
+               * VCs fail really fast quote.
+               * What does it really mean to fail.
+               * There are some ways to fail that are horrible.
+             * If i need to fail alot but i dont need to fail art how do I set up that situation.
+             * Most people take 3 to 8 years to find sustainability in making games.
+               * Setting yourself up to devote your time to what you love doing.
+             * Find a like minded community #tip
+               * Sythn Pond
+               * Unify
+               * Bit Pilot
+               * Halcyon
+             * Profits are a weird way to judge art.
+             * Press and players not just makers. #tip
+               * Curators and content consumers as part of your community.
+               * Fames comes long before cash. #tip
+               * Making money is really complicated, require manny things to go right.
+               * Have to leverage a community.
+             * Mobile is great for making friends #tip
+               * Successful people to tend have the most modern phones.
+               * If you put it out on mobile, someone who cares about the field would actually discover it.
+               * If you're trying to explain what you do to somebody, you can just pull out your phone and show them.
+               * Just being able to show someone something is reallt powerful.
+             * Core Values #tip
+               * Encourage curiosity.
+               * Enjoy the work your doing. 
+               * Design Holistically.
+               * Engage with something I'm doing and talk about, funny, interesting, and accessible.
+               * Don't want people to be confused about how to play it.
+               * Simple set of rules that expand in a deeper way to play.
+               * What you're values are 
+               * Values enable to self critique. #tip
+         * People don't like things that are very punitive.
+         * But people do like challenges.
+         * Unify Birds
+           * Market research how a game did with birds and without birds.
+             * Never would have done that if it wasn't a weird joke.
+         * How comfortable and happy are people when playing something.
+           * Reliability is almost as important as good gameplay.
+         * When playing games you get the tactility of the controller.
+           * Tells you're body that whatever you did happen.
+           * Tactile feedback, Muscle Memory.
+         * Twitch game
+           * Games like Halo, or other games that require quick gaming motions.
+         * "Action games" width virtual joystick.
+           * Have to check whether characters moved down.
+         * Proprio Section.
+           * Tells you where you're limbs are with out knowing.
+         * Very hard to teach people knew controllers
+           * Relevant width interactive art.
+           * Stressed when there are people behind them and they are on display.
+         * Create good tutorials.
+           * For spelltower I created a mode called tutorial mode.
+           * The tutorial is the first level of the game.
+             * Remove everything that is stressfull.
+             * Discover it themselves, feel comfortable.
+         * Promote your work through your values.
+           * Have to tell people why your work is good.
+           * Many people don't know how to approach your art work.
+           * You want people to ask great question and get great answers.
+           * Teach people how to ask great questions about your work.
+           * When you're looking at what people find interesting, anything that people find fascinating can be fascinating to everybody.
+         * Never, ever, 99 cents #tip
+           * Can't put your game on sale.
+         * Mobile is uncharted territory so is being an artist.
+       * How do you find out who is your audience.
+         * Make a decision who your audience is and find out that way.
+         * The first release of a game should be for a small specific group of people.
+       * How do you decide to put out games.
+       * When you playtest a game and ask them why they think about it.
+         * Whats important is letting them get to the thing that you find fascinating.
+         * If they don't get there you need to revaluate that thing you find fascinating.
+       * Know why you really like a game.
+       * Engaging width the stuff thats going is really important.
+       * Its really cool that you're a successful and interesting person but I have nothing to say.
+       * Twitch and live streaming video games is about.
+       * Being broad in culture is really important.
+       * Making games about games, and art about art.
+         * Games and art are a context not a destination. #tip
+       * Making money width games through goldmining.
+         * Displays the power of interactive online games.
+       * People want to be able 
+       * Games are eventually going to look like movies, in terms of how we culturally engage with them.
+       * Eventually people will have the literacy to culturally understand games.
+       * Its always important to make arguments in the internet because arguments in the internet make real change.
+   * Interesting Games
+     * http://mrgan.com/blackbar/
+     * http://spelunkyworld.com/
+
+Play
+   * Started doing generative art.
+   * Hit Counter obsession width popularity online.
+   * The internet is a legitatemate space that we actually created.
+     * Very real space.
+     * Popularity is the worst place to actually judge how good something is. ~~
+     * Can we Talk? 2011
+       * Chat program for people to break up width someone.
+       * Disapointed that text programs stopped evolving.
+       * Silence is really ambiguous.
+     * Lose/Lose
+       * A version of space invaders where it would should a file from your computer.
+       * About how important the digital world is very important to use.
+       * Gamers don't know anything about conceptual art.
+       * Understanding the context is the most powerful you can learn about your work.
+     * Synthpond
+       * Audio Toy, spatial sequencer.
+     * Philosophy of Games
+     * Games want to be art
+       * Gamers might not know how to talk about games in an art context.
+     * Art wants the cultural status of games and games want the cultural status of art.
+   * Rhythm zero Marina Abramovic
+     * Contrast that width the Danish laring scene. 
+     * Fatmandown
+     * Exploring the scary dangerous of how humans are.
+     * When we're playing we do things that are more dangerous. #tip
+   * Play is a fundamental important part of a work.
+     *  Play as a sublime idea.
+     * Play is so accessible.
+     * Shadow Monsters by Phillip Worthington.
+     * https://www.youtube.com/watch?v=g0TOQo_7te4
+     * Play teaches us lessons we can't explain, it teaches you experiences and not knowledge.
+     * John Mckay
+       * Adjust a gradient to match the sky.
+     * Paronamical
+       * controlled by a midi controller.
+   * Creating a state of play.
+   * Where does play sit in relationship to the context of the work your doing.
+   * Artist who wanted to gamify a work.
+ * 
+   * 
+ * 
+
+
+
+
+
+

@@ -1,0 +1,139 @@
+Jacob Tonsky
+SFPC 2013
+_______________________________________________________________________
+editing
+ * Charles and Ray Eames
+   * Tops
+   * Charming and holds your attention.
+   * Issues related to Poetics.
+ * Photography
+   * allowed me to use the analytical side of my mind and creative side of my brain.
+   * Simultaneous or transition between the two is so fast that is quasi-simultaneous.
+   * Middle of America Public School
+     * Segregated early on.
+       * Technical or not techincal
+       * Creative or not creative
+     * Doesn't allow you to be a whole person.
+     * This idea of the sideness of our mind.
+     * Art + Techonology is a space that uses both sides of the brain.
+     * Media Arts
+       * Computer Science
+         * Train at Toolage
+         * Utilitarian Terms
+       * Art
+         * Trains to ask why
+     * Sticker: Safety Third
+       * its a play on 'safety first'.
+       * Leaves a vacuum for number one or number two.
+       * Fill the void of the first and second with your own values.
+       * Shines a light on something that we would have otherwise overlook.
+     * Ed Capmel ( President of Pixar ) ( San Francisco )
+       * Came out of research, not a busines type.
+       * Learned dot product, cross product, and matrices.
+       * Disney allowed Pixer to fix their studio.
+       * At will hire. 
+         * Can walk out the door anytime.
+         * Aren't you afraid that they'll, we should be afraid that they'll leave.
+         * Makes them feel valued.
+         * The golden handcuffs, the gilded cage.
+         * Lose perspectives, by staying to long
+       * Told the Pixar acquisition story to the whole team of 1000, 20 by 20.
+     * Moments where I have to reconsider when I talk about art.
+       * Someone never trained as an artist doing a thing that shows 60,000 people.
+       * How we build culture on the idea of exhibiting things.
+       * Does alot to frame what is giong to mean, creates anxiety and fear.
+       * How do we understand the nature of engament, is it celebratory, critical...
+       * Contextualise Risk, Safety Third.
+     * Glass
+       * If you try to touch glass directly it will burn you mortally.
+         * Metaphor for will and relationships.
+         * Mediate your mean through situations.
+         * Experience Design
+           * Knownign its nature, set uup a path of least resistance, or a context, doing something closer to what youll want in form.
+         * Come stand next to me and see what im looking at.
+           * I can't gurantee that the experience will be the same
+     * Bicycle
+       * Kids Bike that is adult size for two.
+         * Person in the back is in charge of steering.
+         * Person in the front changes the speed.
+         * Relationships in decoupling thought an action.
+       * 1000 mile bycicle tour
+         * In tandem bicycles.
+         * Slow down, have to tell the person writing on the back.
+       * Apparatus that allows you to share an experience.
+       * Permanent willi bike.
+       * Lazyboy Rickshaw.
+         * Couch on the fornt.
+     * Learn to wrok on cars
+       * Spent two summers working.
+       * Multiply your honest estimate of getting something done by two.
+     * Light LED that says thanks.
+       * When you turn around with your car to merge, more likely to get the merge because its a human being.
+     * Machine for Dropping Feathers 2007
+       * Anything repetively that your doing is just a means to the program you haven't written.
+     * I'm taller than most people I know.
+       * The floor height adjust automatically.
+       * The subtle different that height makes.
+       * Humanist kind of optimistic gesture.
+         * With the optimism comes the possibility of suggesting something really sinister to.
+       * How to a share a moment of awareness with people.
+     * Top Sculpture
+       * If you spin a top don't stop and watch it too.
+       * Spend our early years predicting how the world works, and then we're presented with something that breaks those rules.
+       * The more intimate you become with somebody the more vulnerable your in that relationship.
+       * micropolitics of power.
+       * Wrote a bezier curve in processing that would calculate all the overlaps.
+       * If you make large works you have to deal with doors.
+       * Now i have it how do i deply it.
+       * Idea of Push Pull
+         * Attractive and Scary at the same time.
+         * People would risk touching the top.
+         * Fresh cut osb board.
+     * Balance Study THreshold, Balance Study Heel Toe
+       * Idea about being a student, with faculty that disagree of what art should be and what you should do.
+       * Having the sense of north disrupted.
+       * Lose a sense of north of altogether, figure out your own sense of true north.
+       * Violent experience in the way that people push you.
+       * 2001 Space Odyssey
+       * Placed married couples in it.
+       * Thats disorienting to watch.
+       * Convey a real feeling of disorientation.
+     * Reel 2011
+       * GoPro at the end of a rope.
+       * I inflicted way more violence on myself that I intended to.
+       * violense of figuring out wich way is up.
+     * Balance from Within 2012
+       * Modified Furniture, Custom Electronics.
+       * Transition empire to victorian.
+       * Can you make something balance on a fix ppoint.
+       * Created balance using torque ( Rotational Force )
+       * Electric Bycicle Hub Motors.
+       * When art employing motors and mechanism, have the motors working agains;t each other.
+       * Control Systems.
+       * Spent weeks tunning the balance system,
+       * Used Processing to have a recent log of data.
+       * PID Control system
+     * Different People, Same Dream
+       * The engineer in me wanted to buld a system that throws the GoPro camera perfectly to get this airy feel.
+       * I found the solution for me was closer to the act of drawing and mastering a specific skill that gives me the right intention.
+     * Relationships
+       * grew up with contented views.
+       * learn to unicycle.
+         * imposibble
+     * Ideas
+       * Ever dread having an idea.
+       * Doing of it is the real pleasure.
+       * The productive work that you're doing when you're procrastinating is the work you should be doing.
+       * Education should be effective and efficient, and let you fumble where you're supposed to.
+       * Access to experience.
+       * If im looking for something that I haven't seen I jsut write down everything that I know how to describe what im looking until I find a picture that i haven;t seen.
+       * Kalman Filter
+         * wiki
+           * http://en.wikipedia.org/wiki/Kalman_filter
+         * generalized Kalman Filters
+         * quadcopters
+     * Most technology projects sticks to the vocabulary of the project.
+       * Love it to learn it.
+       * Fall out of love with it too make them think more critically about what theyve leanred.
+       * Students have no shared vocabulary, coming from separate creativity and technology backgrounds.
+

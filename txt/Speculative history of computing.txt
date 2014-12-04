@@ -1,0 +1,168 @@
+Speculative history of computing
+
+In addition to the basic concepts of Abstraction, Compression, Integration and Concretization, I will talk briefly about ENIAC as a starting point for a possibly different history of computing. (Decimal numbering system, Parallel communications,  Vacuum tubes, Patching, 
+ 
+ENIAC
+
+*
+ENIAC was initially designed to calculate artillery firing tables for the United States Army's Ballistic Research Laboratory
+
+*
+
+*
+That circuit contained a pair of "triodes"-three-element vacuum tubes-only one of which conducted current at any one time. When the circuit was triggered by an external pulse of current, each tube in it "flipped" into its opposite state: conducting or nonconducting. (H. J. Reich of the University of Illinois called the Eccles-Jordan circuit a "trigger" circuit in his writings, which were widely read. The IBM engineers working on electronic calculators in the 1940's remember the circuit by Reich's name; after the war the term flip-flop came into common use.)13
+http://en.wikipedia.org/wiki/Control_grid 
+
+*
+http://youtu.be/wsirYCAocZk?t=5m58s
+   * The man who is speaking in this video made this computer.
+   * Most technology is first created for a military purpose.
+     * Funding comes from it.
+     * "Took less time to calculate this more than it took the actual missile to launch"
+   * Most women we're programmers.
+     * Part of the reason was because many of the men were in the army.
+     * These women we're the best at their skillset, mathematicians etc. 
+Flip-Flop 
+*
+*
+The basic electronic memory device of the ENIAC is the flip-flop. A flip-flop consists essentially of a pair of triodes so connected that at any given time only one of the pair can be conducting. When a certain one of the tubes is conducting (and the other is not), the flip-flop is said to be in the normal state; when the other tube is conducting (and the first is not), the flip-flop is in the abnormal state. A flip-flop has two inputs and two outputs. A pulse received on one input (the set input), throws the flip-flop into the abnormal state in which state it remains until restored to the normal state by a pulse received at its second (or reset) input. When the flip-flop is in the normal state, one output is positive and the other negative. In the abnormal state, the polarity of its outputs is reversed.
+http://ftp.arl.mil/mike/comphist/46eniac-report/chap1.html
+   * Parallel Machine
+     * Different Modules that can calculate at different times.
+     * The great Brain
+   * The precursor of the internet
+     * Different modules in a network connecting tubes to one another.
+   * In the 1946 version there was no memory.
+   * Designed to imitate the operations of mechanical adding machines.
+     * You have a technology coming from the past and you try to recreate in a contemporary medium.
+
+
+ 
+
+D type memory 
+http://tams-www.informatik.uni-hamburg.de/applets/hades/webdemos/16-flipflops/60-ttl/74273.html
+TY work sample 
+
+Ring counter
+ringed shift register 
+*
+ http://en.wikipedia.org/wiki/Ring_counter
+ 
+Brain and machine metaphor 
+Comparing machine capacity with human, horse, etc 
+ * 60s - 70s era of Cybernetics
+   * Think of the machines as animals and humans
+   * Scifi movies were similar too
+     * Humans in Machines
+     * Machines in Humans
+
+* 
+*
+ * 
+ * *
+https://speakerdeck.com/tchoi8/black-boxes
+
+ * Abstraction that happens in computing and Painting.
+   * Malevich's Black square
+     * was non representational and non-political.
+     * *
+   * Abstraction leads toward Compression.
+     * Leads to a modularity.
+     * Terms used in technology and artistically.
+   * Lena
+     * *
+
+Bit Fields of Suburban Sprawls
+*
+   * starts to look very similar to computers
+     * Manuel Castells - Space of Flows - thinking about driving in a car down the highway as a bit in the machine
+   * Edward Soja
+     * Time Space Compression
+   * Norbert Weiner
+     * Cybernetics Book
+     * *
+       * Technical Mathematic Book
+       * Entropy and Feedback.
+       * Human use of Human Beings.
+         * How can we learn from machines to be more efficient.
+         * How can we understand communication to be more efficient.
+       * These are engineers and mathematicians explaining society that think that algorithms could encompass the whole model.
+       * Gilbert Simondon
+         * critic of cybernetic theory.
+         * Machines lead to concretization.
+         * Humans are already concrete.
+       * Australian Cyberneticist
+         * Read a poem with headphones in a loud volume.
+         * By the end he was speaking gibberish.
+         * He was both the output and the input.
+       * You can automate everything and remove humans from the task.
+Integration
+ * Tools & Intruments
+ * Law of Cyborgs
+   * Robots should not harm humans.
+
+Speculative Computation
+ * Machinic Metaphors and Alternative
+   * Natural Systems how we understand technology.
+   * How Cybernetics computation has shaped our understandings of Ecology.
+   * Concepts that the world is controlled by feedback loops.
+     * Super seductive, because it is understandable and things can be modeled.
+     * Macy conferences were a lot of these cybernetics people were trying to understand the human brain through electric circuits, and computation.
+   * Interactionalist Metaphor
+     * Metaphors We Live By - George Lakoff and Mark Johnson, 1980.
+   * Ecosystem
+     * Started coming out with these ecological diagrams.
+     * All Watched over by Machines of Loving Grace.
+       * Cybernetics were tried to use to explain all sorts of things.
+       * http://topdocumentaryfilms.com/all-watched-over-by-machines-of-loving-grace/
+       * assumption that there was an equilibrium.
+         * Big Data, data sets are being analyze without a particular goal.
+       * Recreated the instability of nature in his computer.
+       * The anatomy and melancholy
+   * Spam
+     * Monty Python Sketch
+*
+   * http://www.youtube.com/watch?v=anwy2MPT5RE
+
+ * Cloud
+   * Completely removed from material reality.
+ * Datamining
+ * Command Line
+   * Operation, Execute, Argument, Terminate.
+   * Temple Operating System by Terry Davis
+*
+Angelo Vermeulen - BioModd - modding computers 
+
+Irrational Computing - Ralf Baecker
+ * *
+http://vida.fundaciontelefonica.com/en/files/2013/04/Ralf-Baecker2.jpg
+
+Martin Howes - Earthboot computer
+ * Interview on Vice
+ * 
+*
+Mitchel Whitelaw, Sheer Hardware, 2012
+ * Essay on alternative models of physical computing
+ * http://mtchl.net/sheer-hardware-material-computing-in-the-work-of-martin-howse-and-ralf-baecker/
+
+To Think About
+ * How can we think beyond the existing models of computers and their inherent politics?
+ * How else could computers be in the world?
+ * What are alternative criteria for computational design?
+ * How could agency be distributed differently in our technological systems?
+
+Speculative Design Exercise
+ * Design an alternative GUI for an operating system based on a different set of visual metaphors to that of the desktop
+ * Or, design an operating system that adopts a different set of metaphors based on a system other than that of war/military (ie instead of "execute," "command line," etc)
+ * We encourage you to conceive of an alternative history that has led to the development of this alternative computer system. If war was not the driving force, what would there be instead? Does this position computation differently as to its role in our lives, our relationships with computers, our relationships together?
+
+Tayeoon links:
+http://www.rarenewspapers.com/view/597779
+ http://ftp.arl.mil/mike/comphist/46eniac-report/chap1.html 
+http://history-computer.com/ModernComputer/Electronic/ENIAC.html 
+http://cs.nyu.edu/courses/fall10/V22.0436-001/lecture1.html 
+http://ftp.arl.mil/mike/comphist/eniac-story.html 
+http://www.computersciencelab.com/ComputerHistory/HistoryPt4.htm
+http://www.upenn.edu/computing/printout/archive/v12/4/chip.html 
+http://www.cs.umd.edu/class/fall2001/cmsc411/projects/ramguide/pastandfuture/pastandfuture.html 
+

@@ -1,0 +1,21 @@
+Welcome to hackpad - the collaborative notepad
+
+Hi all! This is a public, collaborative wiki that I'd like to try out for sharing things like resources, lesson plans, and works in progress. Let me know if you have questions: casey@sfpc.io
+
+ * Create pads (by clicking the "+" button above) and invite people to them.  Once they arrive, you can edit in real-time.  Changes made when the other people aren't around are emailed to everyone.
+
+ * It's easy to create bi-directionally linked pads.  Just type "@" and you can link to any pad or person - or create a new pad.  Give it a try!
+   * Any people you mention using '@' linking will get automatically notified and invited.
+
+ * type here to try it out
+
+ * You can organize pads into collections on the right hand side menu, or you can put #hashtags directly into your notes that associate notes with eachother
+
+ * You can create todo items like these by clicking on the checkbox button above.
+   * Join hackpad
+   * Explore hackpad
+
+ * To access your pads on the go, just open this website on your iPhone or Android.
+
+Have fun!
+

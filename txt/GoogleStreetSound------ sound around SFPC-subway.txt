@@ -1,0 +1,38 @@
+GoogleStreetSound-----> sound around SFPC/subway
+   *                                           
+
+Google Street Sound
+Walk around in NYC with sound (by controling accelerator)
+idea 
+I think that the sound in NYC is characteristic to me. I mean there are sounds of taxi, people talking, subway.....
+I always imagine that I can walk around with characteristic sound in NY
+*
+
+1 record sound in NYC with location data
+2 put sound data to oF project
+3 explore NYC by controling the device which sends location
+4 you can hear any sounds depending on your location.
+
+things to use for this project
+it's kind of similar to previous project.
+ * openframeworks
+ * arduino?
+necessary knowledge to get done this work and questions
+ * how to record sounds including location data
+input
+ * iphone(accelerometer)
+ * arduino(accelerometer)
+output
+ * sound from iphone
+*
+this is version 1. it really hard to collect so many sounds in 3 days. i think i should forcus on more specific area, like around sfpc or subway(cirtain stations)
+<core stuff i want to do>
+ * change volume by accelemeter
+ *  generate sound file of hitory your walk
+ * comunicate with ipad app and osx app for visualize your location and volume of sounds
+<.farther>
+ * use opengl
+ * indicate your location on actual map with light (pen) by arduino
+
+
+

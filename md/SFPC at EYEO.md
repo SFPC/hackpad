@@ -1,0 +1,107 @@
+# SFPC at EYEO
+
+Sign up here if you interested/ have ideas in preparing the proposal:
+
+*   Simona
+*   [Jonathan Dahan](/ep/profile/uABG7ngMwBe) 
+
+        *   discussion of education techniques?
+
+*   Le 
+*   Tega 
+*   [Jason Levine](/ep/profile/m5rLOYYylrl)
+
+Okay then I will organise a google hangout so we can discuss, maybe we can throw ideas here meanwhile...
+
+*   **Pricing.**  
+*   ** Festival Ticket Price:** $635.
+*   **Pre-Conference Workshops:** $150/half-day, $300/full-day.
+*   **Code+ed Summit:** $40.
+*   $$$ for a ticket are ridiculous, we are the children of EYEO
+
+*   Zach's input: 
+*   workshops at eyeo are really tough btw, huge groups and often are more like mini lectures since it's hard to work with 30 students, I'd be happy if we can do something more meaningful / relaxed / helpful -- maybe leading up to or after eyeo.
+
+IDEAS --> pluggin SFPC into EYEO
+
+*   last year Zach's talk was an introduction about "this is going to be SFPC" so maybe would make sense to have a "this was SFPC" 
+
+Workshops (pre conference)  Mostly technical, 3 or 6 hours each.
+
+WE could teach things we learned at sfpc: KTC style,  
+
+I can teach audio coding stuff, which is one thiing that eyeo misses. (its all interactive graphics and dataviz #zzzzzz)
+
+what is the goal of a presentation? trying to make people understand what kind of energy was there. point is not "we became coders" or "this is what we did"?
+
+timeline-- ?
+
+speaking about your favorite thing
+
+we could each talk about what we want-- prompt people to speak honestly
+
+wasnt about becoming a tech expert but finding new ways to think about things
+
+LIGHTNING TALKS.  5minutes slides autoadvance.  Some of the best stuff at eyeo.
+
+ARTIST TALK : Slides, talking about process, showing work.
+
+We could share an artist talk.  Each person talks about their artistic process and what we created.  Documentation.
+
+*   we could invite one or few of the artist that came to SFPC, especially if they're already speakers of EYEO ...invite them to do what? to the panel :P
+*   IF multiple SfPCers share an artist talk slot, each person can talk about differnt things(projects, expereince, vidbe), and have a different format. 
+
+CODE ED : Conference within a conference.  A Day of talks, panels (ZACH'S QUOTE "I HATE PANELS" #lol) and discussions abut the state of and future of code/art education.
+
+WE could give an #unpanel about the experiece (#manure) of SfPC in a educational context
+
+*   What were our expectations coming to SFPC
+*   Recap on how was the school structured, run? What was its overall philosophy etc?
+*   How was the experience? what worked?
+*   How does this compare to traditional models of education?
+*   What did we learn about teaching technology as a tool for creative work?
+*   What is the future for this program? Broader discussion about tech education? Why is it important - what are some things to avoid?
+*   Could we re-produce ONE DAY at SFPC? what does it feel like? Ending in a dinner? 
+
+what would be the benefit of presenting at eyeo-- why us?
+
+what about sfpc can be injected into the eyeo conversation?
+
+**have stuff in hackpad by saturday so we can all read it!**
+
+could depend on which "section" they would put an sfpc talk--
+
+but agree it would be nice to have a 45 slot-- at the beginning we do the questions thing-- for like 10 minutes people write all their questions down and then some people get up and read some-- and maybe Eyeo lets us post them all on some giant wall or bulletin board and people can answer them throughout the conference. 
+
+if we begin then after that exercise talking about the school from the beginning, first we were doing these kinds of things, then these kinds of things-- the evolution-- the troubles (scheduling)-- the main take-aways-- the show-- life after sfpc-- it could be a panel or a few different people talking about the evolution-- along the way showing the spirit of sfpc which is probably the main point-- that would be something i'd be interested in seeing
+
+also-- Jesse suggested re-enacting the school-- which could also be fun:) #ohjesse
+
+The SFPC presents: The First Class @ Eyeo
+
+Students from the School for Poetic Computation (SFPC) will lead sessions sharing their research, experiences and skills developed during the first session of the school held in late 2013. Taking the form of Kitchen-Table coding workshops, they will share a taste of the SFPC experience with the EYEO community and showcase approaches to teaching and learning being developed in this experimental educational project. 
+
+Kitchen-Table coding workshops* take the form of small group sessions designed for an intimate and flexible exploration of a particular theme or approach to coding and computational thinking. The group sizes are limited to 5 attendees (groups must be able to fit around a standard kitchen table) in order to create a safe, informal and relaxed atmosphere for collaborative learning. This format fosters conversation and encourages engagement with what might otherwise be considered 'silly questions' in a traditional classroom setting.  
+
+The SFPC alumni will run several parallel 2-3 hour workshops exploring computational techniques and educational approached developed at SFPC for EYEO participants. Topics for these workshops include:
+
+*   Introduction to audio coding with openframeworks. Learn how to use the OF addon that wraps the _Audio Unit Framework_. This will enable you create interactive music and sound projects. The technologies studied in this course are demonstrated in the performance offered by the instructor (Jason Levine) in an additional Eyeo performance.
+*   Personal social data analysis. How does a quantitative analysis of your social life compare to your intuitive impression of it? Analyze your own recent social behaviours by creating a data visualization of your social interactions using data stored by your smart phone. This workshop introduces data vizualization techniques using Processing.
+*   (A)Life drawing session. How would you draw the internet? Or the inside of your computer? Mental models of computational processes are a key part of understanding how to program. This workshop explores participant's mental models of central but often overlooked systems of computation through drawing. 
+*   Binary games. Develop your understanding of fundamental concepts of computation through play. In this workshop participants develop pedagogical tools in the form of physical games to explore the building blocks of computing. 
+*   Group therapy for technology educators. Do you need a space to share stories of the trials and tribulations of teaching code and technology? This is a 'safe' space for releasing some angst and sharing of what has worked and what has not worked in your classroom. From this session we aim to produce a small manual of lessons learnt, things to avoid and successful strategies, for sharing with others working in this field.
+*   Group therapy for media artists. How do you make a living from being a media artist? And, is it worth it? How and why have you persisted with your artistic practice? What are some strategies and tactics that have worked for you? Or that have failed? This is a safe confessional space where participants can share and learn from the experiences other creative practitioners.
+
+For more information about the School for Poetic Computation please visit the school website ([](http://sfpc.io/))http://sfpc.io/).
+
+*KTC is an approach to coding education developed by the Kitchen Table Coders who are Amit Pitaru, David Nolan & Ted Hayes. They continue to run these sessions in their Greenpoint studio in Brooklyn. 
+
+Audio Coding with openframeworks
+
+The Audio Unit Framework is a Mac OS X architecture for audio plugins. Openframeworks is an open source C++ library created for the purpose of empowering artists and creators.  The Audio Unit framework is known for its high level of difficulty and steep learning curve while openframeworks is known for its ease of use and for being easy to jump into.  Its almost impossible to imagine how they could work together…. Lucky for us, @admsyn created ofxAudioUnit, a well-documented addon that allows OF users to easily use audio units without dealing with inner complexities of the framework!  Both OF and AUs run on iOS so any app you create on your desktop can be compiled to run on iOS with minimal changes.
+
+Combining AUs with OF is perfect for creating musical instruments with novel controllers, generative music, interactive music playback systems, audio-reactive visuals, and of course experimental sound art.
+
+Participants will start by learning to load audio units into OF.  We will study three sound sources: audio file players, audio input, and sampler/synths.  We will build signal chains by adding effects to these sound sources, and then use mixers to control the flow of sound.  Participants will learn to control the parameters of each unit and to programmatically send midi messages to sampler/synths. Finally, we will get the waveform data, the RMS amplitude, the dB, and the FFT of signals passing through the signal chain, and make simple visualizations of these values. If time allows we may delve into some basic algorithms and data structures for making music.
+
+The technologies studied in this course are demonstrated in the performance offered by the instructor (Jason Levine)

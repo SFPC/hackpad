@@ -1,0 +1,62 @@
+Kitchen Table Coders Signup
+
+ * Tuesday Nov. 5th, 6:30pm
+Amit: iOS+JS+Ejecta
+ * rachel
+ * le
+ * Mini
+ * Paul
+ * Moises Sanabria
+
+Questions：
+ *  I use the newest Xcode, do I need to install the 4.6 as you mentioned? 
+ * would be good if you have 4.6 in parralel. If not, might be interesting to see if it works with latest. 
+ * it says its compatible
+   * http://impactjs.com/blog/ejecta
+
+ * Wednesday Nov. 6th, 6:30pm
+Ted: Python 101 ( ... Pure Data)
+From Ted:
+Yes, please make sure everyone installs Pd-extended from here:
+http://puredata.info/downloads/pd-extended
+
+And ask if anyone has specific things they want to do or learn about!
+
+ * Simona  (although we had a Python workshop was more using drawbot to generate graphis)
+ * Tega - Python and pure data.
+ * Mini - Python & data
+ * Jon
+ * Jesse - python and pure data
+
+Questions :
+ * Are we still doing Python too? or just pure data?
+
+
+Saturday Midday
+Functional Programming - with David Nolen
+Jason Levine
+Tega Brain
+Le Wei
+Jonathan Dahan? cant make saturday :(
+motoishmz
+
+taeyoon (if space permits. priority for students) 
+
+
+Monday (3-6)
+Sound 101 with Jeff
+Tega Brain
+Claire
+Andy
+jesse
+Le
+Jonathan
+
+Sound with Jason on Tuesday (the AudioUnits addon in OF) Tues 3-5
+Tega
+motoishmz
+Jonathan Wohl
+Mini
+rachel
+
+

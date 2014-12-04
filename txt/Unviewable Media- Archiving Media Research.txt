@@ -1,0 +1,20 @@
+Unviewable Media: Archiving Media Research 
+
+This is a respository covering applications and code examples that are difficult to view or unviewable in current browsers. Java applets in particular. 
+
+Resources + Research on Viewing Old Code Examples
+ * http://blog.openprocessing.org/?p=247
+ * XFR STN at New Museum: helping artists with media migration
+ * It Takes a Village to Save a Hard Drive, by Ben Fino-Radin "Conservator of Bits" at MoMA (and formerly Rhizome)
+ * Variable Media Questionnaire: recording opoinions on how to preserve creative works when their current medium becomes obsolete
+ * Context and Archive: Presenting and Preserving Net-based Art by Christiane Paul (Whitney Museum)
+ * New media art preservation — a good Wikipedia page!
+ * Rhizome Artbase
+
+
+Unviewable Applications
+
+ * All things on OpenProcessing: http://www.openprocessing.org/
+ * http://red3d.com/cwr/steer/
+ * 
+

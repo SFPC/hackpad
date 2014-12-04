@@ -1,0 +1,64 @@
+Zach's workshops
+
+Please sign up / limit of 8 per workshop (happy to repeat and we'll take notes).  please sign up below
+(This limit thing didn't work like I planned!)
+
+ * 11/11  10 AM  --- Text Processing / scraping in python and command line (if not on osx, have python 2.7.7 installed) 
+   * Sarah GP
+   * Zachary Dunham
+   * Andrew Kleindolph
+   * Toru Urakawa
+   * Lauren Gardner
+   * Todd
+   * Yuki
+   * Defne Onen
+   * Guglielmo Torelli
+   * Paige DeRaedt
+   * Rachel Rose Ulgado
+   * nathan
+ * 11/17  10 AM  --- Image processing / computer vision / pixels
+   * Sarah GP
+   * Zachary Dunham
+   * Rachel Rose Ulgado
+   * Andrew Kleindolph
+   * Toru Urakawa
+   * Zan Armstrong
+   * Meghana Khandekar 
+   * Yuki
+   * Christo Allegra
+   * Defne Onen
+   * Guglielmo Torelli
+   * Paige DeRaedt
+   * lauren gardner
+   * nathan
+   * Franc Camps-Febrer
+ * 11/18  10 AM  --- 3d / opengl 
+   * Rachel Rose Ulgado
+   * Andrew Kleindolph
+   * Toru Urakawa
+   * Zan Armstrong
+   * Meghana Khandekar 
+   * Yuki
+   * Defne Onen
+   * Guglielmo Torelli
+   * Paige DeRaedt
+   * lauren gardner
+   * nathan
+   * Franc Camps-Febrer
+ * 11/18  1PM --- io / connection / bridging technologies
+   * Sarah GP
+   * Zachary Dunham
+   * Rachel Rose Ulgado
+   * Andrew Kleindolph
+   * Toru Urakawa
+   * Zan Armstrong
+   * Lauren Gardner
+   * Meghana Khandekar 
+   * Yuki
+   * Defne Onen
+   * Guglielmo Torelli
+   * Paige DeRaedt
+   * nathan
+   * Franc Camps-Febrer
+
+

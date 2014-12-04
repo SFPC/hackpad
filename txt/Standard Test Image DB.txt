@@ -1,0 +1,11 @@
+Standard Test Image DB
+
+Image Processing
+   * Lenna
+     * http://en.wikipedia.org/wiki/Lenna
+
+3D Models
+   * Utah Teapot
+     * http://en.wikipedia.org/wiki/Utah_teapot
+
+

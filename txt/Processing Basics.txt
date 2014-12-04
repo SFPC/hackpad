@@ -1,0 +1,45 @@
+Processing Basics
+
+Processing documentation:
+What has been made with this stuff?  - http://processing.org/exhibition/
+Processing core functions - http://processing.org/reference/ 
+Processing add-ons or libraries - http://processing.org/reference/libraries/
+
+What we covered:
+
+Processing file structure
+ * .pde file is always saved into a folder of the same name
+ * put all the assets used in your program into a data folder that will sit in your processing folder.
+Program structure
+ * the void setup(); void draw(); programming structure
+Coordinates and geometric space - http://processing.org/tutorials/drawing/
+How does processing deal with colour - http://processing.org/tutorials/color/ 
+How and when you need to use a variable 
+ * a variable defines something that you will want to change the value of in your program. If something is moving, its coordinates will change, if you want to vary the colour.. the colour variables will change.. and so on.
+Using if statements 
+ * http://www.processing.org/reference/if.html
+ * Bouncing ball example: http://www.learningprocessing.com/examples/chapter-5/example-5-6/
+The for loop
+ * http://www.processing.org/reference/for.html
+
+
+Processing Resources
+Shiffman - Learning Processing - http://www.learningprocessing.com/
+Reas & Fry - Processing: A Programming Handbook for Visual Designers and Artists - 
+Fry - Visualising Data 
+More here: http://processing.org/books/
+Also see these video tutorials if you learn better with video: http://icm.shiffman.net/0.0/
+
+A few text based processing projects
+http://benfry.com/dismap/
+http://benfry.com/traces/
+
+Another amazing text based projects
+silenc: https://www.flickr.com/photos/kennethaleksander/sets/72157629659743887#
+Understanding Shakespeare http://www.understanding-shakespeare.com/
+
+
+
+Summary of processing tutorial today with Diana Sánchez Barrios Oscar Schwartz 
+
+

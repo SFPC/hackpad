@@ -1,0 +1,128 @@
+Input/Output 04-22 Notes
+
+
+Before this we all worked on our programming languages. 
+
+---
+
+Discussion about Processing versus openFrameworks. Processing is like having a learners permit as a teenager. openFrameworks is like being an adult with a full lisence. margin for error is greater, but you can go farther. Also, datatypes is weird in Java.
+
+Zach Lieberman is pro code on a page, not on a screen. Code is typography. Super important to remember this. The easiest code to understand is no code. The best way to learn is to not look at code, but rather to organize it. Think of it as a hypertext way of writing, not a linear way of writing. you don't have to think about what's in the link. you can drill down to look at what's there in the link, but you don't have to. There is the option of abstraction that is very powerful. 
+
+He sees people get really tripped up with organizing the code. It's easy to get lost in code in terms of context so organization is really important.
+
+Horror story time:
+[Zach and Golan Levin] were working together to track people on stage and track their voices [messa di voce http://www.flong.com/projects/messa/]. some live performance thing. had a student come to meet them to help with the project. the student flew out, drank red bull non stop, wrote a totally unintelligible codebase. it seemed to work, but didn't actually work when they got to the theater. there was a function called 'process' that was 7 pages long. it was crazy, so much in there, poorly stuctured. it was a nightmare. Zach went to the press office and printed it out to be able to sort out what was going on. Zach could find the bugs when it was on paper. 
+
+Moral: We get lost on the computer screen. We need new ways of thinking through our code. 
+ * Now I understand why we're given all these recommendations of print books to read.
+
+Muscle memory for typing code.
+Writing on paper as a means of learning.
+*
+
+We'll be defining the words that are circled. Those are the terms people didn't feel super comfortable with.
+
+--
+Story
+ * What happens when you write code.
+ * Your program begins as texts
+ * IDE (Integrated Development Environment)
+   * We will be writing text files.
+   * A journey that your text files goes on. (A series of steps.)
+   * 1. Text
+   * 2. Preprocess
+   * 3. Compile
+   * 4. Link
+     * Understand the process by which it goes from text to the thing that you are seeing.
+     * The more you understand about the process the easier it is to understand what is going on.
+     * The second phase is preprocess.
+       * A stage that alters the text file itself. Goes through the text file (Find and replace)
+       * Macro in a text editor.
+       * Idea of including or importing, a file somewhere else that you are including.
+       * cpp. taking text and turning it into instructions for the CPU.
+       * Could you take a textfile and use it on a different CPU?
+         * Might work on the same family of CPUs.
+         * You can target certain chips using flags.
+       * Library is a set of code someone else has written that you write your code againsnt.
+       * At the end you have a thing that runs.
+       * Different language will have different phases.
+         * Compiled language in Java goes into Byte code.
+       * A language that can compile itself.
+         * That compiler is an executable.
+       * Package Manager
+         * Literally see how it has an automated process.
+         * "Brew Install some tool"
+           * Link thing, turn files into objects.
+           * Nerd term for that is toolchain.
+             * Toolbelt for creating something.
+           * For Arduino there is a toolchain that is compiling it linking and turning it to code that the Arduino can understand.
+         * Hard for our mind to image the limits.
+--
+*
+
+Variety of Datatypes 
+   * Datatypes is a way to define the limits.
+     * You are using 0 and 1 to represent something.
+   * C and C++ you call these primitive datatypes
+Ints - 32
+Long long - 64 (Ginormous)
+Floating - Can do about seven decimals places.
+   * 3.0000000
+   * When using animation code typically you can use a float.
+   * As you get further away from 0 the less values that this number can represent.
+Double - more precise than a float use mostly by scientist where those differences matter.
+Boolean - represent true and false.
+String - letters
+
+Differences in Languages
+ * Stringly typed
+   * Java
+     * var x = 5
+     * x = "hello"
+   * C++
+     * float x = 100.05;
+     * Cant change the type because your asking the cpu to give you space in memory specifically for a float.
+     * You can't put a string in there.
+ * Weakly typed
+   * You can play with languages in different ways
+   * A strings  + an int
+   * Weakly typed languages have all of these typed of existential questions.
+ * One of the joys of programming is take data and put the numbers together.
+   * That is a process of abastraction, to create a new thing and simplify your value.
+
+C and C++
+   * Variables
+     * This name a reserved for a place in memory.
+       * Placeholders for memory.
+       * Memory - the idea that we can store information. Which lets us do things overtime.
+       * Memory that you have used is called the stack.
+       * C++ doesn't care where you are looking in memory.
+         * An address position that you can look around in.
+         * Going from a student permit to your parents are not in the car.
+       * You can't initialize variables twice.
+         * *
+     * Stages of a variables life.
+       * Define the varibale
+       * put a value in
+       * get value out
+       * goodbye!
+ * Words in code that you can't use to create variables (reserved).
+   * Turns a color saying that these word is important.
+ * If you compile in 32 bits you can only use that amount of memory.  (32 bits can address 4 billion positions in memory, ie 4 gb)
+   * A limitation compared to 64 bits.
+ * Drawing Memory
+   * Old Mac Computers -- non protected memory
+     * Get a bomb
+     * Unhappy Face
+       * *
+     * Looks very similar to analog feedback and CRT.
+   * Sometimes there is protected space.
+   * Memory Glitch that happened to me in THREE.js
+*
+http://www.youtube.com/watch?v=Cv2lJhCrM7I
+
+Objects
+ * The moment that you can start defining an object is the moment you can start creating your own code.
+
+

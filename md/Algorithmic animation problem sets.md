@@ -1,0 +1,32 @@
+# Algorithmic animation problem sets
+
+**homework 1**
+
+*   make a flip book.  Please use a “thicker” type sketchbook.  I recommend the square sketchbooks from NY Central Art Supply.
+*   make three recordings (using a handheld camera that’s sationary) of three different scenes which have interesting motion.  Pick one point to watch during the video, and sketch out it’s motion path.  Try to find both rhythmic (repetitive) and organic motions.
+*   draw your name using openframeworks.  upload a screenshot of your app, and a zip of the source code or project.
+
+**homework 2**
+
+*   Based on the work of Robin Roades, make an animation with still images.  If you can, cross fade between them.  Can you tell a story with just a few frames?  Think especially of using people and or mixing scales.   Don’t doctor the images, and keep the camera stationary.
+*   code:
+
+        *   a) fastest non moving speed -- find the fastest speed for the square to move across the screen and have the motion be imperceptible. Time how long it takes for the square to move across the screen and measure the physical (not pixel) distance. What is this speed in inches/second ? for kicks, What is it in in mph?
+    *   b) fastest still perceptible speed -- find the fastest speed for the square to move across the screen and have the motion be still perceived as continuous (not discrete jumps). Time how long it takes for the square to move across the screen and measure the physical (not pixel) distance. What is this speed in inches/second ? What is this rate in mph?
+    *   c) click to change pta and ptb -- make an application where whenever you click, you change either the ptA position or the ptB position to the mouse position, alternating every time you click.
+    *   d) shaper controlls something else besides position -- Make the shape code control another property of the object, such as its size or color.  Make the nicest composition that you can.  Try to make it elegant and organic.
+
+*   (for the xeno code)
+
+        *   e) multiple xenos -- make a series of xeno objects which follow the mouse, each at different rates. give them slightly different colors so that you can perceive them as independent objects.   you will have to modify the rectangle object so that they can have unique colors.
+
+**homework 3**
+
+*   a) make a composition using the animation techniques that is a tribute to john whitney.  See for example: profile, info, videos,  catalog (made in 1961! non-digital!) , video we watched in class
+*   b) Since we talked in class about this idea of a relationship between sound and visual synthesis (and harmony) find a short piece of music (can be any duration as long as there are multiple notes – a short snippet, or a long song) and make a composition that is a visual equivalent of that sound.  Think about how the make a visual equivalent using the techniques we talked about this week.   Post both the sound and the resulting animation.  Try to bring out some essential truth of the audio through the visualization.
+*   c) try to use sin and cos to emulate a natural phenomenon (ie, something you see in the natural world).  be sure to provide some documentation (video / picture / text) of what this phenomenon is.
+*   d) extend the xeno / atan2 code, making a creature which follows the mouse. think of how you could use sinusoidal animation techniques to give the object some “life” – breathing, blinking, etc.
+*   (advanced)
+*   e) since we talked about amplitude modulation in relationship to sin/cos animation, see if you can implement visual equivalents of other synthesis techniques, such as FM synthesis (modulating the carrier frequency) or additive synthesis.   Make an interesting composition with what you’ve implemented.
+
+finally, remember:   every homework assignment is an opportunity for genius.

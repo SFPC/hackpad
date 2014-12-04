@@ -1,0 +1,24 @@
+Circuit #2
+
+NAND gate 
+
+*
+
+*
+connect the power and ground
+
+*
+
+Make AND gate from NAND gates 
+*
+*
+Make OR gate from NAND 
+*
+*
+Make NOR gate from NANDs 
+*
+Make XOR gate from Nands
+
+*
+*
+

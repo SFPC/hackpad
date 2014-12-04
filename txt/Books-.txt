@@ -1,0 +1,32 @@
+Books!
+(and other such reading)
+
+History/Culture
+Talk to Me - MoMA Exhibition 2011
+Turing's Cathedral
+Close to the Machine
+MP3: The Meaning of A Format by Jonathan Sterne
+(http://newbooksinscitechsoc.com/2013/10/10/jonathan-sterne-mp3-the-meaning-of-a-format-duke-up-2012/)
+Reprogrammed Vision by Wendy Chun
+Gaming: Essays on Algorithmic Culture by Alexander Galloway
+
+Computing Theory
+Code by Charles Petzold 
+Gödel, Escher, Bach: An Eternal Golden Braid by Douglas R. Hofstadter 
+Noise Matters, towards an ontology of noise   - Greg Hainge 
+Coding Freedom  by Gabriella Coleman 
+print10  
+_why's Estate 
+
+Learn Programming
+Programming Interactivity by Joshua Noble
+learn you a haskell for great good  
+
+Design
+Generative Design: Visualize, Program, and Create with Processing 
+
+Poetics
+Madness, Rack, and Honey  by Mary Ruffle
+Uncreative Writing  by Kenneth Goldsmith
+Form + Code 
+

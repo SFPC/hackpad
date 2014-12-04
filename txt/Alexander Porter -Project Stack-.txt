@@ -1,0 +1,103 @@
+Alexander Porter 'Project Stack'
+Intentions for SFPC
+ * Develop artistic ideas in relation to: 
+   * The current state of cameras & image taking. 
+   * Develop a framework for categorizing/understanding & communicating about
+     * images made by humans for humans
+     * images made by humans for machines
+     * images made by machines for humans
+     * images made by machines for machines
+   * The implications of computational portraiture
+ * 
+ * Learn granular skills to enable specific things:
+   * Scripting/controlling my camera 
+     * Scripting Magic Lantern to do focus stepping for EDF etc. 
+     * Canon SDK via oF/Processing?
+       * I know Canon SDK is notoriously finicky & weird. Alternatives? 
+   * Have facility with programming enough to use tools & libraries in oF & processing with facility and start creating own tools/programs. 
+   * Learn enough about programming & scripting to automate tedious tasks in CG, photography, photogrammetry, 3D scanning etc.
+   * Have enough information to be able to sketch in the browser. Load OBJ's, basic scenes etc.
+   * 
+ * Pie-in-the-sky technical wishes:
+   * Develop/adapt tools to do: 
+     * Coded aperture photography
+       * http://groups.csail.mit.edu/graphics/CodedAperture/
+     * Synthetic aperture
+     * A project exploiting Helmholtz reciprocity [the notion of a projector as inverse-camera & visa versa]  
+     * Lightfield/plenoptic-type refocusing etc from camera arrays. 
+     * Represent LIDAR or other pointcloud datasets programmatically. 
+   *  
+ * Understand the rudiments of:
+   * Programming & computation.
+   * What happens in a digital camera from capture to image compression.
+   * Learn the basics of graphics
+
+Projects that (whimsically) came to mind prior to the course:
+   * Create landscape/reliefs by using photo forensic software and mapping ELA (or other alterations) to elevation. Apply to various images, sets and make various 'landscapes of manipulation.'
+     * http://www.getghiro.org/ 
+   * Create a camera that retrieves the image search result for the image you take, discards your image and presents the first search result in its place.
+   * An image search video process – perform image search + crop to match for every frame of an image sequence. 
+   * Make sequences (CG or generative) that convey the physical reality of 'materials intensity' & material throughput in our lives. Translate data about C02 consumption, materials use, waste etc. and make animations to visualize them. Ie: calculate actual C02 used during the course of a year and animate it falling at human scale.
+   * Attempt to illustrate the odd similes used to put things in scales we can understand. For example (made up): the number of water bottles used per month would fill the empire state building. Could VR or animation overcome cognitive biases that prevent us from comprehending & comparing large numbers or minute risks?
+     * http://rationalwiki.org/wiki/List_of_cognitive_biases
+   * Implement techniques from microscopy for scanning at a human level for computational portraiture? 
+     * 3D from EDF via focus stacking – http://bigwww.epfl.ch/demo/edf/
+   * Make 'found data' renderings using my collection of publicly available SLAM datasets. 
+
+Notes & Quotes:
+ * [Experimental photographers] are in fact consciously attempting to create unpredictable information, i.e. to release themselves from the camera, and to place within the image something that is not in its program. They know they are playing against the camera. Yet even they are not conscious of the consequence of their practice: they are not aware that they are attempting to address the question of freedom in the context of apparatus in general.
+ * VILÉM FLUSSER from Towards a Philosophy of Photography
+
+Resources
+ * Text
+ * PIXEL PERFECT | The scientist behind the digital cloning of actors.
+ * http://www.newyorker.com/reporting/2014/04/28/140428fa_fact_talbot
+
+ * Program Or Be Programmed
+   * Is this paradigm useful as applied to camera/vision tech? 
+
+ * Misc
+ * Camera exploitation:
+*
+
+ * Magic Lantern Scripting:
+ * http://www.magiclantern.fm/forum/index.php?board=5.0
+*
+
+ * Method for extraction and presentation of image content from captured wireless traffic
+   * http://julianoliver.com/output/log_2014-04-23_21-12
+     * Tried to implement it (unsuccessfully) 
+ * Eyefi hacking [ attn: Jonathan Dahan ] 
+   * http://magiclantern.wikia.com/wiki/Eye-Fi
+   * http://dave-hansen.blogspot.com/2007/12/new-eyefi-card.html
+   * http://hackaday.com/?s=eyefi
+Diary
+ * 20140424
+   * We did some work with the terminal & interacting with existing APIs using Processing. 
+     * Make a repository for some of this code. 
+     * Learn how to scrape down images off arbitrary pages.  
+
+   * I worked a bit with scott trying to make sense of some ofxAddons with the intention of learning a bit about 3D & eventually making a demo to visualize environmental usage data at a 'human scale.' I found it to be very useful to work with someone else who is at around the same level of understanding to make sense of code. We found that just using xcode and getting the code to run accounted for ~75% of the time spent. But it was very exciting to start seeing things in 3D. Scott is an architect & I think spatially so I think we both found it useful to start drawing in 3D to understand principles. 
+   *  
+ * 20140425
+   * I'm wondering about the best way to get something useful & lasting out of this incredibly brief period. Overnight I had some 'buyers remorse' in regards to the amount of time I've put aside for this and felt a deep concern about making the experience useful. I'm well aware that the responsibility lays with me so I'm working out ways to refine my experience here to get what I need. I think that that will come by reductively limiting my cognitive input – I'm finding that doing a sort of 'drive by' on a lot of these practices & techniques is incredibly beneficial in that I'm able to sort out what I don't want to be working on. 
+
+   * I have an existing community, references, resources etc. and I'm finding that in my work it's becoming increasingly important to limit and dig deep rather than skimming new materials. To that end I think it will be important to focus on two areas: refining my ideas in relation to my existing work & practice & use the presence of expertise to jump into projects that are outside my current range of expertise. 
+   * 
+   * The efforts I'm starting to focus on in order to make this practical for me are the following: 
+         * Shutting myself into a room to read & diagram about my topics of interest and the reasons for my practice. 
+           * Mapping out my references, bibliography and arguments.
+ * 
+         * Implementing some of the techniques that I've been wanting to work on as learning foils.
+           * A camera that returns the top google image (tinEye?) result in place of the image you took. 
+           * A 'dataviz' project re: materials intensity. 
+             * Creating a 'life-sized' experience of materials intensity. 
+           * Teaching methods for computer vision techniques. 
+             * SfM/photogrammetry/optical flow with string? etc.
+           * EDF/Defocus-based scanning 
+             * Using magic lantern focus stepping + imageJ to make depth maps. 
+           * Visualizing SLAM datasets for 'found model' fly-throughs of robotics labs etc. 
+           * Use a GL interceptor to get data out of google earth/OS X Maps apps. 
+             * Reconstruct the results if poss?
+   * 
+

@@ -1,0 +1,36 @@
+GitHub
+SfPC's - https://github.com/sfpc
+
+Git vs. GitHub
+ * Git is just a way to track all changes
+ * GitHub is a location that stores your code and keeps track of its iterations with versioning
+
+GitHub terminology
+ * init - starting a new project
+ * add - adding a file will put it in staging, not committing to a branch 
+ * commit - putting new code into a project 
+ * branch - new repo of files
+ * in command line "ls al" - show all the git files 
+ * fetch - grab the changes from the server but don't merge them with my local files
+ * pull - it's a fetch plus a merge, it will update your files with the latest version
+ * reset - this will revert you to an earlier version
+
+Getting started with 'Git' in Terminal
+ * cd to the folder you want to use to store the code 
+ * type 'git init'
+ * after you have files that you want to be tracked by version control, type 'git status' to see what is not commited
+ * you can add files with 'git add textfile.txt' *where 'textfile.txt' is the file name of what you want to add to the project
+   * 'git add .' will add all files
+ * type 'git commit' to commit the file
+
+Getting started with GitHub
+ * create a new repository and grab the URL
+ * choose how to move files over 
+   * push from command line or upload files from your machine
+   * can also use 'SourceTree' if you want to work with a GUI and not terminal (also shows diff)
+ * push files over but be mindful to make sure you have the latest version locally. If not you will get an error message for a 'merge conflict' and you will need to resolve the changes.
+   * in 'SourceTree' you can also use the UI to choose which version to use or mark as resolved
+
+I have this bookmarked, maybe it could be useful for others: http://rogerdudler.github.io/git-guide/
+
+

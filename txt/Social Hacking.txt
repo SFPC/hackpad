@@ -1,0 +1,212 @@
+Social Hacking
+Kyle McDonald
+Appropriating New Technologies: https://github.com/kylemcdonald/AppropriatingNewTechnologies
+Lauren McCarthy
+https://github.com/lmccart/AppropriatingInteractionTechnologies
+
+*
+*
+ * Social Glitch - Assignments
+   * Being in New York, most people were ok with it.
+   * Counting the phone made me hyperaware.
+     * Strange anxiety about going on facebook.
+   * What would it be like if every time you go to another webpage you do a push up.
+   * Found the first assignment very difficult.
+     * I think its really hard to totally violate societal norms.
+   * Switching Phones for a Day
+     * Was responding with some of his text messages.
+       * Someone texted him hello social hacker.
+   * Given a stranger some clear directions of how to use my phone.
+   * Tweeted a .
+     * In retrospective should have tweeted a space.
+ * Posing as someone else, not look like someone, maybe have a vague resemblance to how the person talks.
+ * Firs day reading about Experiments.
+   * Excuse Me May I have your Seat.
+*
+     * Allows you to see what the structures in culture.
+     * Why do we do this work are we just trying to fuck with people.
+       * Shows how many ways we limit ourselves in interactions and technologies what is beyond that.
+         * Creating norms that more interesting, genuine and connected.
+       * Social constraints in different situations.
+         * Have greater appreciation for why structures are in place.
+       * Trying to get to the same level of realization that Robert Wong achieved at age ten.
+NYC Etiquette
+*
+ * http://www.wisebread.com/nyc-basic-tips-and-etiquette
+Using and misusing technologies
+ * Point to and guide to libraries.
+ * More of a survey.
+__________________________________________________________
+Appropriating interaction technologies.
+ * Understanding from a computational perspective social interactions.
+*
+
+ * Github
+   * https://github.com/lmccart/AppropriatingInteractionTechnologies
+ * Golan Levin
+   * http://www.flong.com/texts/essays/essay_cvad/
+   * Interactive art and computational design.
+     * http://golancourses.net/2013/lectures/lecture-02-25/
+     * http://golancourses.net/2013/
+     * Lecture 2-25
+ * Face Tracking
+*
+   * https://github.com/kylemcdonald/AppropriatingNewTechnologies/wiki/Week-2
+   * Computer Vision: Algorithms and Applications
+   * Richard Szeliski: University of Washington
+ * What is computer vision? #question
+   * A broad class of algorithms.
+   * 1969 Myron Kruger Video-place
+*
+http://www.youtube.com/watch?v=dqZyZrN3Pl0
+ * Suicide Box
+   * http://www.bureauit.org/sbox/
+*
+ * Christian Mueller
+   * http://christianmoeller.com/Cheese
+*
+   * http://vimeo.com/5435430
+ * Faces are what we are tuned to see.
+     * Few Types
+       * Detection
+         * Boxes around the face.
+       * Face Recognition, which face are you looking at.
+       * FAce tracking watching something over time, contours and motions.
+   * Look at it from a different perspective it is no longer the face.
+   * Chernoff Faces
+   * GIthub Example
+     * http://auduno.github.io/clmtrackr/face_deformation_video.html
+   * History of Face Tracking
+     * Late 60s.
+     * 8 years between academic and artist, to play with computer vision.
+     * The turn over time is much less now a days.
+*
+   * http://www.youtube.com/watch?v=xUiAOWAmIls
+   * Superbowl in Tampa
+*
+     * Screenshot Visionics
+       * Repercussions of this system.
+       * Tracked their faces 
+       * Can tell the difference between twins.
+         * http://www.cse.nd.edu/~kwb/PhillipsEtAlFG_2011.pdf
+         * Can see smaller feature that your eyes can see.
+         * For large databases its less accurate.
+           * Not because of the algorithms, but because of the quality of the photos.
+     * Government Database
+       * https://www.eff.org/deeplinks/2014/04/fbi-plans-have-52-million-photos-its-ngi-face-recognition-database-next-year
+*
+*
+     * Face Recognition Study CMU
+       * 2009 an algorithm that would take public available data and create your social security number.
+         * http://www.heinz.cmu.edu/~acquisti/face-recognition-study-FAQ/
+         * Supposed to be something that no ones knows.
+         * If someone has that number they can become you.
+       * 2011, used the same algorithm but implementing a camera, and from the camera they can get someone's social security number.
+Science of the face
+   * https://github.com/kylemcdonald/AppropriatingNewTechnologies/wiki/Week-2
+   * Once you have access to these algorithms you have access to interesting applications.
+     * Haar Detection
+       * *
+     * Active Appearance Models.
+       * *
+     * New tools to do biometrics on faces.
+ * FaceOSC
+   * http://facetracker.net/downloads/
+*
+   * All of this data is transported through OSC.
+   * Osculator
+     * Will show you all of the data coming from faceOSC.
+     * You can tell from osculator what all the different data is.
+     * Once you have this data you can start making simple applications using the face.
+ * CLMTracker
+   * https://github.com/auduno/clmtrackr
+*
+   * Take any expression I'm making and amplifies it.
+
+ * OpenCV for Processing
+   * https://github.com/atduskgreg/opencv-processing
+
+*
+
+ * ofXCV
+   * https://github.com/kylemcdonald/ofxCv
+ * CVJit
+   * http://jmpelletier.com/cvjit/
+
+Linguistic Analysis
+*
+ * LIWC 
+   * James Penna
+   * http://www.liwc.net/
+   * Linguistic Inquiry and word count.
+   * Works better for large datasets.
+   * WHen you are looking at short text the context shifts.
+   * Haven't found any academic papers on sarcasm.
+   * LSM Linguistic Style Matching
+     * Who is more aggressive, Who is less aggressive.
+     * Analyse similarities.
+     * People who are balanced have a made more connected conversations
+     * Test to see what the outcome of the conversation is going to be.
+     * Running Linguistic Style Matchin on negotiators in hostage situations.
+     * Used to analyze products or campaigns.
+     * Major business running this type of analysis on twitter and facebook.
+ * US+
+   * An app that analyses your speech.
+*
+   * http://vimeo.com/81903116
+   * Semantic Sabotage
+     * http://sabotage.sosolimited.com/
+*
+
+Sentiment Analysis
+*
+
+Security Privacy and Surveillance
+*
+ * http://www.youtube.com/watch?v=bLlj_GeKniA
+ * Media Art Side and Contemporary Art Side
+ * https://github.com/lmccart/AppropriatingInteractionTechnologies
+ * *
+ * 
+   * What is permissible for other people to own.
+ * Vito Acconci
+   * Performance artist and Architect
+   * Very subtle boundary between what is private and public.
+ * Jill Magid
+   * Evidence Locker
+     * http://www.jillmagid.net/EvidenceLocker.php
+   * System Azure
+     * http://www.jillmagid.net/SystemAzure.php
+ * Sophie Calle
+   * http://hosting.zkm.de/ctrlspace/e/works/10
+*
+ * Work within the existing system, and subvert the system.
+ * The Surveillance Camera Players
+     * http://www.notbored.org/the-scp.html
+     * *
+   * How can you take control about what information do you want to share?
+   * How can you be and still be safe and be private society.
+   * What if all of your information was public, but not something they control.
+   * Does society function better if we know the truth about each other.
+ * Man Barlett
+   * http://www.manbartlett.com/
+ * OSX
+   * tcpdump
+     * tcpdump in processing
+   * airport tool
+
+Surveillance Cameras hacks
+24.ghz
+http://www.recyclism.com/twopointfour.php
+
+*
+
+ip Cameras - usually open access
+http://www.opentopia.com/
+
+WiFi Network database:
+https://wigle.net/
+
+
+
+

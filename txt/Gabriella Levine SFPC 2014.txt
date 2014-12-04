@@ -1,0 +1,69 @@
+Gabriella Levine SFPC 2014
+*
+ * Hardware and Technologist
+ * Went to ITP where I met the community.
+ * Have done a variety of installation work.
+ * A lot of the work I do is bio inspired,come from bio research.
+   * Biometric Design, taking cues from Biology
+ * Use different algorithm to propagate motion.
+ * Robotic snake
+   * Looking at how snakes move and articulate
+   * Figuring out how the wiring goes.
+   * Trying to optimize the shape.
+   * Different motions when the move through the water.
+   * Wanted to have these snakes in the water collecting data but now focusing more on the motion.
+   * Want to get to pint where I can make these cheaply and fast and start iterating on prototype.
+*
+https://vimeo.com/87251712
+
+Philip Beasly
+ * Entire rooms filled with Micro sensors that interact.
+ * http://www.philipbeesleyarchitect.com/
+*
+
+Natalie Jeremmijenko
+ * Robotic Geese
+ * http://en.wikipedia.org/wiki/Natalie_Jeremijenko
+*
+
+Modularity
+ * Cubelets
+   * Modular Robotics
+*
+http://www.youtube.com/watch?v=4EDsLayRKQA
+
+Protei
+http://gabriellalevine.com/PROTEI
+https://vimeo.com/66844355
+ * Open source shape shifting sailing robot.
+ * The boat actually moves like a snake.
+
+Floating Point
+ * Design studio in Green Point.
+   * A lot of it has to so with how people move in space.
+ * Currently at Residency at Instructables
+   * Public Sculpture
+   * Social Right Activist Sculpture.
+
+Intro to Biometric Design Concepts
+*
+ * Slides
+   * https://www.dropbox.com/sh/g5hc70gtuu4xqfj/CCVhXtEK0n
+ * Biomimicry
+   * http://en.wikipedia.org/wiki/Biomimetics
+*
+
+*
+ * How do cockroaches and geckos run of the top of the ledge.
+ * Students at Berkley created a robot the could go upside down.
+ * http://blogs.discovermagazine.com/notrocketscience/2012/06/06/cockroaches-and-geckos-disappear-by-swinging-under-ledges-and-inspire-robots/#.U1q1XeZdU8U
+Cradle to Cradle
+*
+
+   * William McDonough
+     * http://www.mcdonough.com/
+*
+   * http://www.ted.com/talks/william_mcdonough_on_cradle_to_cradle_design
+
+Cybernetics and Cyborgs
+

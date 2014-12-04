@@ -1,0 +1,33 @@
+# Iron Blogger
+
+In an Iron Blogger challenge, each entrant contributes $10 to the pot. Then whoever manages to blog ... say 5x each week moves on to the next round. Last person standing gets the cash. Wanna play?
+
+Thinking we can start tracking from <s>... today?  </s> Next week. noo. lets try this week! 
+
+Great challenge, I'll def. be in if it starts next week
+
+I'm in (zan) - [](http://sfpc.zanarmstrong.com/)http://sfpc.zanarmstrong.com/
+
+I'm in - (lauren) - [](http://solutionizing.tumblr.com/)http://solutionizing.tumblr.com/
+
+I'm in - meghana - [](http://mkhandekar.tumblr.com)http://mkhandekar.tumblr.com
+
+Sarah's blog: [](http://essays.sarahgp.com/)http://essays.sarahgp.com/
+
+I'm in (Jonas) - <s>Need a blog</s> [](http://halfdanj.github.io/)http://halfdanj.github.io/
+
+*   Try Jekyll [](http://jekyllrb.com/)http://jekyllrb.com/ [Jonas Jongejan](/ep/profile/DSJ4bUjGZcw) 
+*   I'm using Wintersmith, also a static site generator for node. Pretty cool -> wintersmith.io
+*   Both really cool! Thanks
+
+ohmygod. im not sure if I can do 5x post/ week but i might try... ohhh... or not...ohh maybe..... (Taeyoon)
+
+okay my blog is [here](http://tchoi8.github.io/) and the first [posting.](http://tchoi8.github.io/blog/2014/10/07/SFPC-1.html )..  
+
+*    I'm also not sure if I can do 5x/ week. weekly posting like this first posting might make more sense for me. happy to participate in anyway.. and like Zach D suggested yesterday, maybe we can make a newspaper/ reader where all these postings can be read in one place. 
+*   Also if our all have [](https://disqus.com/)https://disqus.com/ installed, so ppl in different platform can comment and as well, it will be nice 
+**    Nooooo. Dooooo eeeeet. You can even just post a gif!
+
+*   I'm in - [](http://www.franc.ly/)http://www.franc.ly/ and then click on writing (my site is kind of a mess right now, but soon it'll be www.franc.ly/articles)
+
+i'll be posting once a week at [](http://zachdunham.com/talk)http://zachdunham.com/talk - maybe i can referee or something :) 

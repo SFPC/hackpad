@@ -1,0 +1,77 @@
+YOYO's project stack
+
+*Technical question
+ * learn openGL and shader language
+ * -http://glsl.heroku.com/e#15037.0 (this web site provides cool stuff for glsl fragment shader code)
+ * -http://www.openframeworks.cc/tutorials/graphics/shaders.html (basic lecture for glsl)
+ * -http://www.cs.unh.edu/~cs770/docs/glsl-1.20-quickref.pdf (quick reference of GLSL)
+ * -https://github.com/jasonlevine/glsl-workshop (examples that Jason,sfpc alumni,made for glsl workshop)
+ * http://wgld.org/d/webgl/w044.html (japanese page)
+ * how to use FBO
+ * -I have been trying to put video input to sphere in GLSL.
+ * my code seems somthing working now but it is not really going well.
+ * 
+ * how to set up xbee on arduino
+ * -I want to make wirless sensor network for sending data to oF. 
+ * how to send signal from openframeworks to Max
+ * 
+ * how to use arduino from openframeworks
+ * -I want to use sensors to reflect my animetion on oF project. it is like 3D motion sensor to move box in screen.
+ * -Firm hlped me with this. 
+ * -https://github.com/firmread/ofArduinoExamples (this is very simplified example that firm made for easily use arduino with oF.)
+ * aggressively tick that out for you since we did do this together :P
+ * it worked well. thanks!
+ * Audio analysis
+   * there is better addon to do this?
+   * or better Algorithm?
+ * can you also share some conceptual/ design/ story oriented questions here too? thanks
+ * yes of course,I am trying to relate these technical questions to my project I am working on 
+
+
+Audio input to change (generate) Shapes in oF
+idea
+audio analysis https://www.youtube.com/watch?v=nhUS2EZbj6g
+
+things to use for this project
+ * openframeworks(for graphic)
+   * addons
+     * shader
+necessary knowledge, question
+ * GLSL
+ * how to make shapes with oF?
+ * how to analysis sound.?
+   * there are better audo analysis addons for openframeworks or external softwares?
+input
+ * audio input (built-in maicrophone?)
+output
+ * graphic
+   * when sound of lavel changes, shapes get bigger.
+   * when sound of tone changes, types of shapes and color change.
+
+
+Google Street Sound
+Walk around in NYC with sound (by controling with 3d accelerator)
+idea 
+I think that the sound in NYC is characteristic to me. I mean there are sounds of taxi, people talking, subway.....
+I always imagine that I can walk around with characteristic sound in NY
+*
+
+1 record sound in NYC with location data
+2 put sound data to oF project
+3 explore NYC by controling the device which sends location
+4 you can hear any sounds depending on your location.
+
+things to use for this project
+it's kind of similar to previous project.
+ * openframeworks
+ * arduino?
+necessary knowledge to get done this work and questions
+ * how to record sounds including location data
+input
+ * iphone(accelerometer)
+ * arduino(accelerometer)
+output
+ * sound from iphone
+
+
+
