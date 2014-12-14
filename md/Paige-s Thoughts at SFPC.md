@@ -1,8 +1,9 @@
 # Paige's Thoughts at SFPC
 
 **GOALS CHECKLIST:**
-<ul class="task"><li>blog consistently (goal is every day a week)</li>
-<li>get more familiar with web development: ex) customize github blog</li>
+
+*   blog consistently (goal is every day a week)
+<ul class="task"><li>get more familiar with web development: ex) customize github blog</li>
 
 *   create new portfolio site hosted on github
 *   get comfortable with javascript
@@ -10,8 +11,10 @@
 
 *   learn more processing - chapter a week with other students
 *   get comfortable with d3
+
 *   get comfortable with open frameworks
 *   make lots of little things
+
 *   make one big thing
 
 *   teach something to someone
